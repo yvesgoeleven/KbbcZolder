@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>{{page.title}}</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="{{page.description}}">  
+    <meta name="keywords" content="{{page.keywords}}">
+	
+    {{#if page.preload_js}}
+		{{#each page.preload_js}}
+            <script src='/js/{{this}}.js' type="text/javascript"></script>
+		{{/each}}
+    {{/if}}
+
+    <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=muli" />
+    <link href="/css/bootstrap.min.css" rel="stylesheet" media="screen" type="text/css">
+	<link href="/css/layout.css" rel="stylesheet" media="screen" type="text/css">	
+	<link href="/css/theme.css" rel="stylesheet" media="screen" type="text/css">
+	
+	{{#if page.custom_css}}
+		{{#each page.custom_css}}
+	<link rel="stylesheet" href="/css/{{this}}.css" media="screen" type="text/css">
+		{{/each}}
+	{{/if}}
+	
+  </head>
+  <body>
+ 	
+	{{>content}}
+	
+  </body>
+  
+  {{>scripts}}
+  {{#if page.custom_js}}
+		{{#each page.custom_js}}
+   <script src='/js/{{this}}.js' type="text/javascript"></script>
+		{{/each}}
+  {{/if}}
+  <!-- <script src='/js/start.js' type="text/javascript"></script> -->
+  {{#if page.async_js}}
+		{{#each page.async_js}}
+   <script async defer src='{{this}}.js' type="text/javascript"></script>
+		{{/each}}
+  {{/if}}
+  
+</html>

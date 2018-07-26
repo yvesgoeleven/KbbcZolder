@@ -1,0 +1,613 @@
+/* navbar */
+.navbar{
+	margin-bottom: 0px;
+	height: 50px;
+}
+.navbar-brand{
+	padding: 0vw 2vw 0vw 0vw;
+}
+.navbar-brand img{
+	width: 8vw;
+	height: 8vw;
+	min-height: 50px; /*same as navbar*/
+	min-width: 50px;
+}
+@media (min-width: 768px) {
+	.navbar {
+		margin-bottom: 3vw;
+	}
+	.navbar-brand img{	
+		margin-top: -1vw;
+	}
+}
+
+@media (max-width: 767px) {
+	#facebook-ico{ display: none; }
+	#twitter-ico{ display: none; }
+}
+@media (min-width: 768px) {
+	#facebook-txt{ display: none; }
+	#twitter-txt{ display: none; }
+	/* buttons */
+	#facebook-ico{
+		background-image: url('../img/social-media-icons.png');
+		background-repeat: no-repeat;
+		background-position: -317px -100px;
+		margin: 10px;
+		width: 25px;
+		height: 25px;
+	}
+	#twitter-ico{
+		background-image: url('../img/social-media-icons.png');
+		background-repeat: no-repeat;
+		background-position: -114px -100px;
+		width: 25px;
+		height: 25px;
+		margin: 10px;
+	}
+}
+
+/* carousel */
+.carousel, .team-photo {
+  height: 70vh;
+  margin-top: -3vw;
+}
+
+.carousel-caption {
+  z-index: 10;
+}
+@media (max-width: 768px) {
+	.carousel-caption h1{
+	  font-size: 2em;
+	}
+	.carousel-caption p{
+	  font-size: 1em;
+	}
+}
+
+/* Declare heights because of positioning of img element */
+.carousel .item, .team-photo {
+  height: 70vh;
+}
+.carousel-inner > .item > img{
+  min-width: 2000px;
+  min-height: 666px;
+  height: auto;
+  width: 100vw;
+  margin: 0 auto;
+}
+
+/* next games section */
+
+#next{
+	
+}
+#next-middle .container{
+	visibility: hidden;
+}
+#next > h2{
+	text-align:center;
+	padding-top: 1vh;
+}
+
+#next-top > .container{
+	position: relative;
+	height: 12vh;
+}
+
+#next-top-border{
+	height: 6vh;
+	position: absolute;
+	bottom: 1vh;
+	left: 0;
+	right: 0;
+	text-align: center;
+}
+#next-top-title{
+	text-align: center;
+	margin-top: -4vh;
+	padding: 0 65px;
+	display: inline-block;	
+}
+#next-top-title span{
+	font-size: 3vh;
+	line-height: normal;
+	padding-top: 0px;
+	padding-bottom: 0px;
+}
+#next-middle  > .container{
+	height: 8vh;
+	line-height: 8vh;
+	position: relative;
+	display: flex;
+    justify-content: space-between;
+}
+#next-vs{
+	display: inline-block;
+	font-size: 3vh;	
+	text-align: center;
+}
+#next-home-team, #next-away-team{
+	display: inline-block;
+	margin-top: -4vh;
+	z-index: 10;
+}
+#next-home-team-logo img, #next-away-team-logo img{
+	padding: 1vw;
+	width: 16vh;
+	height: 16vh;
+	min-height: 50px; /*same as navbar*/
+	min-width: 50px;
+}
+#next-bottom{
+	
+}
+#next-bottom > .container{
+	position: relative;
+	height: 13vh;
+}
+#next-bottom-border{
+	height: 6vh;
+	position: absolute;
+	top: 1vh;	
+	left: 0;
+	right: 0;	
+	text-align: center;
+}
+#next-bottom-title{
+	text-align: center;
+	margin-top: 3vh;
+	padding: 0 65px;
+	display: inline-block;
+	background-color: #fff;
+}
+#next-bottom-title span{
+	font-size: 3vh;
+	line-height: normal;
+	padding-top: 0px;
+	padding-bottom: 0px;
+}
+
+/* link to all matches */
+#all-matches{
+	margin-bottom: 3vw;
+}
+#all-matches a{
+	font-size: 2vh;
+}
+
+/* partner section */
+
+#partners-top{
+	padding: 2vh;
+	text-align: center;
+}
+
+#partners{
+	margin-bottom: 2vh;
+}
+
+
+#partners ul{
+	display: block;
+	margin: 2vh auto;
+	padding: 0;
+	white-space:nowrap; 
+	overflow-x:hidden;
+}
+#partners ul li{
+	display: inline;
+}
+#partners ul li img{
+	height: 6vh;
+	min-height: 50px;
+	padding: 1vh 3vw;
+}
+@media (max-width: 480px) {
+	#partners ul li:nth-child(n+5){
+		display:none;
+	}
+}
+@media (min-width: 481px) {
+	#partners ul li:nth-child(n+6){
+		display:none;
+	}
+}
+
+.partners ul {
+	-moz-column-count: 1;
+	-webkit-column-count: 1;
+	column-count: 1;
+    -moz-column-gap: 2vw;
+    -webkit-column-gap: 2vw;
+    column-gap: 2vw;
+}
+
+.partners li{
+	list-style-type: none;
+}
+
+.partners img{
+	width: 60vw;
+	height: auto;
+	margin: 2vh;
+}
+
+
+@media (min-width: 481px) {
+	.partners ul {
+		-moz-column-count: 2;
+		-webkit-column-count: 2;
+		column-count: 2;
+	}
+	
+	.partners img{
+		width: 30vw;
+	}
+}
+
+@media (min-width: 768px) {
+	.partners ul {
+		-moz-column-count: 4;
+		-webkit-column-count: 4;
+		column-count: 4;
+	}
+	
+	.partners img{
+		width: 10vw;
+	}
+}
+
+
+
+/* news */
+#news h2{
+	text-align: center;
+	padding-top: 1vh;
+}
+
+#news > .container > div {
+    margin: 1vh 0;
+    padding: 1vh 1vw;
+}
+
+/* posts */
+.posts, .post, .content{
+	min-height: calc(70vh - 70px);	
+	padding-top: 2vh;
+	margin-bottom: 6vh;
+}
+.post table{
+	border-collapse: collapse;
+	width: 100%;
+}
+.post img{
+	max-width: 100%;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.post .comment{
+	margin-top: 4vh;
+}
+
+/* news-letter */
+
+#news-letter{
+	min-height: 16vh;
+	display:flex;
+}
+#news-letter > div{
+	margin:auto;
+}
+
+/* map */
+#map-holder{
+	
+	margin: 4vh 0;
+	position: relative;
+}
+#map {
+	height: 40vh;
+}
+@media (max-width: 767px) {
+	#map {
+		width: 100vw;
+	}
+	#map-info{
+		text-align: center;
+	}
+}
+@media (min-width: 768px) {
+	#map-holder{
+		height: 40vh;
+		display: flex;
+		overflow: hidden;
+	}
+	#map {
+		width: 70vw;
+	}
+	#map::after {
+	  content: '';
+	  position: absolute;
+	  top: 0;
+	  bottom: 0;
+	  right: -165px;
+	  width: 330px;
+	  -webkit-transform: skewX(-33deg);
+	  -khtml-transform: skewX(-33deg);
+	  -moz-transform: skewX(-33deg);
+	  -ms-transform: skewX(-33deg);
+	  transform: skewX(-33deg);
+	  z-index: 0;
+	}
+	#map-info{
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+		text-align: right;
+	}
+}
+
+/* mini-map */
+#mini-map{
+	margin: 4vh 0;
+	height: 20vh;
+}
+
+/* footer */
+#footer{
+	margin-top: 6vh;
+}
+
+/* dashboard */
+.dashboard{
+	display: flex; 
+	/* flex-direction: row; */
+	flex-flow: row wrap;
+	justify-content: flex-start;
+}
+
+@media (min-width: 768px) {
+	.pane{
+		/* flex-grow: 0;
+		flex-shrink: 0; */
+		flex-basis: 50%;
+	}
+}
+.pane.large{
+	flex-basis: 100%;
+}
+
+.border{
+	 /* padding: 5px;  */
+}
+
+.dashboard h2{
+	margin: 0;
+	padding: 0;	 
+}
+.dashboard table{
+	width: 100%;
+}
+
+.dashboard .tiles{
+	display: flex; 
+	flex-flow: row wrap;
+	justify-content: center;	
+}
+.dashboard .tiles .tile{
+	flex-grow: 0;
+	flex-shrink: 0;
+	margin: 0px 5px 10px 5px;
+	text-align: center;
+	min-height: 250px;
+	position: relative;
+}
+.dashboard .tiles .tile{
+	flex-basis: 30%;
+	display: flex;
+	flex-direction: column; 
+	justify-content: flex-end;
+}
+
+.dashboard .tiles .tile .tile-description{
+   width: 100%;
+   flex-grow: 0;
+   flex-shrink: 0;
+}
+
+
+.centered-content{
+	text-align: center;
+}
+.centered-content img{
+	margin: 20px;
+}
+.absolute-centered-flex {
+  align-self: center;
+}
+
+.detail{
+	display: none;
+}
+
+.players .tiles{
+	min-height: 30vh;
+}
+.staff .tiles{
+	min-height: 20vh;
+}
+
+.columns{
+	display: flex;
+	flex-direction: column;
+}
+@media (min-width: 768px) {
+	.columns{
+		flex-direction: row;
+		justify-content: center;
+	}
+}
+
+table{
+	display: table;
+}
+.full-width{
+	width: 100%;
+}
+table.space-around {
+	margin: auto;
+    width: calc(100% - 1vw);
+}
+
+.calendar-table
+{
+	width: 100%; 
+	display: none;
+}
+
+.calendar-calendar{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;	
+}
+.day{
+	min-height: 720px; /*.5 per minute*/
+	margin: .1vw;
+	text-align: center;
+	display: none;
+	flex-direction: column;	
+}
+.calendar-items{
+	flex: 1;
+	display: flex;
+	flex-direction: column;
+	position:relative;
+}
+.calendar-item{
+	/* position:absolute;
+	width: 100%; */
+	
+	text-align: center;
+}
+@media (min-width: 768px) {
+	.calendar-calendar{
+		flex-direction: row;		
+	}
+	.day{
+		/* max-width: 30vw; */
+		flex: 1;
+	}
+}
+
+/* responsive table */
+.responsive-table td, .responsive-table th, .calendar-header{
+	padding: 6px;
+}
+@media 
+only screen and (max-width: 760px),
+(min-device-width: 768px) and (max-device-width: 1024px)  {
+
+	/* Force table to not be like tables anymore */
+	.responsive-table table, .responsive-table thead, .responsive-table tbody, .responsive-table th, .responsive-table td,.responsive-table tr { 
+		display: block; 
+	}
+	
+	/* Hide table headers (but not display: none;, for accessibility) */
+	.responsive-table thead tr { 
+		position: absolute;
+		top: -9999px;
+		left: -9999px;
+	}
+
+	.responsive-table td { 
+		/* Behave  like a "row" */
+		position: relative;
+		padding-left: 50%; 
+	}
+	
+	.responsive-table td:before { 
+		/* Now like a table header */
+		position: absolute;
+		/* Top/left values mimic padding */
+		top: 6px;
+		left: 6px;
+		width: 45%; 
+		padding-right: 10px; 
+		white-space: nowrap;
+	}
+	
+	/*
+	Label the data
+	*/
+	#calendar-table td:nth-of-type(1):before { content: "Code"; }
+	#calendar-table td:nth-of-type(2):before { content: "Datum"; }
+	#calendar-table td:nth-of-type(3):before { content: "Tijd"; }
+	#calendar-table td:nth-of-type(4):before { content: "Thuis"; }
+	#calendar-table td:nth-of-type(5):before { content: "Uit"; }
+	#calendar-table td:nth-of-type(6):before { content: "Accomodatie"; }
+
+	#events-table td:nth-of-type(1):before { content: "Datum"; }
+	#events-table td:nth-of-type(2):before { content: "Evenement"; }
+}
+
+.actions{
+	text-align: right;
+}
+
+/* responsive form */
+.responsive-form td, .responsive-form th{
+	padding: 6px;
+}
+@media 
+only screen and (max-width: 760px),
+(min-device-width: 768px) and (max-device-width: 1024px)  {
+
+	.responsive-form td, .responsive-form th{
+		padding: 0px;
+	}
+
+	/* Force table to not be like tables anymore */
+	.responsive-form table, .responsive-form thead, .responsive-form tbody, .responsive-form th, .responsive-form td,.responsive-form tr { 
+		display: block; 
+	}
+	
+	/* Hide table headers (but not display: none;, for accessibility) */
+	.responsive-form thead tr { 
+		position: absolute;
+		top: -9999px;
+		left: -9999px;
+	}
+
+	.responsive-form td { 
+		/* Behave  like a "row" */
+		position: relative;
+	}
+	
+	.responsive-form td:before { 
+		/* Now like a table header */
+		position: absolute;
+		/* Top/left values mimic padding */
+		top: 6px;
+		left: 6px;
+		width: 45%; 
+		padding-right: 10px; 
+		white-space: nowrap;
+	}
+
+}
+
+.table-indicator{
+	position: absolute;
+	right: 0;
+	bottom: 0;
+}
+
+.allocated-list{
+	min-height: 10px;
+}
+
+#option-statistics-table{
+	margin-top: 2vh;
+}
