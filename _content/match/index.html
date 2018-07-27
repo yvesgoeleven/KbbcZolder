@@ -1,0 +1,86 @@
+---
+layout: page
+title: Basket Lummen
+description: Basket Lummen
+keywords: Basket, Lummen, Matches
+custom_js:
+- match
+async_js:
+- https://maps.googleapis.com/maps/api/js?key=AIzaSyBesDse5XU1BASBA_G4RqjjsdUp2CQvqp4&libraries=places&callback=initMap
+---
+
+<div id="next">	
+		<h2 id="poule"></h2>						
+		<div id="next-top">				
+			<div class="container">					
+				<div id="next-top-border">
+					<div id="next-top-title"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></div>
+					<!-- <div id="next-day">Zaterdag</div> -->
+				</div>
+			</div>
+			
+		</div>
+		<div id="next-middle">
+			<div class="container">
+				<div id="next-home-team"><div id="next-home-team-logo"><img src="" /></div></div>
+				<div id="next-vs">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
+				<div id="next-away-team"><div id="next-away-team-logo"><img src="" /></div></div>
+			</div>
+		</div>
+		<div id="next-bottom">
+			<div class="container">
+				<div id="next-bottom-border">
+					<!-- <div id="next-hour">10:00</div> -->
+					<div id="next-bottom-title">
+						<!--<span>11 Maart | 10:00</span>-->
+						<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+					</div>
+				</div>
+			</div>
+		</div>			
+</div>
+
+<div id="map-holder">
+	<div id="map" ></div>
+	<div id="map-info">
+		<h2 id="acc-name"></h2>
+		<p><b id="acc-address"></b></p>
+		<p id="acc-telephone"></p>
+		<p  id="acc-web"></p>
+	</div>
+</div>
+
+<div class="columns container">
+	<div class="pane space-around centered-content">
+		<h2>Feuille</h2>   
+		<table class="space-around">
+			<tr>
+				<td>Game N°</td>
+				<td id="game-nr"></td>
+			</tr>
+			<tr>
+				<td>Div.</td>
+				<td id="division"></td>
+			</tr>
+			<tr>
+				<td>Mat</td>
+				<td id="mat"></td>
+			</tr>           
+		</table>
+	</div>
+
+	<div class="pane centered-content">
+		<h2>Officials</h2>   
+		<table id="officials" class="space-around">
+					
+		</table>
+	</div>
+
+	<div class="pane centered-content">
+		<h2>Result</h2>   
+		<div class="space-around">
+			<div id="results" class="rank">
+			</div>	
+		</div>
+	</div>
+</div>
