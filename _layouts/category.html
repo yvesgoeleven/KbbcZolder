@@ -1,0 +1,21 @@
+---
+layout: page
+---
+<div id="posts" class="posts">
+	<div class="container">	
+	{{>content}}
+	
+	{{#each pager.Posts}}
+		<div>
+			<a href="{{this.Permalink}}"><h3>{{this.Title}}</h3></a>
+			<p>{{this.Date}}</p>
+			<p>{{this.Excerpt }}</p>
+			<p><a href="{{this.Permalink}}"> Lees meer</a></p>
+		</div>
+	{{/each}}
+	</div>
+	
+	{{>pagination}}
+</div>
+	
+	

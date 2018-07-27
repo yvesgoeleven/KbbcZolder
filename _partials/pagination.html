@@ -1,0 +1,23 @@
+{{#has-pages pager}}
+	<div class="pagination">
+		{{#page-equals pager.PreviousPage null}}
+			<span>&laquo; Prev</span>
+		{{else}}
+			<a href="{{ pager.PreviousPage.Path }}">&laquo; Prev</a>		
+		{{/page-equals}}
+		
+		{{#each pager.Trail }}
+		  {{#page-equals ../pager.CurrentPage this}}
+			<em>{{ this.Number }}</em>
+		  {{else}}
+			<a href="{{this.Path}}" title="{{this.Number}}">{{ this.Number }}</a>
+		  {{/page-equals}}
+		{{/each}}
+		
+		{{#page-equals pager.NextPage null}}
+			<span>Next &raquo;</span>		
+		{{else}}
+			<a href="{{ pager.NextPage.Path }}">Next &raquo;</a>
+		{{/page-equals}}
+	</div>
+{{/has-pages}}

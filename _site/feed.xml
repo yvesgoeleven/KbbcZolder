@@ -3,7 +3,7 @@
   <generator uri="https://www.teamdish.com" version="1.0.0">Dish</generator>
   <link href="/feed.xml" rel="self" type="application/atom+xml" />
   <link href="" rel="alternate" type="text/html" />
-  <updated>2018-07-27T19:08:17.4886936Z</updated>
+  <updated>2018-07-27T19:29:01.8635589Z</updated>
   <id></id>
   <title type="html"></title>
   <subtitle></subtitle>
@@ -73,5 +73,46 @@
       <email />
     </author>
     <summary>Op 2 juni organiseerde we opnieuw ons jaarlijks kleuterfeest.Het is een superleuke dag geworden waarbij de kleuters uit Lummen en omstreken de kans kregen om kennis te maken met onze club.Bedankt coaches om er een leuke namiddag van te maken!Wil</summary>
+  </entry>
+  <entry>
+    <title>Nieuwe Website</title>
+    <link href="/blog/2017-10-18-nieuwe-website/" rel="alternate" type="text/html" title="Nieuwe Website" />
+    <published>2017-10-18T21:00:00.0000000</published>
+    <updated>2017-10-18T21:00:00.0000000</updated>
+    <id>/blog/2017-10-18-nieuwe-website/</id>
+    <content type="html" xml:base="/blog/2017-10-18-nieuwe-website/">&lt;p&gt;2018 en 2019 worden belangrijke jaren in de geschiedenis van Basket Lummen. Het zal namelijk 50 jaar geleden zijn dat respectievelijk de club opgericht werd en dat de we voor een eerste keer deelnamen aan de reguliere competitie. Om deze jaren te vieren zullen er tal van activiteiten en initiatieven ondernomen worden, één van deze initiatieven is een nieuw kleedje voor onze website.&lt;/p&gt;
+&lt;h3&gt;Mobile ready&lt;/h3&gt;
+&lt;p&gt;Eén van de grootste 'klachten' die we over de vorige website kregen, was dat ze niet handig in gebruik was op mobiele telefoons. Ook niet heel verbazend, want ze dateerde nog uit begin 2000 toen er nog geen mobiele telefoons waren.&lt;/p&gt;
+&lt;p&gt;Het nieuwe ontwerp is een zogenaamd 'responsive design', dat zich aanpast aan het formaat van het scherm waarop je de website bekijkt. De website zal daardoor makkelijk in gebruik zijn op zowel mobiele telefoons als op grote schermen, en alles ertussenin.&lt;/p&gt;
+&lt;h3&gt;Wat is er anders&lt;/h3&gt;
+&lt;p&gt;Zo goed als alle informatie op de oude website werd overgenomen op de nieuwe, maar er zijn toch ook heel wat verschillen.&lt;/p&gt;
+&lt;h5&gt;Wedstrijden&lt;/h5&gt;
+&lt;p&gt;Vooral op het gebied van de &lt;strong&gt;wedstrijd kalenders&lt;/strong&gt; zijn er wel wat wijzigingen. In het verleden toonden we letterlijk stukken van de website &lt;a href="http://www.basketbal.vlaanderen/"&gt;basketbal.vlaanderen&lt;/a&gt;, maar nu zal de website uit deze overvloed aan informatie enkel het belangrijkste halen en weergeven.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Volgende wedstrijd&lt;/strong&gt;: Op de homepagina zal de volgende wedstrijd voor één van onze ploegen getoond worden.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Alle wedstrijden deze week&lt;/strong&gt;: Deze kalender weergave toont alle wedstrijden van deze week.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Per team&lt;/strong&gt;: Op de team detail pagina wordt automatisch de volgende wedstrijd weergegeven, verder kan je ook alle toekomstige wedstrijden en reeds gespeeld wedstrijden bekijken.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Wedstrijd detail&lt;/strong&gt;: Via al de bovenstaande weergaves kan je doorklikken naar het wedstrijd detail. Daarop staat al de nodige info over de wedstrijd, inclusief een kaart weergave waar de wedstrijd plaatsvind (zo moet je dat niet meer zelf opzoeken), alsook de informatie die de table officials moeten opnemen in de feuille.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5&gt;News &amp;amp; blog&lt;/h5&gt;
+&lt;p&gt;Deze twee secties zijn bedoeld om informatie te delen met alle leden en sympathisanten van de club. &lt;strong&gt;News&lt;/strong&gt; omvat alle aankondigingen van activiteiten alsook belangrijke boodschappen. &lt;strong&gt;Blog&lt;/strong&gt; omvat meer uitgebreide verhalen over de belevingen binnen de club, zoals bvb de basketba(bel)l, wedstrijd verslagen en dergelijke.&lt;/p&gt;
+&lt;p&gt;In principe kan iedereen, dus ook u, nieuws items en verhalen indienen om opgenomen te worden in deze secties. De stappen om dit te verwezenlijken worden uitgelegd op &lt;a href="https://github.com/yvesgoeleven/BasketLummen/wiki"&gt;onze technische wiki&lt;/a&gt; (uitleg in het engels).&lt;/p&gt;
+&lt;p&gt;Er staat een team, de cel communicatie, klaar om elk ingediend item te reviewen en op te nemen in de website na goedkeuring.&lt;/p&gt;
+&lt;h5&gt;Business sectie&lt;/h5&gt;
+&lt;p&gt;Er werd een volledig nieuwe &lt;strong&gt;business sectie&lt;/strong&gt; toegevoegd. Deze heeft vooral tot doel om aan potentiele sponsors uit te leggen wat er allemaal gedaan wordt qua visibiliteit, evenementen en dergelijke.&lt;/p&gt;
+&lt;h3&gt;Tekortkomingen&lt;/h3&gt;
+&lt;p&gt;Is alles dan perfect aan de nieuwe website? Nee, zeker niet. Er zijn een aantal tekortkomingen waar we ons bewust van zijn (en waarschijnlijk ook een aantal waar we ons niet van bewust zijn).&lt;/p&gt;
+&lt;p&gt;Een van de grootste beperkingen waar we momenteel nog mee zitten is de informatie die basketbal.vlaanderen ons aanbiedt. Deze omvat enkel informatie over de ploegen die in de reguliere competitie zitten en is incompleet wat betreft de jongste jeugdploegen. Vandaar dus dat er geen spelers geregistreerd staan voor de U10 en jonger. Dit zal op termijn opgelost worden, geen nood, maar het vraagt wat tijd.&lt;/p&gt;
+&lt;p&gt;Merk je verder nog iets, of heb je een suggestie om de informatie op onze website te verbeteren, dan kan je altijd een email sturen naar &lt;a href="mailto://yves@goeleven.com"&gt;yves@goeleven.com&lt;/a&gt;. Indien je meer technisch aangelegd bent, kan je ook gebruik maken van onze issue tracker op &lt;a href="https://github.com/yvesgoeleven/BasketLummen/issues"&gt;github&lt;/a&gt;.&lt;/p&gt;
+&lt;h3&gt;Vorige website&lt;/h3&gt;
+&lt;p&gt;De vorige website is zeker nog niet verdwenen. Indien je in de nieuwe website informatie mist dan kan je de vorige nog steeds bereiken &lt;a href="/b/"&gt;via deze link&lt;/a&gt;.&lt;/p&gt;
+&lt;h3&gt;Bedankt Johnny!&lt;/h3&gt;
+&lt;p&gt;Tevens zouden we Johnny Peeters nog van harte willen bedanken voor al het werk dat hij de afgelopen 17 jaar in de website gestoken heeft. Er is ongeloofelijk veel tijd ingekropen, over de jaren heen, om alles uit te bouwen en alle informatie bij elkaar te zoeken. Via deze weg willen we allen graag laten weten dat we dat werk ten zeerste appreciëren. Bedankt!&lt;/p&gt;
+</content>
+    <author>
+      <name />
+      <email />
+    </author>
+    <summary>2018 en 2019 worden belangrijke jaren in de geschiedenis van Basket Lummen. Het zal namelijk 50 jaar geleden zijn dat respectievelijk de club opgericht werd en dat de we voor een eerste keer deelnamen aan de reguliere competitie. Om deze</summary>
   </entry>
 </feed>
