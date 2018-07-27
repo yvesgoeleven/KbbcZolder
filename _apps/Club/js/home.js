@@ -9,15 +9,15 @@ var showNextMatch = function(){
       var vs = "";
       org.teams.forEach(function(team){
           if(team.guid == match.tTGUID|| team.guid == match.tUGUID){
-              vs = team.naam.replace("Basket Lummen ", "");
+              vs = team.naam.replace(orgName, "").trim()
           }
       });
       if(vs == ""){
         if( partnerTeamIds.indexOf(encodeURI(match.tTGUID)) > -1){
-            vs = match.tTNaam.replace("KBBC Zolder vzw ", "");
+            vs = match.tTNaam.replace(partnerName, "").trim();
         }
         else if( partnerTeamIds.indexOf(encodeURI(match.tUGUID)) > -1){
-            vs = match.tUNaam.replace("KBBC Zolder vzw ", "");
+            vs = match.tUNaam.replace(partnerName, "").trim();
         }
       } 
 

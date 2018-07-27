@@ -269,7 +269,7 @@ input[type=submit]{
 }
 
 #map-info{
-	color: #333;
+	color: #fff;
 }
 
 @media (min-width: 768px) {

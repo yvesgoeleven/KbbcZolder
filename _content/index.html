@@ -3,6 +3,107 @@ layout: page
 title: Kbbc Zolder
 description: Kbbc Zolder
 keywords: Basket, Kbbc Zolder
+custom_js:
+- home
+- map
+async_js:
+- https://maps.googleapis.com/maps/api/js?key=AIzaSyBesDse5XU1BASBA_G4RqjjsdUp2CQvqp4&libraries=places&callback=initMap
 ---
 
 {{>carrousel}}
+
+	<div id="next">	
+			<h2>Volgende wedstrijd</h2>
+			<a id="next-link" class="nounderline">				
+				<div id="next-top">
+					
+					<div class="container">					
+						<div id="next-top-border">
+							<div id="next-top-title"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></div>
+							<!-- <div id="next-day">Zaterdag</div> -->
+						</div>
+					</div>
+					
+				</div>
+				<div id="next-middle">
+					<div class="container">
+						<div id="next-home-team"><div id="next-home-team-logo"><img src="" /></div></div>
+						<div id="next-vs">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
+						<div id="next-away-team"><div id="next-away-team-logo"><img src="" /></div></div>
+					</div>
+				</div>
+				<div id="next-bottom">
+					<div class="container">
+						<div id="next-bottom-border">
+							<!-- <div id="next-hour">10:00</div> -->
+							<div id="next-bottom-title">
+								<!--<span>11 Maart | 10:00</span>-->
+								<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+							</div>
+						</div>
+					</div>
+				</div>
+			</a>			
+	</div>
+
+	<div id="all-matches" class="centered-content">
+		<a href="/matches">Alle wedstrijden deze week</a> 
+	</div>
+	
+	<div id="partners-top">
+			<h2>Dank aan onze partners</h2>
+	</div>
+	<div id="partners">
+		<div>
+				<div class="container">
+						<ul>
+							<li><a href="http://www.drankenshop.be/" target="_blank"><img src="img/partners/broekmans.gif"></a></li>
+							<li><a href="http://agent.kbc.be/pollers" target="_blank"><img src="img/partners/kbcverzekeringen.jpg"></a></li>
+							<li><a href="http://www.comfortenergy.be/" target="_blank"><img src="img/partners/comfortenergy.jpg"></a></li>
+							<li><a href="http://www.wijnenjosappermont.be" target="_blank"><img src="img/partners/appermont2.jpg"></a></li>
+							<li><a href="http://www.villacaronlina.be/" target="_blank"><img src="img/partners/vilaarolina.jpeg"></a></li>
+							<li><a href="http://www.eternit.be/" target="_blank"><img src="img/partners/eternit.gif"></a></li>
+							<li><a href="http://www.beursopleiding.be/" target="_blank"><img src="img/partners/beursopleiding2.jpg"></a></li>
+							<li><a href="http://www.cashflowopties.com/" target="_blank"><img src="img/partners/cashflow.jpg"></a></li>
+						</ul>
+				</div>
+		</div>		
+	</div>
+
+	<div id="news">
+	
+		<div class="container">
+		<h2>Wat is nieuw?</h2>
+		{{#most-recent site.Posts "news" 5}}
+			<div>
+				<a href="{{Permalink}}"><h3>{{Title}}</h3></a>
+				<p>{{Date}}</p>
+				<p>{{Excerpt}}</p>
+				<p><a href="{{Permalink}}"> Lees meer </a></p>
+			</div>
+		{{/most-recent}}
+		</div>
+	</div>
+
+	<div id="news-letter"  >
+		<div class="container centered-content">			
+			<!-- <form action="https://basketlummen.us2.list-manage.com/subscribe/post?u=1739b8d997c70be99007e7a8a&amp;id=654aac94cd" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate> -->
+				<div id="mc_embed_signup_scroll">
+					<!-- <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_1739b8d997c70be99007e7a8a_654aac94cd" tabindex="-1" value=""></div> -->
+					<label for="mc-EMAIL">Schrijf je in op onze mailinglijst</label>
+					<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email" required>
+					<input type="submit" value="inschrijven" name="subscribe" id="mc-embedded-subscribe" class="button">				
+				</div>
+			<!-- </form> -->
+		</div>
+	</div>
+	
+	<div id="map-holder">
+		<div id="map" ></div>
+		<div id="map-info">
+			<h2>Sport-Inn</h2>
+			<p><b>Gemeentelijk Sportcentrum</b></p>
+			<p>Dekenstraat 20<br/> 3550 Zolder, Belgium</p>
+			<p>Sporthal: 011 53 68 03 </p>
+		</div>
+	</div>
