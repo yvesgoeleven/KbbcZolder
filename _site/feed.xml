@@ -3,7 +3,7 @@
   <generator uri="https://www.teamdish.com" version="1.0.0">Dish</generator>
   <link href="/feed.xml" rel="self" type="application/atom+xml" />
   <link href="" rel="alternate" type="text/html" />
-  <updated>2018-07-27T21:32:05.0656441Z</updated>
+  <updated>2018-07-28T12:24:33.5007295Z</updated>
   <id></id>
   <title type="html"></title>
   <subtitle></subtitle>
@@ -18,12 +18,12 @@
     <updated>2018-06-05T10:00:00.0000000</updated>
     <id>/news/2018-06-05-pukkelpop/</id>
     <content type="html" xml:base="/news/2018-06-05-pukkelpop/">&lt;p&gt;Pukkelpop komt er weer aan, tijd om massa’s plezier te maken en wat geld te verdienen voor de club.&lt;/p&gt;
-&lt;h3&gt;Wat word er verwacht?&lt;/h3&gt;
+&lt;h3 id="wat-word-er-verwacht"&gt;Wat word er verwacht?&lt;/h3&gt;
 &lt;p&gt;We hebben bij de organisatie een goede indruk achter gelaten vorig jaar, want dit jaar hebben we heel wat extra opportuniteiten.&lt;/p&gt;
 &lt;p&gt;Op woensdag zoeken we 9 mensen die van 17.30u tot 03u de loketten bemannen voor de inwisseling van de drankenvoucher in bonnetjes. Voor deze prestatie krijgen de vrijwilligers een warme maaltijd en drankbonnen.&lt;/p&gt;
 &lt;p&gt;Tijdens het festival zelf krijgen we de kans om gedurende 3 dagen op de merchandising stand te werken. Hiervoor zoeken we 28 mensen die afwisselend in groep de merchandising stand bemannen. In ruil krijgt iedere medewerker aan dit verhaal krijgt een combi-ticket, gratis kamperen, warme maaltijd, snacks en boterhammen en drankbonnen voor iedere dag. Tussen de shiften in kan je dus ten volle genieten van het festival.&lt;/p&gt;
 &lt;p&gt;Hopelijk kunnen we massaal rekenen op jullie medewerking!!&lt;/p&gt;
-&lt;h3&gt;Ben je geinteresseerd?&lt;/h3&gt;
+&lt;h3 id="ben-je-geinteresseerd"&gt;Ben je geinteresseerd?&lt;/h3&gt;
 &lt;p&gt;Stuur dan je correcte gegevens (naam, voornaam, adres, rijksregister nummer ,email-adres, gsm nummerr, maat van t-shirt) naar &lt;a href="mailto://els.dereze@telenet.be"&gt;els.dereze@telenet.be&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Voorwaarde is wel dat je 18 jaar bent en alle 3 dagen kan komen.&lt;/p&gt;
 &lt;p&gt;Lidmaatschap bij de club is niet vereist, je vrienden zijn ook welkom om deel te nemen!&lt;/p&gt;
@@ -48,7 +48,7 @@
 &lt;li&gt;Zaterdag 23/6 België-Tunesië (aanwezig om 13.30 u.)&lt;/li&gt;
 &lt;li&gt;Donderdag 28/6 België-Engeland (aanwezig om 19.30 u.)&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;Ben je geinteresseerd?&lt;/h3&gt;
+&lt;h3 id="ben-je-geinteresseerd"&gt;Ben je geinteresseerd?&lt;/h3&gt;
 &lt;p&gt;Stuur dan je gegevens naar &lt;a href="mailto://els.dereze@telenet.be"&gt;els.dereze@telenet.be&lt;/a&gt;.&lt;/p&gt;
 </content>
     <author>
@@ -81,12 +81,12 @@
     <updated>2017-10-18T21:00:00.0000000</updated>
     <id>/blog/2017-10-18-nieuwe-website/</id>
     <content type="html" xml:base="/blog/2017-10-18-nieuwe-website/">&lt;p&gt;2018 en 2019 worden belangrijke jaren in de geschiedenis van Basket Lummen. Het zal namelijk 50 jaar geleden zijn dat respectievelijk de club opgericht werd en dat de we voor een eerste keer deelnamen aan de reguliere competitie. Om deze jaren te vieren zullen er tal van activiteiten en initiatieven ondernomen worden, één van deze initiatieven is een nieuw kleedje voor onze website.&lt;/p&gt;
-&lt;h3&gt;Mobile ready&lt;/h3&gt;
+&lt;h3 id="mobile-ready"&gt;Mobile ready&lt;/h3&gt;
 &lt;p&gt;Eén van de grootste 'klachten' die we over de vorige website kregen, was dat ze niet handig in gebruik was op mobiele telefoons. Ook niet heel verbazend, want ze dateerde nog uit begin 2000 toen er nog geen mobiele telefoons waren.&lt;/p&gt;
 &lt;p&gt;Het nieuwe ontwerp is een zogenaamd 'responsive design', dat zich aanpast aan het formaat van het scherm waarop je de website bekijkt. De website zal daardoor makkelijk in gebruik zijn op zowel mobiele telefoons als op grote schermen, en alles ertussenin.&lt;/p&gt;
-&lt;h3&gt;Wat is er anders&lt;/h3&gt;
+&lt;h3 id="wat-is-er-anders"&gt;Wat is er anders&lt;/h3&gt;
 &lt;p&gt;Zo goed als alle informatie op de oude website werd overgenomen op de nieuwe, maar er zijn toch ook heel wat verschillen.&lt;/p&gt;
-&lt;h5&gt;Wedstrijden&lt;/h5&gt;
+&lt;h5 id="wedstrijden"&gt;Wedstrijden&lt;/h5&gt;
 &lt;p&gt;Vooral op het gebied van de &lt;strong&gt;wedstrijd kalenders&lt;/strong&gt; zijn er wel wat wijzigingen. In het verleden toonden we letterlijk stukken van de website &lt;a href="http://www.basketbal.vlaanderen/"&gt;basketbal.vlaanderen&lt;/a&gt;, maar nu zal de website uit deze overvloed aan informatie enkel het belangrijkste halen en weergeven.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Volgende wedstrijd&lt;/strong&gt;: Op de homepagina zal de volgende wedstrijd voor één van onze ploegen getoond worden.&lt;/li&gt;
@@ -94,19 +94,19 @@
 &lt;li&gt;&lt;strong&gt;Per team&lt;/strong&gt;: Op de team detail pagina wordt automatisch de volgende wedstrijd weergegeven, verder kan je ook alle toekomstige wedstrijden en reeds gespeeld wedstrijden bekijken.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Wedstrijd detail&lt;/strong&gt;: Via al de bovenstaande weergaves kan je doorklikken naar het wedstrijd detail. Daarop staat al de nodige info over de wedstrijd, inclusief een kaart weergave waar de wedstrijd plaatsvind (zo moet je dat niet meer zelf opzoeken), alsook de informatie die de table officials moeten opnemen in de feuille.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h5&gt;News &amp;amp; blog&lt;/h5&gt;
+&lt;h5 id="news-blog"&gt;News &amp;amp; blog&lt;/h5&gt;
 &lt;p&gt;Deze twee secties zijn bedoeld om informatie te delen met alle leden en sympathisanten van de club. &lt;strong&gt;News&lt;/strong&gt; omvat alle aankondigingen van activiteiten alsook belangrijke boodschappen. &lt;strong&gt;Blog&lt;/strong&gt; omvat meer uitgebreide verhalen over de belevingen binnen de club, zoals bvb de basketba(bel)l, wedstrijd verslagen en dergelijke.&lt;/p&gt;
 &lt;p&gt;In principe kan iedereen, dus ook u, nieuws items en verhalen indienen om opgenomen te worden in deze secties. De stappen om dit te verwezenlijken worden uitgelegd op &lt;a href="https://github.com/yvesgoeleven/BasketLummen/wiki"&gt;onze technische wiki&lt;/a&gt; (uitleg in het engels).&lt;/p&gt;
 &lt;p&gt;Er staat een team, de cel communicatie, klaar om elk ingediend item te reviewen en op te nemen in de website na goedkeuring.&lt;/p&gt;
-&lt;h5&gt;Business sectie&lt;/h5&gt;
+&lt;h5 id="business-sectie"&gt;Business sectie&lt;/h5&gt;
 &lt;p&gt;Er werd een volledig nieuwe &lt;strong&gt;business sectie&lt;/strong&gt; toegevoegd. Deze heeft vooral tot doel om aan potentiele sponsors uit te leggen wat er allemaal gedaan wordt qua visibiliteit, evenementen en dergelijke.&lt;/p&gt;
-&lt;h3&gt;Tekortkomingen&lt;/h3&gt;
+&lt;h3 id="tekortkomingen"&gt;Tekortkomingen&lt;/h3&gt;
 &lt;p&gt;Is alles dan perfect aan de nieuwe website? Nee, zeker niet. Er zijn een aantal tekortkomingen waar we ons bewust van zijn (en waarschijnlijk ook een aantal waar we ons niet van bewust zijn).&lt;/p&gt;
 &lt;p&gt;Een van de grootste beperkingen waar we momenteel nog mee zitten is de informatie die basketbal.vlaanderen ons aanbiedt. Deze omvat enkel informatie over de ploegen die in de reguliere competitie zitten en is incompleet wat betreft de jongste jeugdploegen. Vandaar dus dat er geen spelers geregistreerd staan voor de U10 en jonger. Dit zal op termijn opgelost worden, geen nood, maar het vraagt wat tijd.&lt;/p&gt;
 &lt;p&gt;Merk je verder nog iets, of heb je een suggestie om de informatie op onze website te verbeteren, dan kan je altijd een email sturen naar &lt;a href="mailto://yves@goeleven.com"&gt;yves@goeleven.com&lt;/a&gt;. Indien je meer technisch aangelegd bent, kan je ook gebruik maken van onze issue tracker op &lt;a href="https://github.com/yvesgoeleven/BasketLummen/issues"&gt;github&lt;/a&gt;.&lt;/p&gt;
-&lt;h3&gt;Vorige website&lt;/h3&gt;
+&lt;h3 id="vorige-website"&gt;Vorige website&lt;/h3&gt;
 &lt;p&gt;De vorige website is zeker nog niet verdwenen. Indien je in de nieuwe website informatie mist dan kan je de vorige nog steeds bereiken &lt;a href="/b/"&gt;via deze link&lt;/a&gt;.&lt;/p&gt;
-&lt;h3&gt;Bedankt Johnny!&lt;/h3&gt;
+&lt;h3 id="bedankt-johnny"&gt;Bedankt Johnny!&lt;/h3&gt;
 &lt;p&gt;Tevens zouden we Johnny Peeters nog van harte willen bedanken voor al het werk dat hij de afgelopen 17 jaar in de website gestoken heeft. Er is ongeloofelijk veel tijd ingekropen, over de jaren heen, om alles uit te bouwen en alle informatie bij elkaar te zoeken. Via deze weg willen we allen graag laten weten dat we dat werk ten zeerste appreciëren. Bedankt!&lt;/p&gt;
 </content>
     <author>
