@@ -1,4 +1,4 @@
-var vblprotocol = "http";
+var vblprotocol = "https";
 var vblbase = "vblcb.wisseq.eu/VBLCB_WebService/data";
 var imgbas = "https://vblcb.wisseq.eu/vbldata/organisatie/";
 
