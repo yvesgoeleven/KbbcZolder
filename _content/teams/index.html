@@ -1,0 +1,151 @@
+---
+layout: page
+title: KBBC Zolder
+description: KBBC Zolder
+keywords: Basket, KBBC Zolder, Team
+custom_js:
+- team
+async_js:
+- https://maps.googleapis.com/maps/api/js?key=AIzaSyBesDse5XU1BASBA_G4RqjjsdUp2CQvqp4&libraries=places&callback=initMap
+---
+
+<div id="team-photo" class="team-photo">
+</div>
+<div class="container content">  
+     <h1 id="team-name"></h1> 
+    <div class="loading centered-content"><img src="/img/loader.gif" /></div>
+    <div id="team-dashboard" class="dashboard">
+        <div class="members pane">
+            <div class="players spacer">
+                <div class="tiles">
+                    
+                </div>
+            </div>   
+            <div class="staff spacer">
+                <h2>Staf</h2>  
+                <div class="tiles">       
+                </div>               
+            </div> 
+        </div>
+        <div class="results pane">
+            <div class="next-game spacer centered-content">
+                <h2>Volgende tegenstander</h2>
+                <div id="next-game-placeholder"></div>
+                <div>
+                    <h3><a class="detail-toggle" href="#">Volgende Wedstrijden</a></h3>
+                    <table class="detail future-games">
+                        <tr>
+                            <th>Datum</th>
+                            <th>Tijd</th>
+                            <th>Thuis</th>
+                            <th>Uit</th>
+                        </tr>
+                       
+                    </table>
+                </div>
+                <div>
+                    <h3><a class="detail-toggle" href="#">Uitslagen</a></h3>
+                    <table class="detail past-games">
+                        <tr>
+                            <th>Datum</th>
+                            <th>Tijd</th>
+                            <th>Thuis</th>
+                            <th>Uit</th>
+                            <th>Uitslag</th>
+                        </tr>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script type="text/template" id="message-template">
+    <div class="text-message absolute-centered-flex">
+    </div>
+</script>
+
+<script type="text/template" id="next-game-template">
+    <a class="href-matchuri nounderline">
+        <img id="opponent-img" class="src-imgurl" />
+        <div class="text-name"></div>
+        <div>
+            <span class="text-day"></span>
+            <span class="text-date"></span>
+            <span class="text-time"></span>
+        </div>
+        <div class="text-location"></div>
+    </a>
+</script>
+
+<script  type="text/template" id="future-game-template">
+    <tr style="cursor: pointer; cursor: hand;">
+        <td class="text-date"></td>
+        <td class="text-time"></td>
+        <td class="text-home"></td>
+        <td class="text-away"></td>
+    </tr>
+</script>
+
+<script  type="text/template" id="past-game-template">
+    <tr style="cursor: pointer; cursor: hand;">
+        <td class="text-date"></td>
+        <td class="text-time"></td>
+        <td class="text-home"></td>
+        <td class="text-away"></td>        
+        <td class="text-result"></td>
+    </tr>
+</script>
+
+
+<script type="text/template" id="player-template">
+    <div class="member tile border style-imgscript">
+        <div class="tile-description">
+            <div class="text-name"></div>
+            <div class="text-birthDate"></div>
+        </div>
+    </div>
+</script>
+
+<script type="text/template" id="staff-template">
+    <div class="member tile border style-imgscript">
+        <div class="tile-description">
+            <div class="text-name"></div>
+            <div class="text-role"></div>
+        </div>
+    </div>
+</script>
+
+<script  type="text/template" id="standings-template">
+     <div class="standings border spacer centered-content">
+        <h2 class="text-name"></h2>
+        <div class="rank">
+            <span class="text-rank">1</span>e
+        </div>               
+        <h3><a class="detail-toggle" href="#">Klassement Detail</a></h3>
+        <table class="detail">
+            <tr>
+                <th>nr</th>
+                <th>Team</th>
+                <th>P</th>
+                <th>W</th>
+                <th>D</th>
+                <th>L</th>
+                <th>Pts</th>
+            </tr>               
+        </table>
+    </div>
+</script>
+
+<script  type="text/template" id="standings-entry-template">
+     <tr>
+        <td class="text-nr"></td>
+        <td class="text-team"></td>
+        <td class="text-played"></td>
+        <td class="text-wins"></td>
+        <td class="text-draws"></td>
+        <td class="text-losses"></td>
+        <td class="text-points"></td>
+    </tr>
+</script>
+
