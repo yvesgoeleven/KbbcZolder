@@ -298,9 +298,9 @@ input[type=submit]{
 
 
 /* dashboard */
-.dashboard{
+/*.dashboard{*/
 	/* font-size: 1em; */
-}
+/*}*/
 
 .pane{
     margin: 5px 0px;
