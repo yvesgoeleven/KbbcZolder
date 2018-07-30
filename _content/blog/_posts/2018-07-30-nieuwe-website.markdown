@@ -3,6 +3,7 @@ layout: post
 title:  "Nieuwe Website"
 date:   2018-07-30 21:00:00
 description: Nieuwe Website.
+excerpt: Wij staken onze website in een nieuw kleedje. Eén van de grootste 'klachten' die we over de vorige website kregen, was dat ze niet handig in gebruik was op mobiele telefoons. Ook niet heel verbazend, want ze dateerde nog uit begin 2000 toen er nog geen mobiele telefoons waren.
 permalink: /blog/2018-07-30-nieuwe-website/
 ---
 
