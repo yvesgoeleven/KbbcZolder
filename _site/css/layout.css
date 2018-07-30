@@ -174,7 +174,7 @@
 }
 #partners ul li img{
 	height: 6vh;
-	min-height: 50px;
+	min-height: 100px;
 	padding: 1vh 3vw;
 }
 @media (max-width: 480px) {
