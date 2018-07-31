@@ -391,6 +391,10 @@ table tr, table td{
 	  font-size: 12px;
 	  white-space: nowrap;
 }
+.calendar-item a, .calendar-item a:focus, .calendar-item a:hover{
+	color:#fff;
+}
+
 @media (min-width: 768px) {
 	.calendar-item{
      	 font-size: .9vw;
