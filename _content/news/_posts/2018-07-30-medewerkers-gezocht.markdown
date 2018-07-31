@@ -3,7 +3,7 @@ layout: post
 title:  "Medewerkers gezocht"
 date:   2018-07-30 10:00:00
 excerpt: Het zomer festival seizoen zit er ondertussen op. Bedankt vrijwilligers voor jullie inzet! Ook in het najaar zijn we actief op verschillende evenementen.
-permalink: /news/2018-07-30-medewerkers gezocht/
+permalink: /news/2018-07-30-medewerkers-gezocht/
 ---
 
 Het zomer festival seizoen zit er ondertussen op. Bedankt vrijwilligers voor jullie inzet!
