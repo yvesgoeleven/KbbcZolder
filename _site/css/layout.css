@@ -51,6 +51,14 @@
   margin: 0 auto;
 }
 
+.full-width-image img{
+  min-width: 2000px;
+  min-height: 666px;
+  height: auto;
+  width: 100vw;
+  margin: 0 auto;
+}
+
 /* next games section */
 
 #next{
