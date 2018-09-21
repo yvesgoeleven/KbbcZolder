@@ -72,7 +72,7 @@ var renderMatchDetails = function(match, org) {
     $("#acc-web").text(match.doc.accommodatieDoc.website ? match.doc.accommodatieDoc.website : "");
 
     $("#division").text(match.doc.wedID.substring(0, 8));
-    $("#game-nr").text(match.doc.wedID.substring(9));
+    $("#game-nr").text(match.doc.wedID.substring(8));
     $("#mat").text(org.stamNr);
 
     if(match.doc.wedOff){

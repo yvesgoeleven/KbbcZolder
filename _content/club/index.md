@@ -15,9 +15,7 @@ keywords: Basket, KBBC Zolder
 
 ### Sporthal:
 
-Sport-Inn, Dekenstraat 22, 3550 HEUSDEN-ZOLDER, 
-Tel. 011 53 68 03
-E- mail: [sporthal@kbbczolder.be](mailto://sporthal@kbbczolder.be)
+Sporthal Zolder, Dekenstraat 22, 3550 HEUSDEN-ZOLDER
 
 ### Briefwisseling + contact gegevens:
 
