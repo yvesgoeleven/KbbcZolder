@@ -470,7 +470,7 @@ table.space-around {
 .calendar-item{
 	/* position:absolute;
 	width: 100%; */
-	
+	overflow: hidden;
 	text-align: center;
 }
 @media (min-width: 768px) {
@@ -536,6 +536,11 @@ only screen and (max-width: 760px),
 
 .actions{
 	text-align: right;
+}
+
+.actions li{
+	display: inline-block;
+	text-decoration: none;
 }
 
 /* responsive form */

@@ -1,4 +1,5 @@
 var orgId = "BVBL1081";
+var vblOrgId = "BVBL1081";
 var orgName = "KBBC Zolder vzw"
 var partnerTeamIds = [];
 var partnerName = "";

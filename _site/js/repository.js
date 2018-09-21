@@ -1,5 +1,6 @@
 var dbversion = 5;
 var usedb = indexedDB;
+//var usedb = false;
 
 Date.prototype.getWeek = function()
 {
@@ -27,15 +28,15 @@ Date.prototype.currentLocalTime = function()
 var repository = new function(){
     var self = this;
 
-    this.initialize = function(orgId, partnerTeamIds){
-        self.orgId = orgId;   
+    this.initialize = function(vblOrgId, partnerTeamIds){
+        self.vblOrgId = vblOrgId;   
         self.partnerTeamIds = partnerTeamIds;
         self.matches = [];
         self.matchDetails =  []; 
 
         if (usedb) {  
 
-            var request = indexedDB.open(orgId, dbversion);
+            var request = indexedDB.open(vblOrgId, dbversion);
             request.onerror = function(event) {
                 console.warn("Database error: " + event.target.errorCode);
                 $.topic("db.open.error").publish();
@@ -97,7 +98,7 @@ var repository = new function(){
     }
 
     this.loadOrganization = function(){
-        vbl.orgDetail(self.orgId, function(orgs){
+        vbl.orgDetail(self.vblOrgId, function(orgs){
             if(usedb){
                 var tx = self.db.transaction("organisations", "readwrite").objectStore("organisations");
                 orgs.forEach(function(o){
@@ -127,7 +128,7 @@ var repository = new function(){
     }
 
     this.loadMembers = function(){
-        vbl.members(self.orgId, function(members){
+        vbl.members(self.vblOrgId, function(members){
             if(usedb){
                 var tx = self.db.transaction("members", "readwrite").objectStore("members");
                 members.forEach(function(m){
@@ -144,7 +145,7 @@ var repository = new function(){
     this.loadMatches = function(){
         waitFor = [];
         var wait = new $.Deferred();
-        vbl.matches(self.orgId, function(matches){
+        vbl.matches(self.vblOrgId, function(matches){
              if(usedb){
                 var tx = self.db.transaction("matches", "readwrite").objectStore("matches");
                 matches.forEach(function(m){
@@ -250,16 +251,16 @@ var repository = new function(){
         });
     }
 
-    this.futureMatches = function(teamId, callback){
+    this.futureMatchesOfTeam = function(teamId, callback){
          if(usedb){
-            self._futureMatchesFromDb(teamId, callback);           
+            self._futureMatchesOfTeamFromDb(teamId, callback);           
          }
          else{
-            self._futureMatchesFromArrays(teamId, callback); 
+            self._futureMatchesOfTeamFromArrays(teamId, callback); 
          }
     }
 
-    this._futureMatchesFromDb = function(teamId, callback){
+    this._futureMatchesOfTeamFromDb = function(teamId, callback){
         var tx = self.db.transaction("matches", "readonly");
         var store = tx.objectStore("matches");
         var index = store.index("jsDTCode");
@@ -280,7 +281,7 @@ var repository = new function(){
         }
     }
 
-    this._futureMatchesFromArrays = function(teamId, callback){
+    this._futureMatchesOfTeamFromArrays = function(teamId, callback){
          var now = new Date().currentLocalTime();
         self.matches.forEach(function(match){
             if((match.tTGUID == teamId || match.tUGUID == teamId) && match.jsDTCode > now){
@@ -288,6 +289,47 @@ var repository = new function(){
             }
         });
     }
+
+    this.futureMatches = function(callback){
+        if(usedb){
+           self._futureMatchesFromDb(callback);           
+        }
+        else{
+           self._futureMatchesFromArrays(callback); 
+        }
+   }
+
+   this._futureMatchesFromDb = function(callback){
+       var tx = self.db.transaction("matches", "readonly");
+       var store = tx.objectStore("matches");
+       var index = store.index("jsDTCode");
+
+        var now = new Date().currentLocalTime();
+
+       var range = IDBKeyRange.lowerBound(now);
+       index.openCursor(range).onsuccess = function(e) {
+           var cursor = e.target.result;
+           if(cursor) {
+               var key = cursor.key;
+               var match = cursor.value;
+               if(match && ((match.tTGUID.startsWith(vblOrgId) || partnerTeamIds.indexOf(encodeURIComponent(match.tTGUID)) !== -1) ||
+                (match.tUGUID.startsWith(vblOrgId) || partnerTeamIds.indexOf(encodeURIComponent(match.tUGUID)) !== -1)))    
+                {
+                    if(callback) callback(match);
+                }  
+               cursor.continue();
+           }
+       }
+   }
+
+   this._futureMatchesFromArrays = function(callback){
+        var now = new Date().currentLocalTime();
+       self.matches.forEach(function(match){
+           if(match.jsDTCode > now){
+               callback(match);
+           }
+       });
+   }
 
     this.matchesInWeekOf = function(date, callback){
          if(usedb){
@@ -310,7 +352,11 @@ var repository = new function(){
             if(cursor) {
                 var key = cursor.key;
                 var match = cursor.value;
-                 if(callback) callback(match);
+                if(match && ((match.tTGUID.startsWith(vblOrgId) || partnerTeamIds.indexOf(encodeURIComponent(match.tTGUID)) !== -1) ||
+                (match.tUGUID.startsWith(vblOrgId) || partnerTeamIds.indexOf(encodeURIComponent(match.tUGUID)) !== -1)))    
+                {
+                    if(callback) callback(match);
+                }    
                 cursor.continue();
             }
         }
@@ -399,7 +445,15 @@ var repository = new function(){
             if(cursor) {
                 var key = cursor.key;
                 var match = cursor.value;
-                if(callback) callback(match);
+                if(match && ((match.tTGUID.startsWith(vblOrgId) || partnerTeamIds.indexOf(encodeURIComponent(match.tTGUID)) !== -1) ||
+                            (match.tUGUID.startsWith(vblOrgId) || partnerTeamIds.indexOf(encodeURIComponent(match.tUGUID)) !== -1)))
+                
+                {
+                    if(callback) callback(match);
+                }
+                else{
+                    cursor.continue();
+                }
             }
         }         
     }
@@ -416,7 +470,19 @@ var repository = new function(){
         if(futureMatches.length > 0)
         {
             futureMatches.sort(function(a,b) {return (a.jsDTCode > b.jsDTCode) ? 1 : ((b.jsDTCode > a.jsDTCode) ? -1 : 0);} );
-            callback(futureMatches[0])
+            var match = futureMatches.shift();
+            while(match)
+            {
+                if(((match.tTGUID.startsWith(vblOrgId) || partnerTeamIds.indexOf(encodeURIComponent(match.tTGUID)) !== -1) ||
+                    (match.tUGUID.startsWith(vblOrgId) || partnerTeamIds.indexOf(encodeURIComponent(match.tUGUID)) !== -1)))    
+                {
+                    if(callback) callback(match);
+                    match = null;
+                }
+                else{
+                    match = futureMatches.shift();
+                }
+            }
         }
     }
 

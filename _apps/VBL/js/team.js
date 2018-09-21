@@ -36,7 +36,7 @@ var renderNextMatch = function(){
         $("#next-game-placeholder").append(div);     
   });
 
-  repository.futureMatches(teamid, function(match){
+  repository.futureMatchesOfTeam(teamid, function(match){
     var tr = $.template("#future-game-template", {
                 date: match.datumString,
                 time: match.beginTijd,

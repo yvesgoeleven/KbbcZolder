@@ -9,11 +9,22 @@ custom_js:
 
 <div class="container content">
     
-    <h2>Wedstrijden deze week</h2>
+    <h2>Wedstrijden</h2>
     
     <div class="actions">
-        <a href="javascript:toggleCalendar()"><img src="/img/menus/calendar.png" alt="kalender" title="kalender" /></a>
-        <a href="javascript:toggleTable()"><img src="/img/menus/table.png" alt="tabel" title="tabel" /></a>
+        <ul>
+            <li><a href="javascript:toggleColumns()"><img src="/img/menus/columns.png" alt="kolommen" title="kolommen" /></a></li>
+            <li><a href="javascript:toggleTable()"><img src="/img/menus/table.png" alt="tabel" title="tabel" /></a></li>
+            <li class="divider">&nbsp;</li>
+            <li class="dropdown">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="false" aria-expanded="false"><img src="/img/menus/calendar.png" alt="kalender" title="kalender" /></a>
+                <ul class="dropdown-menu dropdown-menu-right">
+                    <li><a href="javascript:toggleWeek()">Deze week</a></li>
+                    <li><a href="javascript:toggleSeason()">Dit seizoen</a></li>                       
+                </ul>
+            </li>
+        </ul> 
+        
     </div>
 
     <div id="calendar-calendar" class="calendar-calendar">
