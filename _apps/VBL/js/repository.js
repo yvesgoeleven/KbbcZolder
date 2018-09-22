@@ -399,8 +399,8 @@ var repository = new function(){
         var today = new Date();
         var seasonStart = computeSeasonStart(today);
 
-        var range = IDBKeyRange.bound(seasonStart.getTime(), today.getTime());
-        index.openCursor(range).onsuccess = function(e) {
+        var range = IDBKeyRange.bound(seasonStart.currentLocalTime(), today.currentLocalTime());
+        index.openCursor(range, 'prev').onsuccess = function(e) {
             var cursor = e.target.result;
             if(cursor) {
                 var key = cursor.key;
@@ -416,8 +416,8 @@ var repository = new function(){
     this._pastMatchesFromArrays = function(teamId, callback){
         var today = new Date();
         var seasonStart = computeSeasonStart(today);
-        self.matches.forEach(function(match){
-            if((match.tTGUID == teamId || match.tUGUID == teamId) && (match.jsDTCode >= seasonStart.getTime() && match.jsDTCode <= today.getTime())){
+        self.matches.reverse().forEach(function(match){
+            if((match.tTGUID == teamId || match.tUGUID == teamId) && (match.jsDTCode >= seasonStart.currentLocalTime() && match.jsDTCode <= today.currentLocalTime())){
                 callback(match);
             }
         });
