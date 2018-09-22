@@ -94,16 +94,18 @@
 </div>  </div>
 </nav>
 
+<div id="poule-header" class="black-bar">
+	<h2 id="poule"></h2>	
+</div>
 <div id="next">	
-		<h2 id="poule"></h2>						
+		<h2 id="home-team"></h2>						
 		<div id="next-top">				
 			<div class="container">					
 				<div id="next-top-border">
 					<div id="next-top-title"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></div>
 					<!-- <div id="next-day">Zaterdag</div> -->
 				</div>
-			</div>
-			
+			</div>			
 		</div>
 		<div id="next-middle">
 			<div class="container">
@@ -122,7 +124,12 @@
 					</div>
 				</div>
 			</div>
-		</div>			
+		</div>
+		<h2 id="away-team"></h2>			
+</div>
+
+<div class="black-bar">
+	<h2>Wedstrijd locatie</h2>
 </div>
 
 <div id="map-holder">
@@ -135,7 +142,11 @@
 	</div>
 </div>
 
-<div class="columns container">
+<div class="black-bar">
+	<h2>Info voor de tafel officials</h2>
+</div>
+
+<div id="feuille" class="columns container">
 	<div class="pane space-around centered-content">
 		<h2>Feuille</h2>   
 		<table class="space-around">
@@ -161,12 +172,62 @@
 		</table>
 	</div>
 
-	<div class="pane centered-content">
-		<h2>Result</h2>   
+</div>
+
+<div id="result-header" class="black-bar no-show">
+	<h2>Resultaat</h2>
+</div>
+
+<div id="result-container" class="columns container no-show">
+	<div class="centered-content">
 		<div class="space-around">
 			<div id="results" class="rank">
 			</div>	
 		</div>
+	</div>
+</div>
+
+<div id="result-form-container" class="columns container no-show">
+	<div class="centered-content">
+		<form class="reponsive-form">
+			<legend>Vul de uitslag in</legend>
+			<table>
+				<tbody>
+					<tr>
+						<td>
+							<label>Uitslag</label>
+						</td>
+						<td>
+							<input type="number" id="homescore" name="homescore" placeholder="Thuis score" /> vs <input type="number" id="awayscore" name="awayscore" placeholder="Uit score" />
+						</td>
+					</tr>
+					<tr>
+						<td>
+							<label>Pin</label>
+						</td>
+						<td>
+							<input type="password" id="pin" name="pin" />
+						</td>
+					</tr>
+					<tr>
+						<td>
+							<label></label>
+						</td>
+						<td>
+							<label id="message"></label>
+						</td>
+					</tr>
+					<tr>
+						<td>
+							<label></label>
+						</td>
+						<td>
+							<button type="submit" id="submit" name="submit">Opslaan</button>
+						</td>
+					</tr>				
+				</tbody>
+			</table>
+		</form>
 	</div>
 </div>
 

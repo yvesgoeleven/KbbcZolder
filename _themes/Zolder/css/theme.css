@@ -237,6 +237,16 @@ input[type=submit]{
 	border-top-width: 0px;
 }
 
+/* black bar */
+.black-bar{
+	background-color: #333;	
+	padding: 2vh;
+	text-align: center;
+}
+.black-bar h2{
+	color: #fff;
+}
+
 /* partners */
 #partners-top{
 	background-color: #333;	

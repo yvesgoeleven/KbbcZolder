@@ -15,23 +15,19 @@ var renderMatchDetails = function(match, org) {
      var d = new Date(match.doc.jsDTCode);
       $("#next-top-title span").text(d.toLocaleString(window.navigator.language, {weekday: 'long'}));
       /* looks like local time is stored as if it were utc? */
-      $("#next-bottom-title span").text(d.toLocaleString(window.navigator.language, {day: 'numeric'}) + " " + d.toLocaleString(window.navigator.language, {month: 'long'}) + " | " + ('0'+d.getUTCHours()).slice(-2) + ":" + ('0'+d.getMinutes()).slice(-2));    
+      var year = d.getUTCFullYear();
+      var month = d.getUTCMonth();
+      var day = d.getUTCDate();
+      var hours = d.getUTCHours();
+      var minutes = d.getUTCMinutes();
+      var seconds = d.getUTCSeconds();
+      var realDate = new Date(year, month, day, hours, minutes, seconds);
+
+      $("#next-bottom-title span").text(realDate.toLocaleString(window.navigator.language, {day: 'numeric'}) + " " + realDate.toLocaleString(window.navigator.language, {month: 'long'}) + " | " + ('0'+ realDate.getHours()).slice(-2) + ":" + ('0'+ realDate.getMinutes()).slice(-2));    
     
-      var vs = "";
-      org.teams.forEach(function(team){
-          if(team.guid == match.doc.teamThuisGUID || team.guid == match.doc.teamUitGUID){
-              vs = team.naam.replace(orgName, "").trim();
-          }
-      });
-      if(vs == ""){
-        if( partnerTeamIds.indexOf(encodeURI(match.doc.teamThuisGUID)) > -1){
-            vs = match.doc.teamThuisNaam.replace(partnerName, "").trim();
-        }
-        else if( partnerTeamIds.indexOf(encodeURI(match.doc.teamUitGUID)) > -1){
-            vs = match.doc.teamUitNaam.replace(partnerName, "").trim();
-        }
-      }
-     
+      var vs = "VS";
+      $("#home-team").text(match.doc.teamThuisNaam);
+      $("#away-team").text(match.doc.teamUitNaam);     
 
       $("#next-vs").text(vs);
 
@@ -81,7 +77,66 @@ var renderMatchDetails = function(match, org) {
         });
     }    
 
-    $('#results').text(match.doc.uitslag);
+    if(realDate.getTime() < Date.now()){
+        $("#result-header").show();
+         if(match.doc.uitslag != null && match.doc.uitslag.lenght > 0){
+            $('#results').text(match.doc.uitslag);
+            $("#result-container").show();
+        }
+        else{
+            $("#result-form-container").show();
+        }
+    }
+    bindForm(match);
+}
+
+var bindForm = function(match){
+    var form = $('#result-form-container form');
+   
+    var teamThuisGUID = match.doc.teamThuisGUID;
+    var teamUitGUID = match.doc.teamUitGUID
+     var rules = {
+        homescore: {
+            required: true
+        },
+        awayscore: {
+            required: true
+        },
+        pin: {
+            required: pin
+        }
+    };
+     // set up form validation messages
+    var messages = {
+        homescore: {
+            required: "*"
+        },
+        awayscore: {
+            required: "*"
+        },
+        pin: {
+            required: "*"
+        }
+    };
+     form.validate({
+        onkeyup: false,
+        rules: rules,
+        messages: messages,
+        submitHandler: function (f) {
+             var home = form.find('#homescore').val();
+            var away = form.find('#awayscore').val();
+            var pin = form.find('#pin').val();
+             vbl.putUitslag(matchid, home, away, pin, teamThuisGUID, teamUitGUID, function(uitslag){
+                $('#results').text(uitslag);
+                $("#result-container").show();
+                $("#result-form-container").hide();
+            },
+            function(){
+                $("#message").text("Pincode onjuist of verwerking niet mogelijk!")
+            });
+             return false;
+        }
+    });
 }
 
 $.topic("vbl.match.details.loaded").subscribe(function (match) {
