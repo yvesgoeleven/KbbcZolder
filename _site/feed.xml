@@ -3,7 +3,7 @@
   <generator uri="https://www.teamdish.com" version="1.0.0">Dish</generator>
   <link href="/feed.xml" rel="self" type="application/atom+xml" />
   <link href="" rel="alternate" type="text/html" />
-  <updated>2019-01-23T20:37:44.5922993Z</updated>
+  <updated>2019-02-04T10:04:55.8536520Z</updated>
   <id></id>
   <title type="html"></title>
   <subtitle></subtitle>
@@ -11,6 +11,77 @@
     <name />
     <email />
   </author>
+  <entry>
+    <title>Medewerkers gezocht</title>
+    <link href="/news/2019-02-03-evenementen-voorjaar-2019/" rel="alternate" type="text/html" title="Medewerkers gezocht" />
+    <published>2019-02-03T10:00:00.0000000</published>
+    <updated>2019-02-03T10:00:00.0000000</updated>
+    <id>/news/2019-02-03-evenementen-voorjaar-2019/</id>
+    <content type="html" xml:base="/news/2019-02-03-evenementen-voorjaar-2019/">&lt;p&gt;Ook in het voorjaar verzorgt onze club de catering tijdens evenementen in de Ethias Arena.&lt;br /&gt;
+Hieronder vindt U de kalender met het nog benodigde aantal medewerkers.&lt;/p&gt;
+&lt;h3 id="kalender"&gt;Kalender:&lt;/h3&gt;
+&lt;p&gt;29/03/2019 (18h00-24h00) - Schlagerfestival - Arena – 15 personen&lt;br /&gt;
+30/03/2019 (18h00-24h00) - Schlagerfestival - Arena (Middenplein) – 4  personen&lt;br /&gt;
+6/04/2019 (18h00-24h00)  - Schlagerfestival - Arena + Champagnebar - 12 personen&lt;br /&gt;
+13/04/2019 (18h30-01h00) - I love the 90's - Arena(Plaza + expo) - 15 personen&lt;br /&gt;
+13/04/2019 (01h00-04h00) - I love the 90's - Arena(Plaza + expo) - 12 personen&lt;br /&gt;
+2/06/2019 (14h00-18h00)  - Aladin de musical - Theater - VOLZET&lt;/p&gt;
+&lt;p&gt;Zin om mee te helpen of heb nog vragen, stuur dan een mail naar &lt;a href="mailto://penningmeester@kbbczolder.be"&gt;penningmeester@kbbczolder.be&lt;/a&gt;&lt;/p&gt;
+</content>
+    <author>
+      <name />
+      <email />
+    </author>
+    <summary>Ook in het voorjaar verzorgt onze club de catering tijdens evenementen in de Ethias Arena.</summary>
+  </entry>
+  <entry>
+    <title>Week van de vrijwilliger</title>
+    <link href="/news/2019-02-23-weekvdvrijwilliger/" rel="alternate" type="text/html" title="Week van de vrijwilliger" />
+    <published>2019-02-03T10:00:00.0000000</published>
+    <updated>2019-02-03T10:00:00.0000000</updated>
+    <id>/news/2019-02-23-weekvdvrijwilliger/</id>
+    <content type="html" xml:base="/news/2019-02-23-weekvdvrijwilliger/">&lt;h2 id="aan-al-onze-vrijwilligers-een-welgemeende"&gt;Aan al onze vrijwilligers, een welgemeende:&lt;/h2&gt;
+&lt;h4 id="bedankt"&gt;BEDANKT!&lt;/h4&gt;
+&lt;p&gt;#vrijwilligersweek #weekvandevrijwilliger #sportersbelevenmeer.&lt;/p&gt;
+</content>
+    <author>
+      <name />
+      <email />
+    </author>
+    <summary>Van 23 februari tot 3 maart is het weer zover: dan is het opnieuw de week van de vrijwilliger!</summary>
+  </entry>
+  <entry>
+    <title>Eetdag 2019</title>
+    <link href="/news/2019-03-02-eetdag/" rel="alternate" type="text/html" title="Eetdag 2019" />
+    <published>2019-02-03T10:00:00.0000000</published>
+    <updated>2019-02-03T10:00:00.0000000</updated>
+    <id>/news/2019-03-02-eetdag/</id>
+    <content type="html" xml:base="/news/2019-03-02-eetdag/">&lt;h3 id="maart-2019"&gt;24 maart 2019&lt;/h3&gt;
+&lt;h2 id="jogem-ringlaan-3550-heusden-zolder"&gt;Jogem, Ringlaan, 3550 Heusden-Zolder&lt;/h2&gt;
+&lt;p&gt;Onze jaarlijkse eetdag zal op 24 maart 2019 plaats vinden.&lt;br /&gt;
+Noteer nu alvast in uw agenda.&lt;br /&gt;
+Meer informatie binnenkort op deze website.&lt;/p&gt;
+</content>
+    <author>
+      <name />
+      <email />
+    </author>
+    <summary>Op 24 maart organiseren we onze jaarlijkse eetdag.</summary>
+  </entry>
+  <entry>
+    <title>Onze website steekt in een nieuw kleedje</title>
+    <link href="/news/2019-02-01-nieuwe-website/" rel="alternate" type="text/html" title="Onze website steekt in een nieuw kleedje" />
+    <published>2019-02-01T00:00:00.0000000</published>
+    <updated>2019-02-01T00:00:00.0000000</updated>
+    <id>/news/2019-02-01-nieuwe-website/</id>
+    <content type="html" xml:base="/news/2019-02-01-nieuwe-website/">&lt;p&gt;Zoals U merkt steekt onze website vanaf vandaag in een nieuw kleedje en is ook beter op smartphones te bekijken.&lt;/p&gt;
+</content>
+    <author>
+      <name />
+      <email />
+    </author>
+    <summary>Zoals U merkt steekt onze website vanaf vandaag in een nieuw kleedje en is ook beter op smartphones te bekijken.</summary>
+  </entry>
   <entry>
     <title>Nieuwe Website</title>
     <link href="/blog/2018-07-30-nieuwe-website/" rel="alternate" type="text/html" title="Nieuwe Website" />
@@ -49,68 +120,5 @@
       <email />
     </author>
     <summary>Wij staken onze website in een nieuw kleedje. Eén van de grootste 'klachten' die we over de vorige website kregen, was dat ze niet handig in gebruik was op mobiele telefoons. Ook niet heel verbazend, want ze dateerde nog uit begin 2000 toen er nog geen mobiele telefoons waren.</summary>
-  </entry>
-  <entry>
-    <title>Medewerkers gezocht</title>
-    <link href="/news/2018-07-30-medewerkers-gezocht/" rel="alternate" type="text/html" title="Medewerkers gezocht" />
-    <published>2018-07-30T10:00:00.0000000</published>
-    <updated>2018-07-30T10:00:00.0000000</updated>
-    <id>/news/2018-07-30-medewerkers-gezocht/</id>
-    <content type="html" xml:base="/news/2018-07-30-medewerkers-gezocht/">&lt;p&gt;Het zomer festival seizoen zit er ondertussen op. Bedankt vrijwilligers voor jullie inzet!&lt;/p&gt;
-&lt;p&gt;Ook in het najaar zijn we actief op verschillende evenementen.&lt;/p&gt;
-&lt;h3 id="kunnen-we-op-jouw-hulp-rekenen"&gt;Kunnen we op jouw hulp rekenen ?&lt;/h3&gt;
-&lt;p&gt;Graag een mailtje naar &lt;a href="mailto://penningmeester@kbbczolder.be"&gt;penningmeester@kbbczolder.be&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;29/12/2018 (14h00 – 18h30)	Ethias Theater 		Helmut Lotti		15 medewerkers&lt;br /&gt;
-29/12/2018 (18h30 – 23h00)	Ethias Theater 		Helmut Lotti		17 medewerkers&lt;br /&gt;
-11/11/2018 (12h30 – 16h00) 	Ethias Theater 		Hans &amp;amp; Grietje      8 personen&lt;/p&gt;
-</content>
-    <author>
-      <name />
-      <email />
-    </author>
-    <summary>Het zomer festival seizoen zit er ondertussen op. Bedankt vrijwilligers voor jullie inzet! Ook in het najaar zijn we actief op verschillende evenementen.</summary>
-  </entry>
-  <entry>
-    <title>Medische fiche niet vergeten!</title>
-    <link href="/news/2018-07-29-medische-fiche/" rel="alternate" type="text/html" title="Medische fiche niet vergeten!" />
-    <published>2018-07-29T09:00:00.0000000</published>
-    <updated>2018-07-29T09:00:00.0000000</updated>
-    <id>/news/2018-07-29-medische-fiche/</id>
-    <content type="html" xml:base="/news/2018-07-29-medische-fiche/">&lt;p&gt;Een sportief leven is gezond, maar het gebeurt best na een check-up bij uw arts. Om deel te nemen aan trainingen en wedstrijden, is een bewijs van zulk een check-up noodzakelijk.&lt;/p&gt;
-&lt;p&gt;&lt;a href="/club/documenten/medischgetuigschrift18-19.pdf"&gt;Hier vind je dan ook de medische fiche&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Deze bestaat uit 2 delen, die beiden door de arts dienen ingevuld en ondertekend te worden. Hij/zij erkent zo, dat je fysisch geschikt bent om basketbal te spelen. Zorg ervoor dat je ze bij de eerste training aan de coach afgeeft.&lt;/p&gt;
-&lt;p&gt;Omwille van de verzekering mag je zonder medische fiche echt niet spelen of trainen. Vergeet dus niet zo snel mogelijk je medische fiche aan je coach te bezorgen. Indien je speelt zonder medische fiche, verliest je team de wedstrijd.&lt;/p&gt;
-</content>
-    <author>
-      <name />
-      <email />
-    </author>
-    <summary>Omwille van de verzekering mag je zonder medische fiche echt niet spelen of trainen. Vergeet dus niet zo snel mogelijk je medische fiche aan je coach te bezorgen. Indien je speelt zonder medische fiche, verliest je team de wedstrijd..</summary>
-  </entry>
-  <entry>
-    <title>Sporters beleven meer</title>
-    <link href="/news/2018-07-28-sporters-beleven-meer/" rel="alternate" type="text/html" title="Sporters beleven meer" />
-    <published>2018-07-28T21:00:00.0000000</published>
-    <updated>2018-07-28T21:00:00.0000000</updated>
-    <id>/news/2018-07-28-sporters-beleven-meer/</id>
-    <content type="html" xml:base="/news/2018-07-28-sporters-beleven-meer/">&lt;p&gt;Onder het motto ‘Sporters beleven meer’ lanceert Sport Vlaanderen de maand van de sportclub van 1 t.e.m. 30 september 2018. Sport Vlaanderen wil zoveel mogelijk mensen aan het sporten krijgen.&lt;/p&gt;
-&lt;p&gt;Sport is een zinvolle vorm van vrijetijdsbesteding is (gezond, uitdagend, meten met anderen, grensverleggend) en helpt om maatschappelijke doelen te bereiken, ter bevordering van gezond gedrag, sociale cohesie, weerbaarheid en respectvol gedrag.&lt;/p&gt;
-&lt;h3 id="is-basketbal-misschien-iets-voor-jou"&gt;Is basketbal misschien iets voor jou ?&lt;/h3&gt;
-&lt;p&gt;Gedurende de maand september kan je gratis komen kennismaken met deze toffe sport en ervaren of dit jouw uitdaging is.&lt;/p&gt;
-&lt;h4 id="jongens-en-meisjes-geboren-in-2009-en-2010"&gt;Jongens en meisjes geboren in 2009 en 2010:&lt;/h4&gt;
-&lt;p&gt;Maandag van 17h30 – 19h00 (Sporthal Zolder – Hal 1)&lt;br /&gt;
-Woensdag van 17h00 – 18h30 (Sporthal Zolder – Hal 2)&lt;/p&gt;
-&lt;h4 id="jongens-en-meisjes-geboren-in-2007-en-2008"&gt;Jongens en meisjes geboren in 2007 en 2008&lt;/h4&gt;
-&lt;p&gt;Maandag van 18h30 – 20h00 (Sporthal Zolder – Hal 2)&lt;br /&gt;
-Woensdag van 18h30 – 20h00 (Sporthal Zolder – Hal 1)&lt;/p&gt;
-&lt;h4 id="jongens-en-meisjes-geboren-in-2004-en-2005"&gt;Jongens en meisjes geboren in 2004 en 2005:&lt;/h4&gt;
-&lt;p&gt;Maandag van 19h00 – 20h30 (Sporthal Zolder – Hal 1)&lt;br /&gt;
-Woensdag van 18h30 – 20h00 (Sporthal Zolder – Hal 2)&lt;/p&gt;
-</content>
-    <author>
-      <name />
-      <email />
-    </author>
-    <summary>De ganse maand september zetten we onze deuren open voor niet-leden tijdens de maand van de sportclub.</summary>
   </entry>
 </feed>

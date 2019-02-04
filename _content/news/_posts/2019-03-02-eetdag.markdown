@@ -2,8 +2,8 @@
 layout: post
 title:  "Eetdag 2019"
 date:   2019-02-03 10:00:00
-excerpt: Op 24 maart organiseren we onze jaarlijkse eetdag.
-permalink: /news/2019-02-03-eetdag/
+excerpt: "Op 24 maart organiseren we onze jaarlijkse eetdag."
+permalink: /news/2019-03-02-eetdag/
 ---
 ### 24 maart 2019
 ## Jogem, Ringlaan, 3550 Heusden-Zolder

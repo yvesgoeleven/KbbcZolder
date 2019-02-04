@@ -2,9 +2,10 @@
 layout: post
 title:  "Medewerkers gezocht"
 date:   2019-02-03 10:00:00
-excerpt: Ook in het voorjaar verzorgt onze club de catering tijdens evenementen in de Ethias Arena.
-permalink: /news/2019-02-03-evenementen/
+excerpt: "Ook in het voorjaar verzorgt onze club de catering tijdens evenementen in de Ethias Arena."
+permalink: /news/2019-02-03-evenementen-voorjaar-2019/
 ---
+
 Ook in het voorjaar verzorgt onze club de catering tijdens evenementen in de Ethias Arena.
 Hieronder vindt U de kalender met het nog benodigde aantal medewerkers.
 
