@@ -230,6 +230,13 @@ input[type=submit]{
 
 /* next game */
 
+#next-header{
+	background-color: #333;
+}
+#next-header h2{
+	color: #fff;
+}
+
 #next a {
 	color: #333;
 	text-decoration: none;

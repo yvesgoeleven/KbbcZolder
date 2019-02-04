@@ -170,6 +170,10 @@
 #poule-header{
 	margin-top: -3vw;
 }
+#next-header{
+	padding: 2vh;
+	text-align: center;
+}
 #next-middle .container{
 	visibility: hidden;
 }
