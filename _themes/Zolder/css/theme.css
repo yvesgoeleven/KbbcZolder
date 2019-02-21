@@ -638,3 +638,11 @@ only screen and (max-width: 760px),
 	height: 1vh;
 	left: 50%;
 }
+
+button .spinner{
+    width: 20px;
+	height: 20px;
+	margin-left: .5vw;
+	margin-right: .5vw;
+    display: none;
+}

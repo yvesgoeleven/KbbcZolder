@@ -4,9 +4,16 @@ title:  "Eetdag 2019"
 date:   2019-02-03 10:00:00
 excerpt: "Op 24 maart organiseren we onze jaarlijkse eetdag."
 permalink: /news/2019-03-02-eetdag/
+custom_js:
+- handlebars-v4.0.12
+- ptsans
+- jspdf.min
+- purchaseorder
 ---
 ### 24 maart 2019
 ## Jogem, Ringlaan, 3550 Heusden-Zolder
 Onze jaarlijkse eetdag zal op 24 maart 2019 plaats vinden.
 Noteer nu alvast in uw agenda.
 Meer informatie binnenkort op deze website.
+
+<div data-saleid="2a0b1fa4-0b0f-4180-ad2b-98dd3e7d072a"  data-title="Plaats je bestelling" data-buttontext="Bestellen"  data-nexttext="Nog een bestelling plaatsen" data-optional="email"></div>
