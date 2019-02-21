@@ -1,2 +1,2 @@
 
-repository.initialize(orgId, partnerTeamIds);
+repository.initialize(vblOrgId, partnerTeamIds);

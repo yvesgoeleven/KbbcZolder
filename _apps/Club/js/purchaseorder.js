@@ -13,7 +13,7 @@ if (!String.prototype.format) {
 var catalogService = "clubmgmt-catalog-service-test.azurewebsites.net";
 var salesService = "clubmgmt-sales-service-test.azurewebsites.net";
 var ordersService = "clubmgmt-orders-service-test.azurewebsites.net";
-//  var service = "localhost:22465"; // uncomment for local testing
+//var ordersService = "localhost:22465"; // uncomment for local testing
 var promotionholder;
 var optional;
 var required;
@@ -373,7 +373,7 @@ function renderForm(){
                     SellerId: orgId,
                     Buyer: buyer,
                     OrderLines: orderLines,
-                    StatusUpdatesRequested: statusUpdatesRequested
+                    StatusUpdateRequested: statusUpdatesRequested
                 };
 
                 var report = function(message){
