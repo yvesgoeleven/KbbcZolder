@@ -26,7 +26,6 @@ var collection;
 var items = [];
 var itemDescriptions = [];
 var selectedOptionMemory = [];
-var deliveryOptions = [];
 
 Handlebars.registerHelper('line-item-total', function(orderLine) {
    return orderLine.Quantity * orderLine.OrderedItem.Price.Value;
@@ -194,11 +193,11 @@ function renderForm(){
                 .append($('<td>').append($('<label>').text('€ 0').attr('id', 'price'))));
         }
 
-        if(deliveryOptions.length > 0)
+        if(sale.deliverySlots.length > 0)
         {
-            var show = deliveryOptions.length > 1;
+            var show = sale.deliverySlots.length > 1;
                        
-            deliveryOptions.forEach(function(d, i){
+            sale.deliverySlots.forEach(function(d, i){
 
                 var start = new Date(d.start);
                 var end = new Date(d.end);
@@ -303,8 +302,8 @@ function renderForm(){
                 var optionalInput = promotionholder.find('#address');
                 var address = optionalInput != null ?  optionalInput.val() : null;
                 var statusUpdatesRequested = promotionholder.find('#sendConfirmation').is(':checked');
-                var selectedDeliveryOption = $('input[name=delivery]:checked').val();
-                var expectedDeliveryDateRange = selectedDeliveryOption && selectedDeliveryOption.length > 0 ? JSON.parse(selectedDeliveryOption) : null;
+                var selectedDeliverySlot = $('input[name=delivery]:checked').val();
+                var expectedDeliveryDateRange = selectedDeliverySlot && selectedDeliverySlot.length > 0 ? JSON.parse(selectedDeliverySlot) : null;
 
                 // all properties must be in caps otherwise the confirmation template won't render on both ends
                 var buyer = {
@@ -490,9 +489,7 @@ $(document).ready(function(){
     required = toSplit != null ? toSplit.split(" "): [];
     toSplit = promotionholder.attr("data-optional");
     optional = toSplit != null ? toSplit.split(" "): [];
-    var toParse = promotionholder.attr("data-deliveryOptions");
-    deliveryOptions = JSON.parse(toParse);   
-
+  
     loadSale();
 });
 

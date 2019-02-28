@@ -16,4 +16,4 @@ Onze jaarlijkse eetdag zal op 24 maart 2019 plaats vinden.
 Noteer nu alvast in uw agenda.
 Meer informatie binnenkort op deze website.
 
-<div data-saleid="2a0b1fa4-0b0f-4180-ad2b-98dd3e7d072a"  data-title="Plaats je bestelling" data-buttontext="Bestellen"  data-nexttext="Nog een bestelling plaatsen" data-optional="email" data-deliveryOptions='[{"start":"2019-03-24T11:30:00", "end":"2019-03-24T14:30:00"},{"start":"2019-03-24T17:00:00", "end":"2019-03-24T19:30:00"}]'></div>
+<div data-saleid="2a0b1fa4-0b0f-4180-ad2b-98dd3e7d072a"  data-title="Plaats je bestelling" data-buttontext="Bestellen"  data-nexttext="Nog een bestelling plaatsen" data-optional="email"></div>
