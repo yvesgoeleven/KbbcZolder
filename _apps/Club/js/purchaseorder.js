@@ -10,10 +10,10 @@ if (!String.prototype.format) {
     };
   }
 
-var catalogService = "clubmgmt-catalog-service-test.azurewebsites.net";
-var salesService = "clubmgmt-sales-service-test.azurewebsites.net";
-var ordersService = "clubmgmt-orders-service-test.azurewebsites.net";
-//var ordersService = "localhost:22465"; // uncomment for local testing
+var catalogService = "https://clubmgmt-catalog-service-test.azurewebsites.net";
+var salesService = "https://clubmgmt-sales-service-test.azurewebsites.net";
+var ordersService = "https://clubmgmt-orders-service-test.azurewebsites.net";
+//var ordersService = "http://localhost:22465"; // uncomment for local testing
 var promotionholder;
 var optional;
 var required;
@@ -26,6 +26,7 @@ var collection;
 var items = [];
 var itemDescriptions = [];
 var selectedOptionMemory = [];
+var deliveryOptions = [];
 
 Handlebars.registerHelper('line-item-total', function(orderLine) {
    return orderLine.Quantity * orderLine.OrderedItem.Price.Value;
@@ -61,7 +62,7 @@ function renderForm(){
 
     if(!fromDatePassed){
         table.append($('<tr>')
-                .append($('<td>').append($('<label>').text('Registratie gaat pas open op ' + fromDate.toLocaleDateString("nm-BE", { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' })))));;
+                .append($('<td>').append($('<label>').text('Registratie gaat pas open op ' + fromDate.toLocaleDateString("nl-BE", { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' })))));;
     }
 
     if(toDatePassed){
@@ -193,6 +194,23 @@ function renderForm(){
                 .append($('<td>').append($('<label>').text('€ 0').attr('id', 'price'))));
         }
 
+        if(deliveryOptions.length > 0)
+        {
+            var show = deliveryOptions.length > 1;
+                       
+            deliveryOptions.forEach(function(d, i){
+
+                var start = new Date(d.start);
+                var end = new Date(d.end);
+                var toShow = start.toLocaleTimeString("nl-BE", {hour: '2-digit', minute:'2-digit'}) + " tot " + end.toLocaleTimeString("nl-BE", {hour: '2-digit', minute:'2-digit'});
+
+                table.append($('<tr>')
+                            .append($('<td>').append($('<label>').text(i == 0 ? 'Ik kom van': '').attr('for', 'delivery')))
+                            .append($('<td>').append($('<input>').attr({ type: 'radio', id: 'delivery_' + i, name: 'delivery', value: JSON.stringify(d) })).append(" " + toShow)));
+            });
+        }
+        
+
         table.append($('<tr>')
             .append($('<td>').append($('<label>').text('Stuur me een bevestiging').attr('for', 'sendConfirmation')))
             .append($('<td>').append($('<input>').attr({ type: 'checkbox', id: 'sendConfirmation', name: 'sendConfirmation', checked: 'checked' })).append(" (vereist email)")));        
@@ -285,6 +303,8 @@ function renderForm(){
                 var optionalInput = promotionholder.find('#address');
                 var address = optionalInput != null ?  optionalInput.val() : null;
                 var statusUpdatesRequested = promotionholder.find('#sendConfirmation').is(':checked');
+                var selectedDeliveryOption = $('input[name=delivery]:checked').val();
+                var expectedDeliveryDateRange = selectedDeliveryOption && selectedDeliveryOption.length > 0 ? JSON.parse(selectedDeliveryOption) : null;
 
                 // all properties must be in caps otherwise the confirmation template won't render on both ends
                 var buyer = {
@@ -373,7 +393,13 @@ function renderForm(){
                     SellerId: orgId,
                     Buyer: buyer,
                     OrderLines: orderLines,
-                    StatusUpdateRequested: statusUpdatesRequested
+                    StatusUpdateRequested: statusUpdatesRequested,
+                    deliveryDetails : {
+                        expectedDeliveryDateRange: expectedDeliveryDateRange != null ? {
+                            start: new Date(expectedDeliveryDateRange.start),
+                            end: new Date(expectedDeliveryDateRange.end)
+                        } : null
+                    }
                 };
 
                 var report = function(message){
@@ -426,7 +452,7 @@ function renderForm(){
                     });
                 };
 
-                var posturi= "https://" + ordersService + "/api/purchaseorders/" + orgId + "/" + sale.id;
+                var posturi=  ordersService + "/api/purchaseorders/" + orgId + "/" + sale.id;
                 // send it to the service
                 $.ajax({
                     type: 'POST',
@@ -464,13 +490,14 @@ $(document).ready(function(){
     required = toSplit != null ? toSplit.split(" "): [];
     toSplit = promotionholder.attr("data-optional");
     optional = toSplit != null ? toSplit.split(" "): [];
-   
+    var toParse = promotionholder.attr("data-deliveryOptions");
+    deliveryOptions = JSON.parse(toParse);   
 
     loadSale();
 });
 
 function loadSale(){
-    var salesbaseuri = "https://" + salesService + "/api/sales/";
+    var salesbaseuri = salesService + "/api/sales/";
 	var uri = salesbaseuri + orgId + "/" + saleid + "/";
 	$.ajax({
 		 type: 'GET',
@@ -488,7 +515,7 @@ function loadCollection(){
 	if(sale && sale.items){
 		var item = sale.items[0]; // assume all items from same catalog & collection for now
 
-        var catalogbaseuri = "https://" + catalogService + "/api/catalogs/";
+        var catalogbaseuri = catalogService + "/api/catalogs/";
 		uri = catalogbaseuri + orgId + "/" + item.catalogId + "/collections/" + item.collectionId;
 		$.ajax({
 			type: 'GET',
