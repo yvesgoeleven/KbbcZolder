@@ -10,10 +10,28 @@ custom_js:
 - jspdf.min
 - purchaseorder
 ---
-### 24 maart 2019
-## Jogem, Ringlaan, 3550 Heusden-Zolder
-Onze jaarlijkse eetdag zal op 24 maart 2019 plaats vinden.
-Noteer nu alvast in uw agenda.
-Meer informatie binnenkort op deze website.
+
+Op zondag 24 maart 2019 zal onze jaarlijkse eetdag plaats vinden. Iedereen is welkom om samen lekker te komen eten.
+
+Op het menu staan aan:
+- Biefstuk natuur met frieten
+- Biefstuk champignonroomsaus met frieten
+- Biefstuk peperroomsaus met frieten
+- Biefstuk kruidenboter met frieten
+- Halve kip met frieten
+- Stoofvlees met frieten
+- 2 hamburgers met frieten
+- Vidé met frieten
+- Kindervidé met frieten
+- Koude zalmschotel met frieten
+- Vegetarische schotel met frieten
+
+### Praktisch
+
+We verwachten je in de Jogem, Ringlaan 50, 3550 Heusden-Zolder, op 24 maart van 11h30 tot 14h30 of van 17h00 tot 19h30.
+
+Bestellen kan je:
+- via de bestelkaarten die je kan bekomen bij spelers, coaches of bestuursleden
+- via het digitale bestelformulier hieronder, betalen kan aan de kassa tijdens de eetdag.
 
 <div data-saleid="2a0b1fa4-0b0f-4180-ad2b-98dd3e7d072a"  data-title="Plaats je bestelling" data-buttontext="Bestellen"  data-nexttext="Nog een bestelling plaatsen" data-optional="email"></div>

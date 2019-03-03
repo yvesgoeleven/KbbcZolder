@@ -10,9 +10,9 @@ if (!String.prototype.format) {
     };
   }
 
-var catalogService = "https://clubmgmt-catalog-service-test.azurewebsites.net";
-var salesService = "https://clubmgmt-sales-service-test.azurewebsites.net";
-var ordersService = "https://clubmgmt-orders-service-test.azurewebsites.net";
+var catalogService = "https://clubmgmt-catalog-service.azurewebsites.net";
+var salesService = "https://clubmgmt-sales-service.azurewebsites.net";
+var ordersService = "https://clubmgmt-orders-service.azurewebsites.net";
 //var ordersService = "http://localhost:22465"; // uncomment for local testing
 var promotionholder;
 var optional;
