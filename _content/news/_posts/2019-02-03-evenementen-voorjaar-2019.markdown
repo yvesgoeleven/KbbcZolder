@@ -10,11 +10,11 @@ Ook in het voorjaar verzorgt onze club de catering tijdens evenementen in de Eth
 Hieronder vindt U de kalender met het nog benodigde aantal medewerkers.
 
 # Kalender:
-**29/03/2019 (18h00-24h00) - Schlagerfestival - Arena – 15 personen**
+**29/03/2019 (18h00-24h00) - Schlagerfestival - Arena – 5 personen**
 ~~30/03/2019 (18h00-24h00) - Schlagerfestival - Arena (Middenplein)~~ – **VOLZET**
-**6/04/2019 (18h00-24h00)  - Schlagerfestival - Arena + Champagnebar - 12 personen**
-**13/04/2019 (18h30-01h00) - I love the 90's - Arena(Plaza + expo) - 15 personen**
-**13/04/2019 (01h00-04h00) - I love the 90's - Arena(Plaza + expo) - 12 personen**
+**6/04/2019 (18h00-24h00)  - Schlagerfestival - Arena + Champagnebar - 8 personen**
+**13/04/2019 (18h30-01h00) - I love the 90's - Arena(Plaza + expo) - 8 personen**
+**13/04/2019 (01h00-04h00) - I love the 90's - Arena(Plaza + expo) - 8 personen**
 ~~2/06/2019 (14h00-18h00)  - Aladin de musical - Theater~~ - **VOLZET**
 
 Zin om mee te helpen of heb nog vragen, stuur dan een mail naar [penningmeester@kbbczolder.be](mailto://penningmeester@kbbczolder.be)
