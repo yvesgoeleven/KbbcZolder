@@ -3,7 +3,7 @@ layout: post
 title:  "Infovergaderingen"
 date:   2019-04-24 10:00:00
 excerpt: "Belangrijke informatie voor alle leden."
-permalink: /news/2019-04-2402-03-infoverg/
+permalink: /news/2019-04-24-infoverg/
 ---
 
 Beste spelers/ouders,
