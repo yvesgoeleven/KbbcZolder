@@ -19,26 +19,20 @@ In plaats daarvan komen er 5 nieuwe niveaus in de competitie, waar in niveau 1 d
 Hoe lager het niveau, hoe kleiner de radius. Er wordt geen rekening meer gehouden met de provincies. Voor onze ploegen kan dit betekenen dat we een wedstrijd zullen spelen in het oosten van Vlaams-Brabant en zuiden van de provincie Antwerpen.
 
 ## Jongens:
-Niveau 1: ploegen die in heel Vlaanderen spelen
-
-Niveau 2: ploegen die in een radius van 80 km spelen
-
-Niveau 3: ploegen die in een radius van 60 km spelen
-
-Niveau 4: ploegen die in een radius van 40 km spelen
-
-Niveau 5: recreatieve competitievormen
+Niveau 1: ploegen die in heel Vlaanderen spelen.
+Niveau 2: ploegen die in een radius van 80 km spelen.
+Niveau 3: ploegen die in een radius van 60 km spelen.
+Niveau 4: ploegen die in een radius van 40 km spelen.
+Niveau 5: recreatieve competitievormen.
 
 
 ## Meisjes:
-Niveau 1: ploegen die in heel Vlaanderen spelen
-
-Niveau 2: ploegen die in een radius van 80 km spelen
-
-Niveau 3: ploegen die in een radius van 60 km spelen
+Niveau 1: ploegen die in heel Vlaanderen spelen.
+Niveau 2: ploegen die in een radius van 80 km spelen.
+Niveau 3: ploegen die in een radius van 60 km spelen.
 
 
-Het staat clubs vrij om ploegen in te schrijven voor niveau 3, 4 en 5, maar de plaatsen op niveau 1 & 2 zijn beperkt. Om aanspraak te maken op een positie binnen deze niveaus moeten ploegen punten verdienen. Deze telling is gebaseerd op een complex punten systeem waar volgende factoren een rol in spelen. Maar het zijn vooral de resultaten van onze ploegen die bepalend zijn.
+De plaatsen op niveau 1 & 2 zijn beperkt. Om aanspraak te maken op een positie binnen deze niveaus moeten ploegen punten verdienen. Deze telling is gebaseerd op een complex punten systeem waar volgende factoren een rol in spelen. Maar het zijn vooral de resultaten van onze ploegen die bepalend zijn.
 
 ### Ook de bekercompetitie ziet er anders uit : Eén bekerteam én uniforme regels
 
