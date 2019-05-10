@@ -16,16 +16,25 @@ Deze wijziging zal vooral impact hebben op de leeftijden U14 tot U21, waar de la
 
 In plaats daarvan komen er 5 nieuwe niveaus in de competitie, waar in niveau 1 de absolute top, die het over heel vlaanderen tegen elkaar gaan uitvechten, en niveau 5, dat eerder recreatief basketbal 'in de buurt' toestaat, met nog 3 niveaus daar tussen in. 
 
-Hoe lager het niveau, hoe kleiner de radius. Er wordt geen rekening meer gehouden met de provincies. Voor het merendeel van onze ploegen zal dit concreet betekenen dat we regelmatig een wedstrijd zullen spelen in het oosten van Vlaams-Brabant en zuiden van de provincie Antwerpen en misschien wat minder in het noorden van Limburg.
+Hoe lager het niveau, hoe kleiner de radius. Er wordt geen rekening meer gehouden met de provincies. Voor onze ploegen kan dit betekenen dat we een wedstrijd zullen spelen in het oosten van Vlaams-Brabant en zuiden van de provincie Antwerpen.
 
-![Niveau 3](/news/img/hervorming-niveau-3.png)
+## Jongens:
+Niveau 1: ploegen die in heel Vlaanderen spelen
+Niveau 2: ploegen die in een radius van 80 km spelen
+Niveau 3: ploegen die in een radius van 60 km spelen
+Niveau 4: ploegen die in een radius van 40 km spelen
+Niveau 5: recreatieve competitievormen
+
+## Meisjes:
+Niveau 1: ploegen die in heel Vlaanderen spelen
+Niveau 2: ploegen die in een radius van 80 km spelen
+Niveau 3: ploegen die in een radius van 60 km spelen
 
 Het staat clubs vrij om ploegen in te schrijven voor niveau 3, 4 en 5, maar de plaatsen op niveau 1 & 2 zijn beperkt. Om aanspraak te maken op een positie binnen deze niveaus moeten ploegen punten verdienen. Deze telling is gebaseerd op een complex punten systeem waar volgende factoren een rol in spelen. Maar het zijn vooral de resultaten van onze ploegen die bepalend zijn.
 
- * Resultaten van het team van vorig(e) seizoen(en)
- * Resultaten van het team een leeftijdscategorie lager van vorig(e) seizoen(en)
- * De kwaliteit van de jeugdwerking van de club
- * De kwaliteit van de infrastructuur van de club
- * Het niveau van de 1ste ploeg van de club én de doorstroming van eigen jeugd
+### Ook de bekercompetitie ziet er anders uit : Eén bekerteam én uniforme regels
+
+Elke club mag maar 1 bekerteam per bekercompetitie/niveau afvaardigen en wordt het aantal teams dat mag deelnemen aan de Beker van Vlaanderen ook beperkt. De teams die zich kwalificeren voor de Beker van Vlaanderen zullen niet mogen deelnemen aan de provinciale bekercompetitie.
+
 
 Meer details hierover vind je in de officiele aankodiging van de [hervorming jeugdcompetitie](https://www.basketbal.vlaanderen/blog-meer/detail/de-hervorming-van-de-jeugdcompetitie-uitgelegd).
