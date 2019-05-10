@@ -20,23 +20,31 @@ Hoe lager het niveau, hoe kleiner de radius. Er wordt geen rekening meer gehoude
 
 ## Jongens:
 Niveau 1: ploegen die in heel Vlaanderen spelen.
+
 Niveau 2: ploegen die in een radius van 80 km spelen.
+
 Niveau 3: ploegen die in een radius van 60 km spelen.
+
 Niveau 4: ploegen die in een radius van 40 km spelen.
+
 Niveau 5: recreatieve competitievormen.
 
 
 ## Meisjes:
 Niveau 1: ploegen die in heel Vlaanderen spelen.
+
 Niveau 2: ploegen die in een radius van 80 km spelen.
+
 Niveau 3: ploegen die in een radius van 60 km spelen.
 
 
-De plaatsen op niveau 1 & 2 zijn beperkt. Om aanspraak te maken op een positie binnen deze niveaus moeten ploegen punten verdienen. Deze telling is gebaseerd op een complex punten systeem waar volgende factoren een rol in spelen. Maar het zijn vooral de resultaten van onze ploegen die bepalend zijn.
+De plaatsen op niveau 1 & 2 zijn beperkt. Om aanspraak te maken op een positie binnen deze niveaus moeten ploegen punten verdienen. Deze telling is gebaseerd op een complex punten systeem.
 
 ### Ook de bekercompetitie ziet er anders uit : Eén bekerteam én uniforme regels
 
-Elke club mag maar 1 bekerteam per bekercompetitie/niveau afvaardigen en wordt het aantal teams dat mag deelnemen aan de Beker van Vlaanderen ook beperkt. De teams die zich kwalificeren voor de Beker van Vlaanderen zullen niet mogen deelnemen aan de provinciale bekercompetitie.
+Per club mag maar 1 bekerteam per bekercompetitie/niveau deelnemen.
+Het aantal teams dat mag deelnemen aan de Beker van Vlaanderen ook beperkt. 
+De teams die zich kwalificeren voor de Beker van Vlaanderen zullen niet mogen deelnemen aan de provinciale bekercompetitie.
 
 
-Meer details hierover vind je in de officiele aankodiging van de [hervorming jeugdcompetitie](https://www.basketbal.vlaanderen/blog-meer/detail/de-hervorming-van-de-jeugdcompetitie-uitgelegd).
+Meer details hierover vind je in de officiele aankondiging van de [hervorming jeugdcompetitie](https://www.basketbal.vlaanderen/blog-meer/detail/de-hervorming-van-de-jeugdcompetitie-uitgelegd).
