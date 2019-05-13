@@ -6,8 +6,6 @@ excerpt:
 permalink: /news/2019-05-10-jeugdcompet/
 ---
 
-## Vanaf het seizoen 2019-2020 ziet de jeugdcompetitie er anders uit.
-
 Met als doel, een evenwichtigere competitie en een goed gevulde kalender, waarbij  jonge spelers, op alle niveaus, optimale leerkansen krijgen op het terrein, start Basketbal Vlaanderen vanaf het seizoen 2019-2020 met een nieuwe formule voor de jeugdcompetitie. Hiermee  wil Basketbal Vlaanderen de clubs ook aanzetten tot een meer professionelere jeugdwerking en actieve rekrutering.
 
 ## Wat betekent dit praktisch?
