@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Vanaf seizoen 2019-2020 zal de jeugdcompetitie er anders uitzien"
-date:   2018-07-29 09:00:00
+date:   2019-05-10 09:00:00
 excerpt: 
 permalink: /news/2019-05-10-jeugdcompet/
 ---
