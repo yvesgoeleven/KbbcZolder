@@ -9,7 +9,6 @@ keywords: Basket, KBBC Zolder
 
 * Stamnummer: 0853
 * Opgericht in: 1955
-* Aantal leden: 166
 
 ## Nuttige gegevens
 
@@ -100,7 +99,7 @@ Iedere ploeg heeft een trainer - coach, die verantwoordelijk is voor het sportie
 
 De coaches staan onder leiding van de jeugdcoördinator, en komen regelmatig samen om het sportieve luik van het jeugdbeleid uit te werken.
 
-Jeugdcoördinator is Kris Balette [kbalette@bitsbytes.be](mailto://kbalette@bitsbytes.be)
+Jeugdcoördinator is Kris Balette [k.balette@hotmail.com](mailto://k.balette@hotmail.com)
 
 Daarnaast heeft iedere ploeg een ploegverantwoordelijke. Dit is een ouder - vrijwillig(st)er, die de praktische taken rond de ploeg en wedstrijden mee ter harte neemt. De ploegverantwoordelijken zijn tevens stemgerechtigd lid van de Algemene Vergadering van de vzw Koninklijke Basketbalclub Zolder.
 Naast de Statutaire Algemene Vergadering komen de ploegverantwoordelijken, in het regelmatig samen, om praktische afspraken te maken. Zij fungeren als brugfiguur tussen de sportieve leiding en het bestuur enerzijds en de ouders, sympathisanten en supporters anderzijds. Concreet hebben de ploegverantwoordelijken voornamelijk tot taak: 
@@ -121,17 +120,14 @@ Het bedrag van het lidgeld wordt jaarlijks door de Raad van Bestuur vastgelegd.
 Voor het seizoen 2018-2019 bedraagt het lidgeld voor spelers:
 215 euro voor G-Basket
 165 euro voor U10 
-245 euro voor de provinciale jeugdploegen vanaf U12 en senioren
-310 euro voor de landelijke jeugdploeg en senioren
+245 euro voor de jeugdploegen vanaf U12 en senioren (Tot Niveau 3)
+295 euro voor de jeugdploeg (Niveau 1 en 2) en senioren
 
 Lidgelden zijn slechts een klein deel van de inkomsten. Daarnaast doet onze club een beroep op sponsors en nevenactiviteiten organiseren ten einde het budget in evenwicht te brengen.
 
 Als nevenactiviteiten worden jaarlijks georganiseerd:
-
-* Spaghetti avond
 * Eetdag
-* Familiedag
-* Andere initiatieven zoals tappen in Ethias Arena, op Pukkelpop & Reggae Geel, Heizel, veldritten,...
+* Andere initiatieven zoals tappen in Ethias Arena, op Pukkelpop & Reggae Geel, Heizel, veldritten, Rode Duivels, Rock Herk, ...
 
 _2.2. Uitgaven._
 
@@ -142,7 +138,7 @@ Aan de kostenzijde staat daar tegenover onder andere:
 * Sportieve uitrusting en ballen.
 * Huur van de sporthal.
 * Verzekeringen.
-* Kosten aan de basketbalbond: inschrijving, forfaits, boetes,...
+* Kosten aan de Basketbal Vlaanderen: inschrijving, forfaits, boetes,...
 * Werkingskosten van de vzw: Staatsblad, post, website,...
 
 ++**3. Afspraken:**++
@@ -200,7 +196,7 @@ Om deze taken rond te krijgen spreekt de ploegverantwoordelijke een beurtrol af 
 | 2016-2017      | 1ste provinciale |
 | 2017-2018      | 1e in 1ste provinciale (promotie naar 2de landelijke) |
 | 2018-2019      | 2de landelijke |
-
+| 2019-2020      | 1ste provinciale |
 
 
 
