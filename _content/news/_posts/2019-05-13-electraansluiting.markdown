@@ -27,5 +27,5 @@ Een beknopte handleiding  kan je terugvinden op [deze link](https://www.basketba
 
 ## Heb je vragen of een probleem?
 
-Stuur een mailtje naar Walter op secretariaat@kbbczolder.be
+Stuur een mailtje naar [Walter](mailto://secretariaat@kbbczolder.be)
 
