@@ -1,14 +1,12 @@
 ---
 layout: post
 title:  "Afspraken met betrekking tot extra uitrusting."
-date:   2018-07-29 09:00:00
+date:   2019-05-13 09:00:00
 excerpt: 
 permalink: /news/2019-05-13-uitrusting/
 ---
 
 ![Uniformiteit teamuitrusting](/news/img/uitrusting.jpg)
-
-## Uniformiteit teamuitrusting.
 
 In het huidig reglement staat dat de kleur van de **zichtbare onderkleding** (T-shirt en broek) identiek dient te zijn aan de uitrusting.
 
