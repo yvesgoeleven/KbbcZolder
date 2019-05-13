@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Afspraken met betrekking tot extra uitrusting."
-date:   2018-07-29 09:00:00
+date:   2019-05-13 09:00:00
 excerpt: 
 permalink: /news/2019-05-13-uitrusting/
 ---
