@@ -8,8 +8,6 @@ permalink: /news/2019-05-13-uitrusting/
 
 ![Uniformiteit teamuitrusting](/news/img/uitrusting.jpg)
 
-## Uniformiteit teamuitrusting.
-
 In het huidig reglement staat dat de kleur van de **zichtbare onderkleding** (T-shirt en broek) identiek dient te zijn aan de uitrusting.
 
 Daarom dat we jullie aanraden dat jullie bij aanschaf opteren voor een **zwarte T-shirt of Broek**.
