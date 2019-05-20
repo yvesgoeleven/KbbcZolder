@@ -38,7 +38,7 @@ Algemeen: BE35001208662537
 ### Verzekering:
 
 Alle nodige documenten voor de verzekeringen kan je krijgen via ploegafgevaardigde.
-Ze zijn ook downloadbaar via volgende link [http://www.vlaamsebasketballiga.be/verzekeringen](http://www.vlaamsebasketballiga.be/verzekeringen)  
+Ze zijn ook downloadbaar via volgende link [Aangifteformulier ongevallen](https://www.basketbal.vlaanderen/src/Frontend/Files/userfiles/files/Benjamin/verzekeringen/Aangifteformulier.pdf)  
 Daarnaast is KBBC Zolder erkent bij het Vlaams Steunpunt Vrijwilligerswerk onder erkenningsnummer : GVV82647286
 
 ## Kennismaking
@@ -129,11 +129,13 @@ _2.1. Inkomsten._
 
 Het bedrag van het lidgeld wordt jaarlijks door de Raad van Bestuur vastgelegd.
 
-Voor het seizoen 2019-2020 bedraagt het lidgeld voor spelers:
-215 euro voor G-Basket
-165 euro voor U10 
-245 euro voor de jeugdploegen vanaf U12 en senioren (Tot Niveau 3)
-295 euro voor de jeugdploeg (Niveau 1 en 2) en senioren
+Voor het seizoen 2019-2020 bedraagt het lidgeld voor spelers:  
+  * 215 euro voor G-Basket  
+  * 165 euro voor U10   
+  * 245 euro voor de jeugdploegen vanaf U12 en senioren (Tot Niveau 3)  
+  * 295 euro voor de jeugdploeg (Niveau 1 en 2) en senioren  
+
+Er zijn verschillende vormen van tussenkomsten waarvan spelers kunnen genieten. Bezoek zeker [http://aap.heusden-zolder.be/content/detail/8/alle-mogelijke-tussenkomsten-in-het-lidgeld](http://aap.heusden-zolder.be/content/detail/8/alle-mogelijke-tussenkomsten-in-het-lidgeld), waar alle tussenkomsten en voorwaarden mooi werden samengevat.  
 
 Lidgelden zijn slechts een klein deel van de inkomsten. Daarnaast doet onze club een beroep op sponsors en organiseert nevenactiviteiten ten einde het budget in evenwicht te brengen.
 
