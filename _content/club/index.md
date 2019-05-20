@@ -7,36 +7,38 @@ keywords: Basket, KBBC Zolder
 
 ## Algemene info
 
-KBBC Zolder vzw
-Dekenstraat 22
-3550 Heusden-Zolder
-* BTW BE0416751491
-* Stamnummer: 0853
-* Opgericht in: 1955
+  KBBC Zolder vzw  
+  Dekenstraat 22  
+  3550 Heusden-Zolder  
+  * BTW BE0416751491  
+  * Stamnummer: 0853  
+  * Opgericht in: 1955  
 
 ## Nuttige gegevens
 
 ### Sporthal:
 
-Sporthal Zolder, Dekenstraat 22, 3550 HEUSDEN-ZOLDER
+  Sporthal Zolder  
+  Dekenstraat 22  
+  3550 HEUSDEN-ZOLDER  
 
 ### Briefwisseling + contact gegevens:
 
-KBBC Zolder vzw
-p.a. Walter Geerts
-Vogelzangstraat 4
-3520 Zonhoven
-GSM 0485 48 35 13
+  KBBC Zolder vzw  
+  p.a. Walter Geerts  
+  Vogelzangstraat 4  
+  3520 Zonhoven  
+  GSM 0485 48 35 13  
 
 ### Rekeningnummers:
 
-Ligdeld: BE05001237543275
+Ligdeld: BE05001237543275  
 Algemeen: BE35001208662537
 
 ### Verzekering:
 
 Alle nodige documenten voor de verzekeringen kan je krijgen via ploegafgevaardigde.
-Ze zijn ook downloadbaar via volgende link [http://www.vlaamsebasketballiga.be/verzekeringen](http://www.vlaamsebasketballiga.be/verzekeringen)
+Ze zijn ook downloadbaar via volgende link [http://www.vlaamsebasketballiga.be/verzekeringen](http://www.vlaamsebasketballiga.be/verzekeringen)  
 Daarnaast is KBBC Zolder erkent bij het Vlaams Steunpunt Vrijwilligerswerk onder erkenningsnummer : GVV82647286
 
 ## Kennismaking
