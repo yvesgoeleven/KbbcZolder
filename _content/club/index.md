@@ -7,6 +7,10 @@ keywords: Basket, KBBC Zolder
 
 ## Algemene info
 
+KBBC Zolder vzw
+Dekenstraat 22
+3550 Heusden-Zolder
+* BTW BE0416751491
 * Stamnummer: 0853
 * Opgericht in: 1955
 
@@ -33,6 +37,7 @@ Algemeen: BE35001208662537
 
 Alle nodige documenten voor de verzekeringen kan je krijgen via ploegafgevaardigde.
 Ze zijn ook downloadbaar via volgende link [http://www.vlaamsebasketballiga.be/verzekeringen](http://www.vlaamsebasketballiga.be/verzekeringen)
+Daarnaast is KBBC Zolder erkent bij het Vlaams Steunpunt Vrijwilligerswerk onder erkenningsnummer : GVV82647286
 
 ## Kennismaking
 
@@ -50,8 +55,9 @@ _1.1. Statuut._
 
 Basketbalclub Zolder is een vereniging zonder winstgevend doel (vzw) naar Belgisch recht.
 Officiële naam: Koninklijke Basketbalclub Zolder vzw (KBBC Zolder vzw)
-Nummer van de vzw: 57577; Ondernemingsnummer: 416751491
-Maatschappelijke Zetel: Dekenstraat 22, 3550 Heusden-Zolder
+_Maatschappelijke Zetel:_ Dekenstraat 22, 3550 Heusden-Zolder
+_Ondernemingsnummer:_ 416751491
+_Nummer van de vzw:_ 57577
 
 De vzw, bestaat uit de Algemene Vergadering en de Raad van Bestuur. De samenstelling, bevoegdheden en taken van beide organen is vastgelegd in de statuten van de vzw. De Raad van Bestuur is verantwoordelijk voor de dagdagelijkse organisatie, het reilen en zeilen van de club. Zij bestaat uit: een voorzitter, een secretaris, een penningmeester en gewone bestuursleden. De persoonsgegevens van de bestuursleden vind je op de site van KBBC ZOLDER . 
 
@@ -82,7 +88,8 @@ De Spelers worden ingedeeld per leeftijd. Dit gebeurt telkens in schijven van 2 
 | U21          | 19 - 21 jaar / na schoolplicht              |
 | Seniors      | Vanaf 22 jaar of afhangende van spelniveau  |
 
-De jeugdploegen worden ingeschreven voor de provinciale of – indien het niveau het toelaat in de landelijke - jeugdcompetitie georganiseerd door VBL (Vlaamse Basketballiga). Per schijf van 10 spelers wordt in principe één ploeg ingeschreven. De indeling gebeurt door het bestuur op basis van het aantal spelers ingeschreven in het vorige seizoen. Hierbij wordt vooral het geboortejaar als criterium gehanteerd.
+De jeugdploegen worden ingeschreven voor de jeugdcompetitie georganiseerd door Basketbal Vlaanderen.
+Per schijf van 10 spelers wordt in principe één ploeg ingeschreven. De indeling gebeurt door het bestuur op basis van het aantal spelers ingeschreven in het vorige seizoen. Hierbij wordt vooral het geboortejaar als criterium gehanteerd.
 Tot en met U14 mogen jongens en meisjes samen in één ploeg spelen.
 
 De seniorenploegen worden ingeschreven in de competities, afhangende van het resultaat van het vorige seizoen.
@@ -101,7 +108,10 @@ De coaches staan onder leiding van de jeugdcoördinator, en komen regelmatig sam
 
 Jeugdcoördinator is Kris Balette [k.balette@hotmail.com](mailto://k.balette@hotmail.com)
 
+Daarnaast staan de coaches van de seniors onder leiding van een sportief coordinator. 
+
 Daarnaast heeft iedere ploeg een ploegverantwoordelijke. Dit is een ouder - vrijwillig(st)er, die de praktische taken rond de ploeg en wedstrijden mee ter harte neemt. De ploegverantwoordelijken zijn tevens stemgerechtigd lid van de Algemene Vergadering van de vzw Koninklijke Basketbalclub Zolder.
+
 Naast de Statutaire Algemene Vergadering komen de ploegverantwoordelijken, in het regelmatig samen, om praktische afspraken te maken. Zij fungeren als brugfiguur tussen de sportieve leiding en het bestuur enerzijds en de ouders, sympathisanten en supporters anderzijds. Concreet hebben de ploegverantwoordelijken voornamelijk tot taak: 
 Concreet hebben de ploegverantwoordelijken voornamelijk tot taak:
 
@@ -111,23 +121,30 @@ Concreet hebben de ploegverantwoordelijken voornamelijk tot taak:
 
 ++**2. Financiën:**++
 
-"Koken kost geld" en basketbal spelen zeker. Zoals in iedere andere sporttak wordt van de leden een bijdrage verwacht om de praktische organisatie van de sportbeoefening mogelijk te maken. De financiering van Basketbal club Zolder vertrekt van de ledenbijdrage. Er wordt naar gestreefd deze zo laag mogelijk te houden. De club wil zoveel mogelijk spelers de kans bieden de basketbalsport te beoefenen.
+Zoals in iedere andere sporttak, wordt van de leden een bijdrage verwacht om de praktische organisatie van de sportbeoefening mogelijk te maken. De financiering van Basketbal club Zolder vertrekt van de ledenbijdrage. Er wordt naar gestreefd deze zo laag mogelijk te houden. De club wil zoveel mogelijk spelers de kans bieden de basketbalsport te beoefenen. 
 
 _2.1. Inkomsten._
 
 Het bedrag van het lidgeld wordt jaarlijks door de Raad van Bestuur vastgelegd.
 
-Voor het seizoen 2018-2019 bedraagt het lidgeld voor spelers:
+Voor het seizoen 2019-2020 bedraagt het lidgeld voor spelers:
 215 euro voor G-Basket
 165 euro voor U10 
 245 euro voor de jeugdploegen vanaf U12 en senioren (Tot Niveau 3)
 295 euro voor de jeugdploeg (Niveau 1 en 2) en senioren
 
-Lidgelden zijn slechts een klein deel van de inkomsten. Daarnaast doet onze club een beroep op sponsors en nevenactiviteiten organiseren ten einde het budget in evenwicht te brengen.
+Lidgelden zijn slechts een klein deel van de inkomsten. Daarnaast doet onze club een beroep op sponsors en organiseert nevenactiviteiten ten einde het budget in evenwicht te brengen.
 
 Als nevenactiviteiten worden jaarlijks georganiseerd:
 * Eetdag
-* Andere initiatieven zoals tappen in Ethias Arena, op Pukkelpop & Reggae Geel, Heizel, veldritten, Rode Duivels, Rock Herk, ...
+* Andere initiatieven zoals de catering voorzien op verschillende evenmenten:
+    * Ethias Arena (Schlagerfestival, I love the 90's, theatervoorstellingen, ...)
+    * Pukkelpop
+    * Rock Herk
+    * Reggae Geel
+    * Koning Boudewijnstadion
+    * Veldritten
+    * ...
 
 _2.2. Uitgaven._
 
