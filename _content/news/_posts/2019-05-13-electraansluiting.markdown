@@ -25,15 +25,15 @@ Elk lid heeft een profiel bij Basketbal Vlaanderen. Daarin staat o.a. bij welke 
 
 Stap 1: Download en installeer de nodige software om de elektronische kaartlezer te gebruiken.
 Stap 2: Ga naar HTTPS://VBLBEID.WISSEQ.EU 
-Stap 3: Steek je elektronische identiteitskaart in de kaartlezer en klik op start.
-![](/news/img/edi1.jpg)
-Stap 4: Je gegevens verschijnen op het scherm. Klik vervolgens op Card uploaden.
-![](/news/img/edi2.jpg)
-Stap 5: Vervolledig je gegevens en klik vervolgens op verstuur.
-![](/news/img/edi3.jpg)
-Stap 6: Indien het lezen goed verlopen is, zie je het bericht Uitgevoerd. Klik op OK.
-![](/news/img/edi4.jpg)
-Stap 7: Verwijder je elektronische identiteitskaart en sluit de browser.
+Stap 3: Steek je elektronische identiteitskaart in de kaartlezer en klik op start.  
+![](/news/img/edi1.jpg)  
+Stap 4: Je gegevens verschijnen op het scherm. Klik vervolgens op Card uploaden.  
+![](/news/img/edi2.jpg)  
+Stap 5: Vervolledig je gegevens en klik vervolgens op verstuur.  
+![](/news/img/edi3.jpg)  
+Stap 6: Indien het lezen goed verlopen is, zie je het bericht Uitgevoerd. Klik op OK.  
+![](/news/img/edi4.jpg)  
+Stap 7: Verwijder je elektronische identiteitskaart en sluit de browser.  
 
 
 ## Heb je vragen of een probleem?
