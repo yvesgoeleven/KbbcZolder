@@ -23,8 +23,8 @@ Elk lid heeft een profiel bij Basketbal Vlaanderen. Daarin staat o.a. bij welke 
 
 ## Hoe koppel je jouw e-ID? 
 
-Stap 1: Download en installeer de nodige software om de elektronische kaartlezer te gebruiken.
-Stap 2: Ga naar HTTPS://VBLBEID.WISSEQ.EU 
+Stap 1: Download en installeer de nodige software om de elektronische kaartlezer te gebruiken.  
+Stap 2: Ga naar HTTPS://VBLBEID.WISSEQ.EU   
 Stap 3: Steek je elektronische identiteitskaart in de kaartlezer en klik op start.  
 ![](/news/img/edi1.jpg)  
 Stap 4: Je gegevens verschijnen op het scherm. Klik vervolgens op Card uploaden.  
