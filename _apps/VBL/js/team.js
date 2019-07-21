@@ -7,17 +7,21 @@ var getParameterByName = function (name, url) {
     if (!results[2]) return '';
     return decodeURIComponent(results[2].replace(/\+/g, " "));
 }
-var teamid = decodeURIComponent(getParameterByName("teamid"));
+var vblteamid = getParameterByName("vblteamid");
+var teamid = getParameterByName("teamid");
+var partnershipId = getParameterByName("p");
+var team;
+var visualDate = new Date();
 
 var renderNextMatch = function(){
-  repository.nextMatchOfTeam(teamid, function(match){
+  repository.nextMatchOfTeam(vblteamid, function(match){
         var src;
         var name;
-        if(teamid != match.tTGUID){
+        if(vblteamid != match.tTGUID){
             src = vbl.teamimage(match.tTGUID);
             name = match.tTNaam;
         }
-        if(teamid != match.tUGUID){
+        if(vblteamid != match.tUGUID){
             src = vbl.teamimage(match.tUGUID);
             name = match.tUNaam;
         }
@@ -26,7 +30,7 @@ var renderNextMatch = function(){
         var div = $.template("#next-game-template",
         {
             matchuri: "/match/?matchid=" + match.guid,
-            imgurl: src,
+            imgurl: "background: url(" + src +  "), url('/img/icon.jpg'); background-repeat: no-repeat; background-position: center center; background-size: cover;",
             name: name,
             day: d.toLocaleString(window.navigator.language, {weekday: 'long'}),
             date: d.toLocaleString(window.navigator.language, {day: 'numeric'}) + " " + d.toLocaleString(window.navigator.language, {month: 'long'}),
@@ -36,7 +40,7 @@ var renderNextMatch = function(){
         $("#next-game-placeholder").append(div);     
   });
 
-  repository.futureMatchesOfTeam(teamid, function(match){
+  repository.futureMatchesOfTeam(vblteamid, function(match){
     var tr = $.template("#future-game-template", {
                 date: match.datumString,
                 time: match.beginTijd,
@@ -48,7 +52,7 @@ var renderNextMatch = function(){
     $(".future-games").append(tr);
   });
 
-repository.pastMatches(teamid, function(match){
+repository.pastMatches(vblteamid, function(match){
     var tr = $.template("#past-game-template", {
                 date: match.datumString,
                 time: match.beginTijd,
@@ -63,72 +67,137 @@ repository.pastMatches(teamid, function(match){
 
 };
 
-var renderTeam = function(team){
-    $("#team-name").text(team.naam);
-    var pic = team.naam.replace(/ +/g,".").toLowerCase();
-    $("#team-photo").attr("style", "background: url('/img/teams/" + pic +  ".jpg');  background-repeat: no-repeat; background-position: center top; background-size: cover;");
-  
-    if(team.spelers){
-        team.spelers.forEach(function(p){
-            var pic = p.naam.replace(/ +/g,".").toLowerCase();
-            var div = $.template("#player-template",
-            {
-                name: p.naam,
-                birthDate: p.sGebDat,
-                // imgurl: '/img/members/' + pic +  '.jpg'        
-                imgscript: "background: url('/img/members/" + pic +  ".jpg'), url('/img/icon.jpg');  background-repeat: no-repeat; background-position: center; background-size: cover;"
-            });
-            $(".players .tiles").append(div);          
-        });
+var renderTeam = function(vblTeam, team){
+      
+    var qs = null;
+    if(teamid != null){
+        qs = "teamid=" + teamid; 
     }
-    else{
-        var div = $.template("#message-template", {
-            message: "Spelers nog niet geregistreerd"
-        });
-        $(".players .tiles").append(div);
+    else if(vblteamid != null){
+        qs = "vblteamid=" + vblteamid;   
+    }
+    if(partnershipId != null){
+        qs += "&p=" + partnershipId;
     }
 
-    if(team.tvlijst){
-        team.tvlijst.forEach(function(tv){
-            var pic = tv.naam.replace(/ +/g,".").toLowerCase();
-            var div = $.template("#staff-template",
-            {
-                name: tv.naam,
-                role: tv.tvCaC,
-               // imgurl: '/img/members/' + pic +  '.jpg'   
-               imgscript: "background: url('/img/members/" + pic +  ".jpg'), url('/img/icon.jpg');  background-repeat: no-repeat; background-position: center; background-size: cover;"       
-            });
-            $(".staff .tiles").append(div);          
-        });
-    }
-    else{
-        var div = $.template("#message-template", {
-            message: "Staf nog niet geregistreerd"
-        });
-        $(".staff .tiles").append(div);
-    }
+    $("#link-calendar").attr('href', '/teams/calendar/?' + qs);
+    $("#link-results").attr('href', '/teams/results/?' + qs);
 
-     if(team.poules){
-        team.poules.forEach(function(p){
+    if(team != null){
+        $("#team-name").text(team.groupName);               
+    }
+    else if(vblTeam != null){
+        $("#team-name").text(vblTeam.naam);
+    }
+    
+    var imgurl = null;
+    var fallbackimgurl = null;
+    if(team != null){
+        imgurl = "url('https://clubmgmt.blob.core.windows.net/groups/originals/" + team.groupId + ".jpg')";        
+    }
+    // if(vblTeam != null){       
+    //     var pic = vblTeam.naam.replace(/ +/g,".").toLowerCase();
+    //     fallbackimgurl = "url('/img/teams/" + pic +  ".jpg')"       
+    // }
+    fallbackimgurl = "url('/img/team_placeholder.png')";
+
+    var combined = null;
+    if(imgurl){
+        combined = imgurl;
+    }
+    if(fallbackimgurl){
+        if(combined){
+            combined += ", " + fallbackimgurl;
+        }
+        else{
+            combined = fallbackimgurl;
+        }
+    }
+    combined += ";";
+    
+    $("#team-photo").attr("style", "background: " + combined +  " background-repeat: no-repeat; background-position: center top; background-size: cover;"); 
+
+    if(team != null)
+    {      
+        team.participations.forEach(function(p){
+            var from = p.from != null ? new Date(p.from) :  null;
+            var to = p.to != null ? new Date(p.to) :  null;
+            if( from != null && from > visualDate || to != null && to <= visualDate ) return;
+            
+            if(p.roleName == "Player"){
+                var div = $.template("#player-template",
+                {
+                    name: p.contactName,
+                    // imgurl: '/img/members/' + pic +  '.jpg'        
+                    imgscript: "background:  url('" + clubmgmt.teamspecificprofileimage(p.contactId, team.groupId) + "'), url('" + clubmgmt.profileimage(p.contactId) + "'), url('/img/icon.jpg');  background-repeat: no-repeat; background-position: center; background-size: cover;"
+                });
+                $(".players .tiles").append(div); 
+            }
+            else if(p.roleName == "Head coach" || p.roleName == "Assistent coach" || p.roleName == "Shooting Coach"){
+                var div = $.template("#staff-template",
+                {
+                    name: p.contactName,
+                    role: p.roleName,
+                    // imgurl: '/img/members/' + pic +  '.jpg'   
+                    imgscript: "background: url('" + clubmgmt.teamspecificprofileimage(p.contactId, team.groupId) + "'), url('" + clubmgmt.profileimage(p.contactId) + "'), url('/img/icon.jpg');  background-repeat: no-repeat; background-position: center; background-size: cover;"       
+                });
+                $(".staff .tiles").append(div); 
+            }
+        });
+    }
+    else{ // temp, until all migrated
+
+       
+        if(vblTeam.spelers){
+                vblTeam.spelers.forEach(function(p){
+                    var pic = p.naam.replace(/ +/g,".").toLowerCase();
+                    var div = $.template("#player-template",
+                    {
+                        name: p.naam,
+                        birthDate: p.sGebDat,
+                        // imgurl: '/img/members/' + pic +  '.jpg'        
+                        imgscript: "background: url('/img/members/" + pic +  ".jpg'), url('/img/icon.jpg');  background-repeat: no-repeat; background-position: center; background-size: cover;"
+                    });
+                    $(".players .tiles").append(div);          
+                });
+            }
+            else{
+                var div = $.template("#message-template", {
+                    message: "Spelers nog niet geregistreerd"
+                });
+                $(".players .tiles").append(div);
+            }
+
+            if(vblTeam.tvlijst){
+                vblTeam.tvlijst.forEach(function(tv){
+                    var pic = tv.naam.replace(/ +/g,".").toLowerCase();
+                    var div = $.template("#staff-template",
+                    {
+                        name: tv.naam,
+                        role: tv.tvCaC,
+                    // imgurl: '/img/members/' + pic +  '.jpg'   
+                    imgscript: "background: url('/img/members/" + pic +  ".jpg'), url('/img/icon.jpg');  background-repeat: no-repeat; background-position: center; background-size: cover;"       
+                    });
+                    $(".staff .tiles").append(div);          
+                });
+            }
+            else{
+                var div = $.template("#message-template", {
+                    message: "Staf nog niet geregistreerd"
+                });
+                $(".staff .tiles").append(div);
+            }
+    }   
+
+     if(vblTeam && vblTeam.poules){
+        vblTeam.poules.forEach(function(p){
             if(p.naam.indexOf("OEFEN") === -1){
-                var entries = [];
                 var rank = "-";
                 if(p.teams){
                     p.teams.forEach(function(t){
-                        if(t.guid == teamid){
+                        if(t.guid == vblteamid){
                             rank = t.rangNr;
                         }
-
-                        var tr = $.template("#standings-entry-template", {
-                            nr: t.rangNr,
-                            team: t.naam,
-                            played: t.wedAant,
-                            wins: t.wedWinst,
-                            draws: t.wedGelijk,
-                            losses:  t.wedVerloren,
-                            points: t.wedPunt
-                        }, "tbody")
-                        entries.push(tr);
                     });
                 }
 
@@ -137,39 +206,81 @@ var renderTeam = function(team){
                     name: p.naam,
                     rank: rank           
                 });
-                var table = $(div).find(".detail");
-                entries.forEach(function(e){
-                    table.append(e);
-                });
+                var a = $(div).find(".detail-toggle");
+                a.attr('href', '/teams/standings/?' + qs + "&poule=" + p.guid)
                 $(".results").append(div);        
             }  
         });
     }
-
-    $(".detail-toggle").click(function(){
-        $(this).parent().nextAll(".detail:first").toggle();  
-        return false;
-    });
 };
 
 
 $.topic("repository.initialized").subscribe(function () {
   console.log("loading data");
-  repository.loadMatches();
-  
-  repository.loadTeam(teamid);
+   
+  if(vblteamid != null){
+    repository.loadTeam(vblteamid);
+  }
+  else if(teamid != null){   
+    
+    if(partnershipId == null){
+
+        clubmgmt.mapTeam(teamid, function(map){
+            if(map == null){            
+                clubmgmt.loadTeam(teamid, function(t){
+                    team = t;
+                    renderTeam(null, team);
+                    $(".loading").hide();
+                    $("#team-dashboard").css("visibility", "visible");     
+                });                       
+            }
+            else{
+                vblteamid = map.referenceId;
+                clubmgmt.loadTeam(teamid, function(t){
+                    team = t;
+                    repository.loadTeam(vblteamid);         
+                });
+            }               
+        });
+
+    }
+    else{
+        clubmgmt.mapPartnerTeam(teamid, partnershipId, function(map){
+            if(map == null){            
+                clubmgmt.loadPartnerTeam(partnershipId, teamid, function(t){
+                    team = t;
+                    renderTeam(null, team);
+                    $(".loading").hide();
+                    $("#team-dashboard").css("visibility", "visible");     
+                });                        
+            }
+            else{
+                vblteamid = map.referenceId;
+                clubmgmt.loadPartnerTeam(partnershipId, teamid, function(t){
+                    team = t;
+                    repository.loadTeam(vblteamid);         
+                });
+            }   
+        });
+    } 
+  }
+ 
 });
 
 $.topic("vbl.team.loaded").subscribe(function () {
-    repository.getTeam(teamid, function(team){
-        if(team && team.guid == teamid){
-           renderTeam(team);
-           $(".loading").hide();
-           $("#team-dashboard").css("visibility", "visible");
+    repository.loadMatches();
+    repository.getTeam(vblteamid, function(vblteam){
+
+        renderTeam(vblteam, team);
+        $(".loading").hide();
+        $("#team-dashboard").css("visibility", "visible");
+
+       /* if(vblteam && vblteam.guid == vblteamid){
+          
         }
-        if(!team){
+        if(!vblteam){
             $("#team-name").text("Team niet gevonden");
-        }
+        }*/
     });     
 });
 
