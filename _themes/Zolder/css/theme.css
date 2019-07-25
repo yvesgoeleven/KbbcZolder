@@ -263,6 +263,19 @@ input[type=submit]{
 	 border-radius: 50%;
 	 background-color: #fff;	
 }
+#next-opponent  img{
+	border: 4px solid #066027;
+	border-radius: 50%;
+	background-color: #fff;	
+}
+#next-opponent #opponent-img{
+	border: 1px solid #CCC;
+	border-radius: 50%;
+	background-color: #fff;
+	width: 16vh;
+	height: 16vh;
+	margin: 1vh auto;
+}
 
 #next-bottom-border{
 	border: 1px solid #333;
@@ -410,12 +423,12 @@ table tr, table td{
 }
 
 .next-game{
-	background-color: #066027;
-	color: #fff;
+	background-color: #EFEFEF;
+	color: #333;
 	padding: 20px;
 }
-.next-game h2, .next-game a{
-	color: #fff;
+.next-game h2{
+	color: #333;
 }
 .next-game img{
 	border: 1px solid #066027;
@@ -423,7 +436,7 @@ table tr, table td{
 	padding: 10px;
 }
 
-.standings { background-color: #EFEFEF; }
+/* .standings { background-color: #EFEFEF; } */
 .standings ~ .standings { background-color: #fff; }
 .standings.border { border: 1px solid #EFEFEF; }
 .standings.border ~ .standings.border { border: 1px solid #EFEFEF; }
@@ -433,7 +446,7 @@ table tr, table td{
 	text-decoration: none;
 }
 .next-game .nounderline, .next-game .nounderline:hover {
-	color: #fff;
+	color: #333;
 	text-decoration: none;
 }
 

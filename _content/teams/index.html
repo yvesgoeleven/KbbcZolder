@@ -5,8 +5,6 @@ description: KBBC Zolder
 keywords: Basket, KBBC Zolder, Team
 custom_js:
 - team
-async_js:
-- https://maps.googleapis.com/maps/api/js?key=AIzaSyBesDse5XU1BASBA_G4RqjjsdUp2CQvqp4&libraries=places&callback=initMap
 ---
 
 <div id="team-photo" class="team-photo">
@@ -15,7 +13,7 @@ async_js:
      <h1 id="team-name"></h1> 
     <div class="loading centered-content"><img src="/img/loader.gif" /></div>
     <div id="team-dashboard" class="dashboard">
-        <div class="members pane">
+        <div class="members pane medium">
             <div class="players spacer">
                 <div class="tiles">
                     
@@ -27,34 +25,16 @@ async_js:
                 </div>               
             </div> 
         </div>
-        <div class="results pane">
-            <div class="next-game spacer centered-content">
-                <h2>Volgende tegenstander</h2>
+        <div class="results pane small">
+            <div id="next-opponent" class="next-game spacer centered-content">
+                <h2>Volgende wedstrijd</h2>
                 <div id="next-game-placeholder"></div>
                 <div>
-                    <h3><a class="detail-toggle" href="#">Volgende Wedstrijden</a></h3>
-                    <table class="detail future-games">
-                        <tr>
-                            <th>Datum</th>
-                            <th>Tijd</th>
-                            <th>Thuis</th>
-                            <th>Uit</th>
-                        </tr>
-                       
-                    </table>
+                    <h3><a id="link-calendar" class="detail-toggle" href="#">Volgende Wedstrijden</a></h3>                    
                 </div>
                 <div>
-                    <h3><a class="detail-toggle" href="#">Uitslagen</a></h3>
-                    <table class="detail past-games">
-                        <tr>
-                            <th>Datum</th>
-                            <th>Tijd</th>
-                            <th>Thuis</th>
-                            <th>Uit</th>
-                            <th>Uitslag</th>
-                        </tr>
-                    </table>
-                </div>
+                    <h3><a id="link-results" class="detail-toggle" href="#">Uitslagen</a></h3>                   
+                </div> 
             </div>
         </div>
     </div>
@@ -67,7 +47,8 @@ async_js:
 
 <script type="text/template" id="next-game-template">
     <a class="href-matchuri nounderline">
-        <img id="opponent-img" class="src-imgurl" />
+        <!-- <img id="opponent-img" class="src-imgurl" /> -->
+        <div id="opponent-img" class="style-imgurl" ></div>
         <div class="text-name"></div>
         <div>
             <span class="text-day"></span>
@@ -122,30 +103,8 @@ async_js:
         <div class="rank">
             <span class="text-rank">1</span>e
         </div>               
-        <h3><a class="detail-toggle" href="#">Klassement Detail</a></h3>
-        <table class="detail">
-            <tr>
-                <th>nr</th>
-                <th>Team</th>
-                <th>P</th>
-                <th>W</th>
-                <th>D</th>
-                <th>L</th>
-                <th>Pts</th>
-            </tr>               
-        </table>
+        <h3><a class="detail-toggle" href="#">Klassement Detail</a></h3>        
     </div>
 </script>
 
-<script  type="text/template" id="standings-entry-template">
-     <tr>
-        <td class="text-nr"></td>
-        <td class="text-team"></td>
-        <td class="text-played"></td>
-        <td class="text-wins"></td>
-        <td class="text-draws"></td>
-        <td class="text-losses"></td>
-        <td class="text-points"></td>
-    </tr>
-</script>
 

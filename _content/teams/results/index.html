@@ -1,0 +1,44 @@
+---
+layout: page
+title: KBBC Zolder
+description: KBBC Zolder
+keywords: Basket, KBBC Zolder, Team Results
+custom_js:
+- team-results
+---
+
+<div id="team-photo" class="team-photo">
+</div>
+<div class="container content">  
+     <h1 id="team-name"></h1> 
+    <div class="loading centered-content"><img src="/img/loader.gif" /></div>
+    <div id="team-dashboard" class="dashboard">
+        <div id="result-table" class="calendar-table responsive-table striped-table">    
+            <table>
+                <thead>
+                    <tr>
+                        <th>Code</th>
+                        <th>Datum</th>
+                        <th>Tijd</th>
+                        <th>Thuis</th>                    
+                        <th>Uit</th>                  
+                        <th>Resultaat</th>
+                    </tr>
+                </thead>
+                <tbody>
+                </tbody>
+            </table>          
+        </div>
+    </div>
+</div>
+
+<script  type="text/template" id="table-item-template">
+    <tr class="calendar-table-item">
+       <td><a class="href-link text-code"></a></td>
+       <td class="text-date"></td>
+       <td class="text-time"></td>
+       <td><a class="href-link text-home"></a></td>
+       <td><a class="href-link text-away"></a></td>
+       <td><a class="href-link text-result"></a></td>
+    </tr>
+</script>
