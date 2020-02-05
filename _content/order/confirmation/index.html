@@ -1,0 +1,41 @@
+---
+layout: page
+title: Basket Lummen
+description: Bevestiging van je bestelling
+keywords: Basket, Lummen
+custom_css:
+- pdfviewermod
+custom_js:
+- handlebars-v4.0.12
+- ptsans
+- jspdf.min
+- html2pdf.bundle.min
+- orderconfirmation
+---
+
+<iframe id="printoutput" style="width:100vw; height: 100vh; border: none"></iframe>
+
+<div id="canvas" style="display: none;"></div>
+<script id="confirmation-template" type="text/x-handlebars-template">
+    {{{{raw}}}}
+    <div>
+        <p><b>{{{data.confirmation.buyer.name}}},</b></p>
+        <p>{{{data.sale.confirmationMessage.textParts.thank_you_message}}}</p>
+        <p>{{{data.sale.confirmationMessage.textParts.welcome_message}}}</p>
+        <p><b>Overzicht van je bestelling:</b></p>
+        <ul>
+            {{#each data.confirmation.orderLines}}
+                <li>{{{this.quantity}}} x {{{this.orderedItem.name}}} = &euro; {{{line-item-total this}}}</li>
+                {{#each this.orderedItem.selectedOptions}}
+                    {{{this.value}}}
+                {{/each}}
+            {{/each}}
+        </ul>
+        <p><b>Totaal:</b>  &euro; {{{order-total data.confirmation}}}</p>
+        <p>{{{data.sale.confirmationMessage.textParts.payment_instructions}}}</p>
+        <p>{{{data.sale.confirmationMessage.textParts.checkin_instructions}}}</p>
+        <p>{{{data.sale.confirmationMessage.textParts.support_message}}}</p>
+        <p>{{{data.sale.confirmationMessage.textParts.see_you_message}}},<br/>KBBC Zolder</p>
+    </div>
+    {{{{/raw}}}}
+</script>

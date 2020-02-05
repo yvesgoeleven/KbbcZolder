@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Eetdag 2020"
+date:   2020-02-03 10:00:00
+excerpt: "Op 15 maart organiseren we opnieuw onze jaarlijkse eetdag."
+permalink: /news/2020-02-05-eetdag/
+custom_js:
+- handlebars-v4.0.12
+- ptsans
+- jspdf.min
+- purchaseorder
+---
+
+<div data-saleid="6d041b96-cd8b-4052-92e1-b51bb592004d"  data-title="Plaats je bestelling" data-buttontext="Bestellen"  data-nexttext="Nog een bestelling plaatsen" data-optional="email"></div>
