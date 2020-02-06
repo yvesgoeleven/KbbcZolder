@@ -68,11 +68,9 @@ function renderInputFields(item, style, rules, messages, preselectedOptions){
     return inputs;
  }
 
- function determinePricingOffer(el){
-    var itemId = $(el).attr("data-itemId");
+ function determinePricingOffer(itemId, preselectedOptions){
     var offer = offersWithoutVariantLimits.filter(i => i.id == itemId)[0];
-    if(!offer){
-        var preselectedOptions = JSON.parse($(el).attr("data-preselectedOptions"));
+    if(!offer){       
         preselectedOptions.forEach(function(option){
             if(!offer){
                 offer = offersWithVariantLimits[itemId].filter(o => o.variantLimits[0].optionSetId == option.optionSetId && o.variantLimits[0].matchingValues.includes(option.optionId))[0]
@@ -324,7 +322,11 @@ function renderForm(){
                 if(quantity == null || quantity.length == 0) quantity = 0;
                 if(quantity == 0) return;
                 
-                var offer = determinePricingOffer(el);
+                var itemId = $(el).attr("data-itemId");
+                var preselectedOptionsJson = $(el).attr("data-preselectedOptions");
+                var preselectedOptions = preselectedOptionsJson != null ? JSON.parse(preselectedOptionsJson) : null;
+
+                var offer = determinePricingOffer(itemId, preselectedOptions);
                
                 if(offer) {
                     sum += quantity * offer.price.value;
@@ -388,8 +390,6 @@ function renderForm(){
                 $("#submit").attr('disabled', true);
 
                 // gather the data
-                var sum = computeTotal();
-
                 var name = promotionholder.find('#name').val();
                 var firstname = promotionholder.find('#firstname').val();
                 var optionalInput = promotionholder.find('#email');
@@ -409,74 +409,77 @@ function renderForm(){
                 }
 
                 var orderLines = [];
-                if(sale.choice == "Multiple"){
-                    for (var key in items) {
-                        if (items.hasOwnProperty(key)){
-                            var item = items[key];
-                            var description = itemDescriptions[key];
-                            var quantity = $("#" + item.id).val();
-                            if(quantity == null || quantity.length == 0) quantity = 0;
-                            if(quantity > 0){
-                                orderLines.push({
-                                    Id: guid(), 
-                                    OrderedItem: {
-                                        Id: item.id,
-                                        CatalogId: item.catalogId,
-                                        CollectionId: item.collectionId,
-                                        Name: description.name,
-                                        Price: {
-                                            Currency: item.price.currency,
-                                            Value: item.price.value
-                                        },
-                                        SelectedOptions : null
-                                    },
-                                    Quantity: quantity                               
-                                });
-                            }
-                        }
-                    }
-                }
-                else{ // promotion.choiceType == "Single"
-                    var selectedItemId = $('input[name=selection]:checked').attr('data-targetid');
-                    var item = items[selectedItemId];
-                    var description = itemDescriptions[selectedItemId];
-                    var quantity = $("#" + item.id).val();
+
+                $("[data-itemid]").each(function(i, el){
+                    var quantity = $(el).val();
                     if(quantity == null || quantity.length == 0) quantity = 0;
-                    if(quantity > 0){
+                    if(quantity == 0) return;
+                    
+                    var itemId = $(el).attr("data-itemId");
+
+                    if(sale.choice == "Single"){
+                        var selectedItemId = $('input[name=selection]:checked').attr('data-targetid');
+                        if(itemId != selectedItemId) return;
+                    }
+
+                    var preselectedOptionsJson = $(el).attr("data-preselectedOptions");
+                    var preselectedOptions = preselectedOptionsJson != null ? JSON.parse(preselectedOptionsJson) : null;
+    
+                    var offer = determinePricingOffer(itemId, preselectedOptions);
+                   
+                    if(offer) {
+                        var description = itemDescriptions[offer.id];
+
+                        var selectedOptions = null;
+                        if(preselectedOptions){
+                            selectedOptions = [];
+                            preselectedOptions.forEach(function(preselected){
+                                var optionSet = description.optionSets.filter(s => s.id == preselected.optionSetId)[0];                               
+                                 selectedOptions.push({
+                                    Id: optionSet.id,
+                                    Name: optionSet.name,
+                                    Value: preselected.optionId
+                                });
+                            })
+
+                        }
+
                         orderLines.push({
                             Id: guid(), 
                             OrderedItem: {
-                                Id: item.id,
-                                CatalogId: item.catalogId,
-                                CollectionId: item.collectionId,
+                                Id: offer.id,
+                                CatalogId: offer.catalogId,
+                                CollectionId: offer.collectionId,
                                 Name: description.name,
                                 Price: {
-                                    Currency: item.price.currency,
-                                    Value: item.price.value
+                                    Currency: offer.price.currency,
+                                    Value: offer.price.value
                                 },
-                                SelectedOptions : null
+                                SelectedOptions : selectedOptions
                             },
-                            Quantity: quantity 
+                            Quantity: quantity                               
                         });
-                    }                    
-                }
+                    }
+                });
 
                 // get select options
                 orderLines.forEach(function(orderLine){
-                    var selectedOptions = [];
-                    var itemDescription = itemDescriptions[orderLine.OrderedItem.Id];
-                    if(itemDescription.optionSets !== "undefined" && itemDescription.optionSets !== null){
-                        itemDescription.optionSets.forEach(function(optionSet){
-                            var selected = $('select[data-targetid="' + orderLine.OrderedItem.Id + '"][data-optionid="' + optionSet.name + '"]').val();
-                            var val = optionSet.options.filter(function(v){ return v.id == selected })[0];
-                            selectedOptions.push({
-                                Id: optionSet.id,
-                                Name: optionSet.name,
-                                Value: val.id
+                    if(orderLine.OrderedItem.SelectedOptions == null){
+                        var selectedOptions = [];
+                        var itemDescription = itemDescriptions[orderLine.OrderedItem.Id];
+                        if(itemDescription.optionSets !== "undefined" && itemDescription.optionSets !== null){
+                            itemDescription.optionSets.forEach(function(optionSet){
+                                var selected = $('select[data-targetid="' + orderLine.OrderedItem.Id + '"][data-optionid="' + optionSet.name + '"]').val();
+                                var val = optionSet.options.filter(function(v){ return v.id == selected })[0];
+                                selectedOptions.push({
+                                    Id: optionSet.id,
+                                    Name: optionSet.name,
+                                    Value: val.id
+                                });
                             });
-                        });
-                        orderLine.OrderedItem.SelectedOptions = selectedOptions;
-                    }                    
+                            orderLine.OrderedItem.SelectedOptions = selectedOptions;
+                        } 
+                    }                                      
                 });
 
 
@@ -491,9 +494,7 @@ function renderForm(){
                 };
 
                 var report = function(message){
-                // var table = promotionholder.find('table');                  
-                  
-                
+
                     var div = $("<div>").append($('<label>').text(message))
                                         .append("(")
                                         .append($("<a>").attr('href', "/order/confirmation/?o=" + orderId ).attr('target', 'blank').text("Open pdf versie"))   
@@ -511,24 +512,24 @@ function renderForm(){
 
                 };
 
-                // var posturi= ordersService + "/api/orderbookings/" + orgId + "/" + sale.id;
-                // // send it to the service
-                // $.ajax({
-                //     type: 'POST',
-                //     url: posturi,
-                //     contentType: 'application/json', 
-                //     crossDomain: true,
-                //     data : JSON.stringify(placeOrder),                        
-                //     success: function(data){ 
-                //       //report(promotion.successMessage.format(sum), data.message);
-                //       report("Bestelling geplaatst");
-                //       $("#submit .spinner").hide();
-                //       $("#submit").attr('disabled', false);
-                //     },
-                //     error: function(xhr, ajaxOptions, thrownError){ 
-                //         report("Er is een fout opgetreden bij het registreren. " + xhr.status);
-                //     }
-                // });
+                var posturi= ordersService + "/api/orderbookings/" + orgId + "/" + sale.id;
+                // send it to the service
+                $.ajax({
+                    type: 'POST',
+                    url: posturi,
+                    contentType: 'application/json', 
+                    crossDomain: true,
+                    data : JSON.stringify(placeOrder),                        
+                    success: function(data){ 
+                      //report(promotion.successMessage.format(sum), data.message);
+                      report("Bestelling geplaatst");
+                      $("#submit .spinner").hide();
+                      $("#submit").attr('disabled', false);
+                    },
+                    error: function(xhr, ajaxOptions, thrownError){ 
+                        report("Er is een fout opgetreden bij het registreren. " + xhr.status);
+                    }
+                });
     
                 return false;
                 
