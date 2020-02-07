@@ -25,10 +25,11 @@ custom_js:
         <p><b>Overzicht van je bestelling:</b></p>
         <ul>
             {{#each data.confirmation.orderLines}}
-                <li>{{{this.quantity}}} x {{{this.orderedItem.name}}} = &euro; {{{line-item-total this}}}</li>
+                <li>{{{this.quantity}}} x {{{this.orderedItem.name}}} 
                 {{#each this.orderedItem.selectedOptions}}
                     {{{this.value}}}
                 {{/each}}
+                = &euro; {{{line-item-total this}}}</li>
             {{/each}}
         </ul>
         <p><b>Totaal:</b>  &euro; {{{order-total data.confirmation}}}</p>
