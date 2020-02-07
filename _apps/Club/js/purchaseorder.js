@@ -295,6 +295,8 @@ function renderForm(){
             table.append($('<tr>')
                         .append($('<td>').append($('<label>').text(i == 0 ? 'Ik kom van': '').attr('for', 'delivery')))
                         .append($('<td>').append($('<input>').attr({ type: 'radio', id: 'delivery_' + i, name: 'delivery', value: JSON.stringify(d) })).append(" " + toShow)));
+        
+            $("input:radio[name=delivery]:first").attr('checked', true);
         });
     }
 
