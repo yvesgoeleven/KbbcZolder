@@ -51,7 +51,7 @@ label, input, button, select {
     box-sizing: content-box;
 }
 input[type=text], select{
-	min-width: 200px;
+	min-width: 340px;
 	border:1px solid #999; 
 }
 input[type=text]{	
