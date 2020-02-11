@@ -361,7 +361,7 @@ function renderForm(){
 
     if(!fromDatePassed){
         table.append($('<tr>')
-                .append($('<td>').append($('<label>').text('Registratie gaat pas open op ' + fromDate.toLocaleDateString("nm-BE", { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' })))));;
+                .append($('<td>').append($('<label>').text('Registratie gaat pas open op ' + fromDate.toLocaleDateString("nl-BE", { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' })))));;
     }
 
     if(toDatePassed){

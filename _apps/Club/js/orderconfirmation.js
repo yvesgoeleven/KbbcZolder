@@ -61,6 +61,7 @@ function loadConfirmation(){
 
 function render(){
     var tmp = $("#confirmation-template").text().replace("{{{{raw}}}}", "").replace("{{{{/raw}}}}", "");   
+    fixExpectedDeliveryDateFormat(confirmation);
     var template = Handlebars.compile(tmp);
     var body = template({
         data: {
@@ -79,6 +80,17 @@ function render(){
             var iframe = document.getElementById('printoutput');
             iframe.src = "/pdf/viewer.html?file=" + pdf.output('bloburl');
           });
+}
+
+function fixExpectedDeliveryDateFormat(confirmation)
+{
+    if(confirmation.deliveryExpectations){
+        var start = new Date(confirmation.deliveryExpectations.expectedDeliveryDateRange.start);
+        confirmation.deliveryExpectations.expectedDeliveryDateRange.start = start.toLocaleTimeString("nl-BE", { hour: '2-digit', minute: '2-digit'});
+
+        var end = new Date(confirmation.deliveryExpectations.expectedDeliveryDateRange.end);
+        confirmation.deliveryExpectations.expectedDeliveryDateRange.end = end.toLocaleTimeString("nl-BE", { hour: '2-digit', minute: '2-digit'});
+    }
 }
 
 $(document).ready(function(){

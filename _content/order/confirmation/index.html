@@ -22,6 +22,9 @@ custom_js:
         <p><b>{{{data.confirmation.buyer.name}}},</b></p>
         <p>{{{data.sale.confirmationMessage.textParts.thank_you_message}}}</p>
         <p>{{{data.sale.confirmationMessage.textParts.welcome_message}}}</p>
+        {{#if data.confirmation.deliveryExpectations}}
+        <p>We verwachten je tussen {{{data.confirmation.deliveryExpectations.expectedDeliveryDateRange.start}}} en {{{data.confirmation.deliveryExpectations.expectedDeliveryDateRange.end}}}.</p>
+        {{/if}}
         <p><b>Overzicht van je bestelling:</b></p>
         <ul>
             {{#each data.confirmation.orderLines}}
