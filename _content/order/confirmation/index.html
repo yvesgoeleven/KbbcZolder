@@ -25,7 +25,7 @@ custom_js:
         {{#if data.confirmation.deliveryExpectations}}
         <p>We verwachten je tussen {{{data.confirmation.deliveryExpectations.expectedDeliveryDateRange.start}}} en {{{data.confirmation.deliveryExpectations.expectedDeliveryDateRange.end}}}.</p>
         {{/if}}
-        <p><b>Overzicht van je bestelling:</b></p>
+        <p><b>Overzicht van je bestelling</b> {{#if data.confirmation.referenceNumber}}(Nr. {{{data.confirmation.referenceNumber}}}){{/if}}</p>
         <ul>
             {{#each data.confirmation.orderLines}}
                 <li>{{{this.quantity}}} x {{{this.orderedItem.name}}} 
