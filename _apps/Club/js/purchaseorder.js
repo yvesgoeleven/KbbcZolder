@@ -13,8 +13,7 @@ if (!String.prototype.format) {
 var catalogService = "https://clubmgmt-catalog-service-test.azurewebsites.net";
 var salesService = "https://clubmgmt-sales-service-test.azurewebsites.net";
 var ordersService = "https://clubmgmt-orderbooking-service-test.azurewebsites.net";
-//var sequenceService = "https://sequence-service-test.azurewebsites.net";
-var sequenceService = "http://localhost:22465/";
+var sequenceService = "https://sequence-service-test.azurewebsites.net";
 var promotionholder;
 var optional;
 var required;
