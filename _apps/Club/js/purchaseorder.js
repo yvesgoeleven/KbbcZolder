@@ -13,6 +13,8 @@ if (!String.prototype.format) {
 var catalogService = "https://clubmgmt-catalog-service-test.azurewebsites.net";
 var salesService = "https://clubmgmt-sales-service-test.azurewebsites.net";
 var ordersService = "https://clubmgmt-orderbooking-service-test.azurewebsites.net";
+//var sequenceService = "https://sequence-service-test.azurewebsites.net";
+var sequenceService = "http://localhost:22465/";
 var promotionholder;
 var optional;
 var required;
@@ -530,62 +532,79 @@ function wireForm(table, rules, messages){
 
             var expectedDeliveryDateRangeJson = $("input:radio[name=delivery]:checked").val();
 
-	        var expectedDeliveryDateRange = expectedDeliveryDateRangeJson != null ? JSON.parse(expectedDeliveryDateRangeJson) : null;
-
-            var orderId = guid();
-            var placeOrder = {
-                OrderId: orderId, 
-                SaleId: saleid,
-                SellerId: orgId,
-                Buyer: buyer,
-                OrderLines: orderLines,
-                StatusUpdateRequested: statusUpdatesRequested,
-                DeliveryExpectations: expectedDeliveryDateRange != null ? {
-                    ExpectedDeliveryDateRange: {
-                        Start: expectedDeliveryDateRange.start,
-                        End: expectedDeliveryDateRange.end
-                    }
-                } : null
-            };
-
-            var report = function(message){
-
-                var div = $("<div>").append($('<label>').text(message))
-                                    .append("(")
-                                    .append($("<a>").attr('href', "/order/confirmation/?o=" + orderId ).attr('target', 'blank').text("Open pdf versie"))   
-                                    .append(")")               
-                                    .append("<br />")
-                                    .append("<br />")
-                                    .append($("<button>").attr('id', 'next-order').attr('type', 'button').text(nexttext));
-                                    
-                table.empty();
-                table.append($('<tr>').append($('<td>').append(div)).append($('<td>')));
-
-                $("#next-order").click(function(){
-                    renderForm();
-                });
-
-            };
-
-            var posturi= ordersService + "/api/orderbookings/" + orgId + "/" + sale.id;
-            // send it to the service
+            var expectedDeliveryDateRange = expectedDeliveryDateRangeJson != null ? JSON.parse(expectedDeliveryDateRangeJson) : null;
+            
+            var claimuri = sequenceService + "/api/sequences/" + sale.id + "/claim";
             $.ajax({
                 type: 'POST',
-                url: posturi,
+                url: claimuri,
                 contentType: 'application/json', 
-                crossDomain: true,
-                data : JSON.stringify(placeOrder),                        
-                success: function(data){ 
-                    //report(promotion.successMessage.format(sum), data.message);
-                    report("Bestelling geplaatst");
-                    $("#submit .spinner").hide();
-                    $("#submit").attr('disabled', false);
+                crossDomain: true,                    
+                success: function(sequence){ 
+                   
+                    var orderId = guid();
+                    var placeOrder = {
+                        OrderId: orderId, 
+                        SaleId: saleid,
+                        SellerId: orgId,
+                        Buyer: buyer,
+                        OrderLines: orderLines,
+                        StatusUpdateRequested: statusUpdatesRequested,
+                        DeliveryExpectations: expectedDeliveryDateRange != null ? {
+                            ExpectedDeliveryDateRange: {
+                                Start: expectedDeliveryDateRange.start,
+                                End: expectedDeliveryDateRange.end
+                            }
+                        } : null,
+                        referenceNumber: sequence
+                    };
+        
+                    var report = function(message){
+        
+                        var div = $("<div>").append($('<label>').text(message))
+                                            .append("(")
+                                            .append($("<a>").attr('href', "/order/confirmation/?o=" + orderId ).attr('target', 'blank').text("Open pdf versie"))   
+                                            .append(")")               
+                                            .append("<br />")
+                                            .append("<br />")
+                                            .append($("<button>").attr('id', 'next-order').attr('type', 'button').text(nexttext));
+                                            
+                        table.empty();
+                        table.append($('<tr>').append($('<td>').append(div)).append($('<td>')));
+        
+                        $("#next-order").click(function(){
+                            renderForm();
+                        });
+        
+                    };
+        
+                    var posturi= ordersService + "/api/orderbookings/" + orgId + "/" + sale.id;
+                    // send it to the service
+                    $.ajax({
+                        type: 'POST',
+                        url: posturi,
+                        contentType: 'application/json', 
+                        crossDomain: true,
+                        data : JSON.stringify(placeOrder),                        
+                        success: function(data){ 
+                            //report(promotion.successMessage.format(sum), data.message);
+                            report("Bestelling geplaatst");
+                            $("#submit .spinner").hide();
+                            $("#submit").attr('disabled', false);
+                        },
+                        error: function(xhr, ajaxOptions, thrownError){ 
+                            report("Er is een fout opgetreden bij het registreren. " + xhr.status);
+                        }
+                    });
+        
+                    
                 },
                 error: function(xhr, ajaxOptions, thrownError){ 
-                    report("Er is een fout opgetreden bij het registreren. " + xhr.status);
+                    report("Er is een fout opgetreden bij het aanvragen van het kaartnummer. " + xhr.status);
+                    
                 }
             });
-
+          
             return false;
             
         }
@@ -797,7 +816,37 @@ function loadCollection(){
 			success: function(p){       
 				collection = p;                
                 indexOffersPerItem();
+                registerSequence();
 			}
 		});
+	}	
+}
+
+function registerSequence(){
+	if(sale && sale.items){
+        var sequencebaseuri = sequenceService + "/api/sequences/";
+        var posturi = sequencebaseuri + sale.id;
+        
+        var defineSequence = {
+            initialOffset: 700,
+            rangeSize: 10
+        }
+        
+        $.ajax({
+            type: 'POST',
+            url: posturi,
+            contentType: 'application/json', 
+            crossDomain: true,
+            data : JSON.stringify(defineSequence),                        
+            success: function(data){ 
+               
+                
+            },
+            error: function(xhr, ajaxOptions, thrownError){ 
+               
+                
+            }
+        });
+
 	}	
 }
