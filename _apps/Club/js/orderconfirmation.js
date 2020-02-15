@@ -70,13 +70,16 @@ function render(){
         }
     });
 
-    $("#canvas").append(body);
+    $("#confirmation-canvas").append(body);
 
-    $("#canvas").show();
+    $("#confirmation-canvas").show();
     html2pdf()
-        .set({ margin: 10, html2canvas: { scale: 4, letterRendering: true } })
-        .from($("#canvas")[0]).toPdf().get('pdf').then(function (pdf) {
-            $("#canvas").hide();
+        .set({ 
+            html2canvas: { scale: 4, letterRendering: true }, 
+         /*   jsPDF: { unit: 'in', format: 'letter', orientation: 'portrait' } */
+        })
+        .from($("#confirmation-canvas")[0]).toPdf().get('pdf').then(function (pdf) {
+            $("#confirmation-canvas").hide();
             var iframe = document.getElementById('printoutput');
             iframe.src = "/pdf/viewer.html?file=" + pdf.output('bloburl');
           });

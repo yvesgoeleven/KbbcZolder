@@ -15,27 +15,45 @@ custom_js:
 
 <iframe id="printoutput" style="width:100vw; height: 100vh; border: none"></iframe>
 
-<div id="canvas" style="display: none;"></div>
+<div id="confirmation-canvas" style="display: none;"></div>
 <script id="confirmation-template" type="text/x-handlebars-template">
     {{{{raw}}}}
-    <div>
+    <div id="confirmation-header">
+        KBBC Zolder
+    </div>
+    <div id="confirmation-body">
         <p><b>{{{data.confirmation.buyer.name}}},</b></p>
         <p>{{{data.sale.confirmationMessage.textParts.thank_you_message}}}</p>
         <p>{{{data.sale.confirmationMessage.textParts.welcome_message}}}</p>
         {{#if data.confirmation.deliveryExpectations}}
         <p>We verwachten je tussen {{{data.confirmation.deliveryExpectations.expectedDeliveryDateRange.start}}} en {{{data.confirmation.deliveryExpectations.expectedDeliveryDateRange.end}}}.</p>
         {{/if}}
-        <p><b>Overzicht van je bestelling</b> {{#if data.confirmation.referenceNumber}}(Nr. {{{data.confirmation.referenceNumber}}}){{/if}}</p>
-        <ul>
+        <p><h3>Overzicht van je bestelling {{#if data.confirmation.referenceNumber}}(Nr. {{{data.confirmation.referenceNumber}}}){{/if}}</h3></p>
+        <table>
+            <tr>
+                <td>Beschrijving</td>
+                <td>Bedrag</td>
+            </tr>
             {{#each data.confirmation.orderLines}}
-                <li>{{{this.quantity}}} x {{{this.orderedItem.name}}} 
-                {{#each this.orderedItem.selectedOptions}}
-                    {{{this.value}}}
-                {{/each}}
-                = &euro; {{{line-item-total this}}}</li>
+                <tr>
+                    <td>{{{this.quantity}}} x {{{this.orderedItem.name}}} 
+                        {{#each this.orderedItem.selectedOptions}}
+                            {{{this.value}}}
+                        {{/each}}
+                    </td>
+                    <td>
+                        &euro; {{{line-item-total this}}}
+                    </td>
+                </tr>
             {{/each}}
-        </ul>
-        <p><b>Totaal:</b>  &euro; {{{order-total data.confirmation}}}</p>
+            <tr>
+                <td class="align-right"><b>Totaal</b>
+                </td>
+                <td>
+                    &euro; {{{order-total data.confirmation}}}
+                </td>
+            </tr>
+        </table>
         <p>{{{data.sale.confirmationMessage.textParts.payment_instructions}}}</p>
         <p>{{{data.sale.confirmationMessage.textParts.checkin_instructions}}}</p>
         <p>{{{data.sale.confirmationMessage.textParts.support_message}}}</p>
