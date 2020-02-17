@@ -10,10 +10,10 @@ if (!String.prototype.format) {
     };
   }
 
-var catalogService = "https://clubmgmt-catalog-service-test.azurewebsites.net";
-var salesService = "https://clubmgmt-sales-service-test.azurewebsites.net";
-var ordersService = "https://clubmgmt-orderbooking-service-test.azurewebsites.net";
-var sequenceService = "https://sequence-service-test.azurewebsites.net";
+var catalogService = "https://clubmgmt-catalog-service.azurewebsites.net";
+var salesService = "https://clubmgmt-sales-service.azurewebsites.net";
+var ordersService = "https://clubmgmt-orderbooking-service.azurewebsites.net";
+var sequenceService = "https://sequence-service.azurewebsites.net";
 var promotionholder;
 var optional;
 var required;
@@ -378,7 +378,7 @@ function renderForm(){
             .append($('<td>').append($('<input>').attr({ type: 'text', id: 'firstname', name: 'firstname', placeholder: 'Vul je voornaam in...' }))));
 
         table.append($('<tr>')
-            .append($('<td>').append($('<label>').text('Naam').attr('for', 'name')))
+            .append($('<td>').append($('<label>').text('Familienaam').attr('for', 'name')))
             .append($('<td>').append($('<input>').attr({ type: 'text', id: 'name', name: 'name', placeholder: 'Vul je naam in...' }))));
 
         if(required.includes("email") || optional.includes("email")){
