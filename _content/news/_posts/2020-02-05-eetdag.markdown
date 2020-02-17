@@ -1,0 +1,46 @@
+---
+layout: post
+title:  "Eetdag 2020"
+date:   2020-02-03 10:00:00
+excerpt: "Op 15 maart organiseren we opnieuw onze jaarlijkse eetdag."
+permalink: /news/2020-02-05-eetdag/
+custom_js:
+- handlebars-v4.0.12
+- ptsans
+- jspdf.min
+- purchaseorder
+---
+
+Op zondag 15 maart 2020 zal onze jaarlijkse eetdag plaats vinden. Iedereen is welkom om samen lekker te komen eten.
+
+Op het menu staan aan:
+- Biefstuk met frieten
+	- Saus naar keuze: natuur, champignonroomsaus, peperroomsaus of kruidenboter.
+	- Bakwijze naar keuze: blue, saignant, a point of bien cuit.
+- Halve kip met frieten
+- Stoofvlees met frieten
+- 2 hamburgers met frieten
+- Vidé met frieten
+- Kindervidé met frieten
+- Koude zalmschotel met frieten
+- Vegetarische schotel met frieten
+
+Als dessert kan je kiezen uit:
+- Chocolademousse
+- Rijstpap
+
+### Praktisch
+
+We verwachten je in de Jogem, Ringlaan 50, 3550 Heusden-Zolder, op 15 maart van 11h30 tot 14h30 of van 17h00 tot 19h30.
+
+Bestellen kan je voor 5 maart:
+- via de bestelkaarten die je kan bekomen bij spelers, coaches of bestuursleden
+- via het digitale bestelformulier hieronder.
+
+Het bedrag dient overgeschreven te worden op rekening nummer BE35 0012 0866 2537.
+
+Indien je online bestelt, neem dan de bevestiging van je bestelling mee op de dag van de eetdag, zo kan de administratie aan de inkom vlotter verlopen.
+
+Heb je vragen over je bestelling, dan kan je steeds mailen naar [kalenderkbbczolder@gmail.com](mailto:kalenderkbbczolder@gmail.com).
+
+<div data-saleid="6d041b96-cd8b-4052-92e1-b51bb592004d"  data-title="Plaats je bestelling" data-buttontext="Bestellen"  data-nexttext="Nog een bestelling plaatsen" data-optional="email"></div>

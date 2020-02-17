@@ -51,7 +51,7 @@ label, input, button, select {
     box-sizing: content-box;
 }
 input[type=text], select{
-	min-width: 200px;
+	min-width: 340px;
 	border:1px solid #999; 
 }
 input[type=text]{	
@@ -548,7 +548,7 @@ only screen and (max-width: 760px),
   @media 
   only screen and (max-width: 760px),
   (min-device-width: 768px) and (max-device-width: 1024px)  {
-	.responsive-form td:first-of-type { 
+	.responsive-form > td:first-of-type { 
 		text-align: left;
 	  }
   }
@@ -658,4 +658,34 @@ button .spinner{
 	margin-left: .5vw;
 	margin-right: .5vw;
     display: none;
+}
+
+
+#confirmation-canvas{
+	background-color: #F2F4F6 !important;
+	/*  */
+	height: 1122px;
+	font-family: 'Nunito Sans',Helvetica,Arial,sans-serif;
+	font-size: 14px;
+}
+#confirmation-header{
+	color: #A8AAAF;
+	padding: 20px;
+	text-align: center;
+}
+#confirmation-body{
+	background-color: #FFF !important;
+	margin: 0 auto;
+	width: 520px;
+	padding: 45px;	
+}
+#confirmation-body table, #confirmation-body tr, #confirmation-body td{
+	border-collapse: collapse;
+	border: none;
+}
+#confirmation-body table{
+	margin-bottom: 20px;
+}
+.align-right{
+	text-align: right;
 }
