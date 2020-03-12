@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Eetdag 15 maart uitgesteld"
-date:   2020-03-11 23:00:00
+title: "Eetdag 15 maart uitgesteld"
+date: 2020-03-11 23:00:00
 permalink: /news/2030-03-11-eetdaguitgesteld/
 ---
 

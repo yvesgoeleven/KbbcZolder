@@ -43,4 +43,6 @@ Indien je online bestelt, neem dan de bevestiging van je bestelling mee op de da
 
 Heb je vragen over je bestelling, dan kan je steeds mailen naar [kalenderkbbczolder@gmail.com](mailto:kalenderkbbczolder@gmail.com).
 
-<div data-saleid="6d041b96-cd8b-4052-92e1-b51bb592004d"  data-title="Plaats je bestelling" data-buttontext="Bestellen"  data-nexttext="Nog een bestelling plaatsen" data-optional="email"></div>
+**Eetdag 15 maart uitgesteld!**
+
+# <div data-saleid="6d041b96-cd8b-4052-92e1-b51bb592004d"  data-title="Plaats je bestelling" data-buttontext="Bestellen"  data-nexttext="Nog een bestelling plaatsen" data-optional="email"></div>
