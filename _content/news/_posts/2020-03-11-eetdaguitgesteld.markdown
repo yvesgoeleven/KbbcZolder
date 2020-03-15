@@ -5,11 +5,12 @@ date: 2020-03-11 23:00:00
 permalink: /news/2030-03-11-eetdaguitgesteld/
 ---
 
-**Eetdag 15 maart uitgesteld!**
+**Praktische regeling voor terugbetaling inschrijvingen eetdag**
 
 
-KBBC Zolder heeft vanavond beslist om haar geplande eetdag van zondag 15 maart uit te stellen.
+Iedereen die ingeschreven had voor onze eetdag en de cash betaald heeft, krijgt zijn geld terug.
+Stuur een kopie van je eetkaart, samen met je rekeningnummer door naar Eetdag@kbbczolder.be, wij storten dan het bedrag terug op jullie rekening.
 
-Een nieuwe datum zal op een later tijdstip bepaald worden.
+Indien je via onze rekening gestort hebt, krijg je automatisch het geld teruggestort.
 
-Als club willen we met deze weloverwogen beslissing, onze verantwoordelijkheid nemen in het belang van de gezondheid onze leden, hun familie en kennissen. Meer informatie volgt later.
+KBBC Zolder
