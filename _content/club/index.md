@@ -108,9 +108,11 @@ Iedere ploeg heeft een trainer - coach, die verantwoordelijk is voor het sportie
 
 De coaches staan onder leiding van de jeugdcoördinator, en komen regelmatig samen om het sportieve luik van het jeugdbeleid uit te werken.
 
-Jeugdcoördinator is Kris Balette [k.balette@hotmail.com](mailto://k.balette@hotmail.com)
+Jeugdcoördinators zijn:
+- Steven Corthouts 
+- Kris Balette [kris.balette@kbbczolder.be](mailto://kris.balette@kbbczolder.be)
 
-Daarnaast staan de coaches van de seniors onder leiding van een sportief coordinator. 
+Daarnaast staan de coaches van de seniors onder leiding van een sportieve cel. 
 
 Daarnaast heeft iedere ploeg een ploegverantwoordelijke. Dit is een ouder - vrijwillig(st)er, die de praktische taken rond de ploeg en wedstrijden mee ter harte neemt. De ploegverantwoordelijken zijn tevens stemgerechtigd lid van de Algemene Vergadering van de vzw Koninklijke Basketbalclub Zolder.
 
@@ -129,10 +131,10 @@ _2.1. Inkomsten._
 
 Het bedrag van het lidgeld wordt jaarlijks door de Raad van Bestuur vastgelegd.
 
-Voor het seizoen 2019-2020 bedraagt het lidgeld voor spelers:  
+Voor het seizoen 2020-2021 bedraagt het lidgeld voor spelers:  
   * 215 euro voor G-Basket  
   * 165 euro voor U10   
-  * 245 euro voor de jeugdploegen vanaf U12 en senioren (Tot Niveau 3)  
+  * 245 euro voor de jeugdploegen vanaf U12 (Tot Niveau 3)  
   * 295 euro voor de jeugdploeg (Niveau 1 en 2) en senioren  
 
 Er zijn verschillende vormen van tussenkomsten waarvan spelers kunnen genieten. Bezoek zeker [http://aap.heusden-zolder.be/content/detail/8/alle-mogelijke-tussenkomsten-in-het-lidgeld](http://aap.heusden-zolder.be/content/detail/8/alle-mogelijke-tussenkomsten-in-het-lidgeld), waar alle tussenkomsten en voorwaarden mooi werden samengevat.  
@@ -218,6 +220,8 @@ Om deze taken rond te krijgen spreekt de ploegverantwoordelijke een beurtrol af 
 | 2017-2018      | 1e in 1ste provinciale (promotie naar 2de landelijke) |
 | 2018-2019      | 2de landelijke |
 | 2019-2020      | 1ste provinciale |
+| 2020-2021      | 1ste provinciale |
+
 
 
 
