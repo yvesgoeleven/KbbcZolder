@@ -7,7 +7,7 @@ keywords: Basket, KBBC Zolder
 
 # Belangrijke documenten
 
- * [Medisch Getuigschrift](/club/documenten/medischgetuigschrift19-20.pdf)
+ * [Medisch Getuigschrift](/club/documenten/medisch getuigschrift 2020 2021.pdf)
  * [Aangifte verzekeringen](/club/documenten/verzekeringsformulier.pdf)
  
 ## Tussenkomsten ziekenfondsen
@@ -21,7 +21,7 @@ Steek het in de brievenbus in Hal 1 (Sporthal Zolder) of bezorg het aan je coach
 
  * Christelijke mutualiteit :   https://www.cm.be/diensten-en-voordelen/vakantie-en-vrije-tijd/sport/sportvereniging 
  * De Voorzorg : https://www.devoorzorg.be/limburg/voordelen-advies/terugbetalingen-ledenvoordelen/terugbetalingen-voordelen/vrije-tijd/sport/Pages/default.aspx
- * Liberale mutualiteit : http://www.lm.be/Limburg/Rubrieken/Voordelen-en-diensten/Sport-en-beweging/Sportprikkel/Pages/sportprikkel.aspx 
+ * Liberale mutualiteit : https://www.lm.be/Limburg/Rubrieken/Voordelen-en-diensten/Sport-en-beweging/Sportprikkel/Pages/sportprikkel.aspx 
  * Vlaams & Neutraal ziekenfonds : https://www.vnz.be/voordelen-terugbetalingen/sport-fitnessclub/ 
  * Onafhankelijk ziekenfonds: https://www.oz.be/vitaliteit/voordelen/fitness-sportclub 
  * Partena : http://www.partena-ziekenfonds.be/nl/ziekenfonds-en-voordelen/voordelen-en-terugbetalingen/sportclub-lidgeld
@@ -30,11 +30,7 @@ Steek het in de brievenbus in Hal 1 (Sporthal Zolder) of bezorg het aan je coach
  
  ##### DE GEMEENTE : FONDS SPORT, SPEL EN CULTUUR voor alle kinderen van 6 tot 12 jaar
  
- Is je kind tussen 6 en 12 jaar ? En heb je een OMNIO-statuut, krijg je hulp van het OCMW of heb je het financieel moeilijk (volgens de criteria van Kind en gezin) dan kom je in aanmerking voor deze tussenkomst. Je kan dan het lidgeld voor 100% terugvorderen van een jeugd-, sport en cultuurvereniging uit de gemeente Heusden-Zolder. De tussenkomst is een maximumbedrag van 200 euro per werkjaar per kind.
- 
- Je moet zelf niets vooraf betalen. De tussenkomst wordt aangevraagd door je club of vereniging via een [online](https://www.heusden-zolder.be/eloket/formulier/116/aanvraag-toelage-fonds-sport-spel-en-cultuur) formulier op de website van onze gemeente. Gebruik je liever een [papieren](http://aap.heusden-zolder.be/file/download/3305/02DD737EB888C2E03D4FCC048F048440) versie, die kan je downloaden. Het lidgeld voor jouw kind zal éénmalig op de rekening van de club/vereniging gestort worden.
-
- Meer informatie op http://aap.heusden-zolder.be/content/detail/8/alle-mogelijke-tussenkomsten-in-het-lidgeld 
+ Is je kind tussen 6 en 12 jaar ? En heb je een OMNIO-statuut, krijg je hulp van het OCMW of heb je het financieel moeilijk (volgens de criteria van Kind en gezin) dan kom je in aanmerking voor deze tussenkomst. Meer informatie op http://aap.heusden-zolder.be/content/detail/8/alle-mogelijke-tussenkomsten-in-het-lidgeld 
  
  ## Reglementen
   
