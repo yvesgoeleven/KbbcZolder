@@ -1,24 +1,21 @@
 ---
 layout: post
-title:  "Steun onze club zonder € 1 extra uit te geven met Trooper.be"
-date:   2019-05-13 09:00:00
+title:  "Shop jij online?"
+date:   2020-07-24 12:00:00
 excerpt: 
-permalink: /news/2019-12-18-trooper/
+permalink: /news/2020-07-24-trooper/
 ---
-## Shop jij online? 
 ## Doe die extra klik via Trooper en steun onze club. 
-## Je betaalt geen euro extra!
-Met Trooper steun je KBBC Zolder door gewoon online te shoppen. 
+## Je betaalt zelf geen euro extra!
+Met Trooper steun je KBBC Zolder als je online koopt. 
 
-## Eens proberen?
+## Hoe?
 Ga naar de onze Trooperpagina ([Onze Trooperpagina](https://trooper.be/GBasketZolder/)), klik op de online shop van jouw keuze en shop gewoon zoals je anders doet, je betaalt exact dezelfde prijs als normaal. De Troopershops geven gemiddeld 5% van jouw aankoopbedrag aan je vereniging. 
 
-## Superhandig! Laat je helpen door Botje, je dikste Troopervriend …
-
-Botje is een extensie die je kan toevoegen aan je browser. 
-
-Je kan hier [Botje](https://trooper.be/trooperbot/) downloaden.
+## Laat je helpen door Botje …
 
 Wanneer jij naar een webshop surft die aangesloten is bij Trooper, komt Botje tevoorschijn en geeft je de kans om met één klik onze vereniging te steunen. Je kan met andere woorden niet meer vergeten te troopen dankzij Botje. Bovendien maakt hij het overbodig om eerst te surfen naar de Trooperpagina van onze vereniging. Je kan rechtstreeks naar de webshop surfen.
+
+Je kan hier [Botje](https://trooper.be/trooperbot/) downloaden.
 
 ![Botje](/news/img/robot.jpg)
