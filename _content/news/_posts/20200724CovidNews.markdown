@@ -18,7 +18,7 @@ Deze pagina houden we regelmatig up-to-date, dus consulteer hem regelmatig.
 - Mondmasker verplicht vanaf het moment dat je de sporthal binnenkomt. Het mondmasker mag pas af op het moment dat de training/wedstrijd aanvangt.
 - Supporters dienen in alle omstandigheden een mondmasker te dragen. 
 - Als je naar het toilet of de kleedkamer gaat draag je ook een mondmasker.
-- Douches zullen zeker in de maand Augustus gesloten blijven.
+- Douches zullen zeker in de maand augustus gesloten blijven.
 - Handen ontsmetten we bij binnenkomst.
 - Hou voldoende afstand.
 - Ballen/materiaal dient ontsmet te worden na elke training/wedstrijd.
