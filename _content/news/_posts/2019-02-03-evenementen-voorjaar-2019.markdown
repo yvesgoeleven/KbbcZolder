@@ -1,20 +1,12 @@
 ---
 layout: post
 title:  "Medewerkers gezocht"
-date:   2019-02-03 10:00:00
-excerpt: "Ook in het voorjaar verzorgt onze club de catering tijdens evenementen in de Ethias Arena."
-permalink: /news/2019-02-03-evenementen-voorjaar-2019/
+date:   2020-07-24 12:00:00
+excerpt: ""
+permalink: /news/2020-07-24-evenementen/
 ---
 
-Ook in het voorjaar verzorgt onze club de catering tijdens evenementen in de Ethias Arena.
-Hieronder vindt U de kalender met het nog benodigde aantal medewerkers.
-
 # Kalender:
-**29/03/2019 (18h00-24h00) - Schlagerfestival - Arena – 5 personen**
-~~30/03/2019 (18h00-24h00) - Schlagerfestival - Arena (Middenplein)~~ – **VOLZET**
-**6/04/2019 (18h00-24h00)  - Schlagerfestival - Arena + Champagnebar - 8 personen**
-**13/04/2019 (18h30-01h00) - I love the 90's - Arena(Plaza + expo) - 8 personen**
-**13/04/2019 (01h00-04h00) - I love the 90's - Arena(Plaza + expo) - 8 personen**
-~~2/06/2019 (14h00-18h00)  - Aladin de musical - Theater~~ - **VOLZET**
+** Omwille van COVID-19 zijn alle evenementen afgelast. Wij houden jullie verder op de hoogte.**
 
-Zin om mee te helpen of heb nog vragen, stuur dan een mail naar [penningmeester@kbbczolder.be](mailto://penningmeester@kbbczolder.be)
+Zin om mee te helpen of heb nog vragen of voorstellen, stuur dan een mail naar [info@kbbczolder.be](mailto://info@kbbczolder.be)
