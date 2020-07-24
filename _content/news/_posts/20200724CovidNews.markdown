@@ -29,10 +29,9 @@ Deze pagina houden we regelmatig up-to-date, dus consulteer hem regelmatig.
 - Wij nemen bestellingen op en bedienen enkel aan tafel (met mondmasker).
 - Handen ontsmetten we bij binnenkomst.
 - Hou voldoende afstand.
-- Tafels/stoelen worden ontsmet telkens iemand het cafetaria verlaat.
-- Volg de hygiene voorschriften zorgvuldig.
+- Volg de hygiënevoorschriften zorgvuldig.
 
-# Nuttige links.
+# Nuttige COVID-19 links.
 - [Basketbal Vlaanderen](https://www.basketbal.vlaanderen/coronavirus-covid-19).
 - [Belgische overheid](https://www.info-coronavirus.be/nl/).
 - [Gemeente Heusden-Zolder](https://www.heusden-zolder.be/coronavirus).
