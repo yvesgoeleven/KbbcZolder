@@ -1,12 +1,10 @@
 ---
 layout: post
-title: "Covid-19 - Nieuws - KBBC Zolder"
+title: "Covid-19 - Nieuws - update 24/7/2020"
 date: 2020-07-24 12:00:00
 excerpt: "Covid-19 - Nieuws - KBBC Zolder."
 permalink: /news/2020-07-24-covid/
 ---
-
-# Covid-19 - Nieuws - Update 24/7/2020 
 
 Op deze pagina willen we iedereen een overzicht geven van de huidige maatregelen tegen het COVID-19 virus.
 
