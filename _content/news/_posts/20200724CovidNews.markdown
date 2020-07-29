@@ -3,7 +3,7 @@ layout: post
 title: "Covid-19 - Nieuws - update 28/7/2020"
 date: 2020-07-28 12:00:00
 excerpt: "Covid-19 - Nieuws - KBBC Zolder."
-permalink: /news/2020-07-24-covid/
+permalink: /news/20200724CovidNews/
 ---
 
 Op deze pagina willen we iedereen een overzicht geven van de huidige maatregelen tegen het COVID-19 virus.

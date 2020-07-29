@@ -3,7 +3,7 @@ layout: post
 title:  "Shop jij online?"
 date:   2020-07-24 12:00:00
 excerpt: 
-permalink: /news/2020-07-24-trooper/
+permalink: /news/2019-12-18-trooper/
 ---
 ## Doe die extra klik via Trooper en steun onze club. 
 ## Je betaalt zelf geen euro extra!
