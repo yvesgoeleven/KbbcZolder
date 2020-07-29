@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Praktische info seizoen 2020-2021"
-date:   2020-07-24 12:00:00
+date:   2020-07-29 12:00:00
 excerpt: ""
-permalink: /news/2020-07-24-Seizoen2020-2021/
+permalink: /news/2020-07-29-Seizoen2020-2021/
 ---
 
 # Aanvang trainingen:
