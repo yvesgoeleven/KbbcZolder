@@ -18,7 +18,7 @@ Op 27 juli werden verstrengde maatregelen door de nationale veiligheidsraad aang
 
 Zoals iedereen weet, behoren Heusden-Zolder en enkele aanpalende gemeenten tot de top in België op het vlak van het aantal besmettingen. 
 
-In het belang van de gezondheid van onze leden, neemt onze club haar verantwoordelijkheid en heeft beslist om **ALLE sportieve activiteiten (trainingen, …) uit te stellen tot maandag 31 augustus 2020**.
+In het belang van de gezondheid van onze leden, neemt onze club haar verantwoordelijkheid en heeft beslist om **ALLE sportieve activiteiten (trainingen, …) uit te stellen tot en met maandag 31 augustus 2020**.
 
 **We roepen iedereen op, om de opgelegde maatregelen stip na te leven. Beperk in ieder geval uw sociale contacten in uw privéleven tot een absoluut minimum. Niet het virus, maar wel ons gedrag bepaalt wanneer en hoe we terug onze favoriete sport kunnen beoefenen.** :mask:
 
