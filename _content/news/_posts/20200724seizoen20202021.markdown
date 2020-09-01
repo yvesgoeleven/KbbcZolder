@@ -6,7 +6,7 @@ excerpt: ""
 permalink: /news/20200724seizoen20202021/
 ---
 
-# Aanvang trainingen:
+## Aanvang trainingen:
 
 U10 : 21 september
 
@@ -32,11 +32,11 @@ Dames: 21 september
 
 G-basket: 26 augustus
 
-# Trainingsuren:
+## Trainingsuren:
 
 http://www.kbbczolder.be/training
 
-# Medische fiches:
+## Medische fiches:
 
 Deze kan je **[hier](/club/documenten/medisch%20getuigschrift%202020%202021.pdf)** downloaden.
 
@@ -44,6 +44,6 @@ Maak tijdig een afspraak bij je dokter en laat het document invullen.
 
 Scan de ingevulde en ondertekende medische fiche in en stuur deze naar medische.fiches@kbbczolder.be  (onze Corona-voorkeur 😊)
 
-# Lidgeld:
+## Lidgeld:
 
 Hiervoor ontvangen jullie later een afzonderlijke brief.
