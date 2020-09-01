@@ -20,16 +20,27 @@ Op deze pagina kan je de protocollen voor trainingen en wedstrijden vinden. We r
 
 # Start trainingen:
 U10 : 21 september
+
 U12 : 21 september
+
 U14A: 1 september
+
 U14B: 21 september
+
 U16B/C: 21 september.
+
 A/B-ploeg: 1 september
+
 C/E-ploeg: 2 september
+
 D-ploeg: Nog te bepalen
+
 F-ploeg: 21 september
+
 Z-ploeg: 21 september
+
 Dames: 21 september
+
 G-basket: 26 augustus
 
 Consulteer deze pagina regelmatig, want deze wordt regelmatig aangepast.
