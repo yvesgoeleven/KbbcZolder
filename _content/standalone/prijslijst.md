@@ -1,4 +1,5 @@
 ---
+layout: default
 hidden: true
 ---
 
@@ -35,6 +36,7 @@ hidden: true
 | Thee | € 2,00|||
 | Warme Cecemel | € 2,00|||
 | Soep | € 2,00|||
+
 '*' verkrijgbaar afhankelijk van drukte en beschikbaarheid.
 
 
