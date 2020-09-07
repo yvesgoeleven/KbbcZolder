@@ -1,5 +1,6 @@
 ---
-layout: default
+layout: content
+title: Prijslijst cafetaria
 hidden: true
 ---
 
