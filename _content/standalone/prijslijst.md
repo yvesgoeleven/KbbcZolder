@@ -25,9 +25,9 @@ hidden: true
 | Schweppes Mojito | € 2,00 | **Cava 20cl** | € 5,00 |
 | Fuze Tea | € 2,00 |||
 | **Sportdranken** | | **Snacks/Snoep** ||
-| Aquarius Lemon blik 33 cl | € 2,50 | Portie party snacks / bitterballen | € 4,00 |
-| Aquarius Orange blik 33 cl | € 2,50 | Chips, snoepgoed, … | € 1,50 |
-| Aquarius Red peach blik 33 cl | € 2,50 |||
+| Aquarius Lemon 33cl | € 2,50 | Party snacks / bitterballen | € 4,00 |
+| Aquarius Orange 33cl | € 2,50 | Chips, snoepgoed, … | € 1,50 |
+| Aquarius Red peach 33cl | € 2,50 |||
 | **Warme dranken** | |||
 | Koffie / Déca| € 2,00|||
 | Koffie verkeerd*| € 2,50|||
