@@ -38,9 +38,9 @@ hidden: true
 | Warme Cecemel | € 2,00|||
 | Soep | € 2,00|||
 
-**'*' verkrijgbaar afhankelijk van drukte en beschikbaarheid.
+'*' verkrijgbaar afhankelijk van drukte en beschikbaarheid.
 
-Aquarius en water in flesjes kan je in onze automaat vinden.**
+Aquarius en water in flesjes kan je in onze automaat vinden.
 
 
 
