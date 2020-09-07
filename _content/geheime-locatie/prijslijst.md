@@ -32,7 +32,6 @@ hidden: true
 | Latte macchiato*| € 2,50|||
 | Cappuccino*| € 2,50|||
 | Espresso (kleine koffie)| € 2,00|||
-| ||||
 | Thee | € 2,00|||
 | Warme Cecemel | € 2,00|||
 | Soep | € 2,00|||
