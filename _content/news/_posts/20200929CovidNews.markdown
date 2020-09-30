@@ -36,7 +36,7 @@ Als club hechten we veel belang aan het naleven van de hierna beschreven maatreg
       - [Algemeen](#trainingalgemeen)
       - [Circulatieplan bij wedstrijden](#ToegangtotsporthalZolderbijwedstrijden)
       - [Registratie](#ingangbijtraining)
-      - [Richtlijnen voor spelers (thuis en bezoekend team)](#richtlijnenvoorspelers)
+      - [Richtlijnen voor spelers](#richtlijnenvoorspelers)
       - [Richtlijnen voor coach/assistant-coach](#richtlijnenvoorcoachassistantcoach)
       - [Tafelofficials](#tafelofficials)
       - [Toeschouwers/ouders/supporters](#Toeschouwersouderssupporters)
@@ -45,7 +45,6 @@ Als club hechten we veel belang aan het naleven van de hierna beschreven maatreg
   - [Rol van corona coördinator](#rolvancoronacoordinator)
   - [Rol van secretaris](#rolvansecretaris)
   - [Vaak gestelde vragen](#vaak-gestelde-vragen)
-
   - [Nuttige COVID 19 links](#nuttige-covid-19-links)
   
 ## Contactinformatie
@@ -54,7 +53,7 @@ Clubdokter : Lisa Weyens (011/42.06.09)
   
 ## Trainingen
 ### Training algemeen
-  -	Alvorens spelers/coaches zich naar de training begeven, nemen ze thuis hun temperatuur. Is deze boven de 37,5° dan blijft de betrokkene thuis en gaat niet naar de training. Spelers verwittigen hun coach tijdig. Coaches zorgen voor vervanging of communiceren met de spelers en de kalenderverantwoordelijke dat de training niet doorgaat.  
+  -	Alvorens spelers/coaches zich naar de training begeven, nemen ze thuis hun temperatuur. Is deze boven de 37,5° dan blijft de betrokkene thuis en gaat niet naar de training. 
   - Bij een van de volgende ziektesymptomen (zelfs heel lichte), komt de speler/coach niet naar de training: hoest, kortademig, geur-en/of smaakverlies, druk op de borst, spierpijn, neusloop, keelpijn, hoofdpijn, waterige diarree, eetlustverlies en acute verwardheid.  
   - Iedere speler brengt zijn eigen drinkbus mee indien nodig.  
   - Ouders informeren hun kind(eren) over de algemene veiligheids- en hygiëneregels en zorgen dat ze altijd de aanwijzingen van de begeleiding opvolgen.  
@@ -68,18 +67,19 @@ Clubdokter : Lisa Weyens (011/42.06.09)
   - Indien de ouders contact willen opnemen met de coach, dan doen ze dit best telefonisch.  
 
 ### Circulatieplan training
+![Circulatieplan trainingen](/news/img/trainingcirculatie.jpg)
 
 ### Ingang bij training
   - De toegang voor de trainingen zal enkel mogelijk zijn via de glazen deur (Ringlaan zijde) die uitgeeft op de gang met kleedkamers.  
   - Enkel spelers, coaches, bestuursleden en zaalwachters zijn toegelaten in de sporthal tijdens de trainingen.  
   - Ouders en sympathisanten wachten buiten of in de cafetaria (indien geopend).  
   - Toeschouwers zijn tijdens de trainingen niet toegestaan.  
-  - Indien de vorige training nog niet is afgelopen, dan:
-    - Hal 1: verzamelen en wachten de spelers en coaches op de tribune.
-    - Hal 2: verzamelen en wachten de spelers en coaches in de wachtzone in de gang.
+  - Indien de vorige training nog niet is afgelopen, dan verzamelen en wachten de spelers en coaches op de volgende plaatsen:
+    - Hal 1: verzamelen en wachten op de tribune.
+    - Hal 2: verzamelen en wachten in de wachtzone in de gang.
   
 ### Mondmasker bij training  
-  - Een mondmasker is verplicht voor iedereen, met uitzondering van de spelers van de U10 en de U12, vanaf dat je binnenkomt in de sporthal. Geen mondmasker = geen toegang.  
+  - Een mondmasker is verplicht voor iedereen, met uitzondering van de spelers van de U10 en de U12, vanaf dat je de sporthal binnenkomt. Geen mondmasker = geen toegang.  
   - Ook bij verplaatsingen in de sporthal (toilet, …) dient een mondmasker gedragen te worden.  
   - Wij raden aan om een plastiek zakje of briefomslag mee te brengen, zodat ieder zijn/haar mondmasker op een hygiënische manier kan opbergen tijdens het sporten.  
 
@@ -89,7 +89,7 @@ Clubdokter : Lisa Weyens (011/42.06.09)
   
 ### Kleedkamers training  
   - **U10-U18**  
-     - Voor de jeugdtrainingen (U10 – U18) zijn de kleedkamers niet beschikbaar.  
+     - Voor de jeugdtrainingen (U10 – U18) zijn de kleedkamers **niet** beschikbaar.  
      - Spelers/coaches komen in sporttenue en mondmasker de sporthal binnen.  
      - Sportschoenen die buiten gedragen worden, zijn niet toegestaan in de sporthal. Iedereen doet dus zijn/haar sportschoenen aan in de sporthal.  
   - **G-Basket en seniors ploegen (A, B, ... Z & Dames)**  
@@ -120,11 +120,13 @@ We begrijpen dat er verschillende opinies bestaan omtrent Covid-19 maatregelen, 
 - Alvorens naar de wedstrijden te komen, raden we iedereen aan om thuis hun temperatuur te nemen. Is deze boven de 37,5° dan blijft de betrokkene thuis. 
 
 ### Toegang tot sporthal Zolder bij wedstrijden
-- Volgende circulatieplan geldt tijdens wedstrijden.  
+- Volgende circulatieplan is van toepassing wedstrijden.  
+![Circulatieplan wedstrijden](/news/img/wedstrijdencirculatie.jpg)
+
 - Samengevat:  
   - Spelers, coaches, bestuursleden en zaalwachters zijn enkel toegelaten in het gedeelte waar de kleedkamers zich bevinden.  De toegang zal enkel mogelijk zijn via de glazen deur (Ringlaan zijde), welke uitgeeft op de gang met kleedkamers.  
   - Ouders/supporters/sympathisanten komen via de cafetaria binnen.  
-  - Spelers (zowel thuis- als bezoekende ploeg) verzamelen met mondmasker per ploeg, in de respectievelijke wachtzones tot de groep compleet is en begeven zich in groep naar hun kleedkamers.  
+  - Spelers (zowel thuis- als bezoekende ploeg) verzamelen (met mondmasker) per ploeg, in de respectievelijke wachtzones tot de groep compleet is en begeven zich in groep naar hun kleedkamers.  
  
 ### Registratie
  - Spelers, coaches en officials, dienen zich niet te registreren voor wedstrijden. Dit verloopt via het digitaal wedstrijdformulier.  
@@ -192,8 +194,8 @@ We begrijpen dat er verschillende opinies bestaan omtrent Covid-19 maatregelen, 
  - Groene zone: supporters KBBC Zolder  
  - Gele zone: supporters bezoekers  
 - Volgende beschikbare zitjes voor toeschouwers werden op basis van 2 leden per bubbel, met in achtneming van 1,5 m wettelijke afstand tussen bubbels:  
- - Toeschouwers thuisploeg: 42 supporters  
- - Toeschouwers uitploeg: 24 supporters  
+ - Toeschouwers KBBC Zolder: 42 supporters  
+ - Toeschouwers bezoekende ploeg: 24 supporters  
 - Stoelen die gemarkeerd zijn als niet beschikbaar, mogen niet ingenomen worden.  
 - Kunnen hun zitje ontsmetten met reinigingsdoekjes welke ter beschikking zijn aan de tribune.  
 - Vermijden roepen of schreeuwen.  
