@@ -1,1 +1,13 @@
-test
+---
+layout: post
+title: "Covid-19 - Veel gestelde vragen - update 30/9/2020"
+date: 2020-09-30 18:00:00
+excerpt: "Covid-19 - Veel gestelde vragen - KBBC Zolder."
+permalink: /news/20200930CovidFAQ/
+---
+
+In deze sectie 
+# Protocol Covid-19 KBBC Zolder VZW
+**Maatregelen om veilig te sporten (Versie 3.0 d.d. 30 september 2020)**
+
+## Inleiding  
