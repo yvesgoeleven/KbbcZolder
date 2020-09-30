@@ -45,7 +45,7 @@ Als club hechten we veel belang aan het naleven van de hierna beschreven maatreg
   - [Rol van corona coördinator](#rolvancoronacoordinator)
   - [Rol van secretaris](#rolvansecretaris)
   - [Vaak gestelde vragen](#vaak-gestelde-vragen)
-      - [Circulatieplan bij wedstrijden](#ToegangtotsporthalZolderbijwedstrijden)
+      - [Wat als ik als speler/coach/medewerker positief test op Corona?](#Watalsikalsspelercoachmedewerkerpositieftestopcorona)
       - [Registratie](#ingangbijtraining)
       - [Richtlijnen voor spelers (thuis en bezoekend team)](#richtlijnenvoorspelersthuisenbezoekendteam)
 
