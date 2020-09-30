@@ -15,7 +15,7 @@ Op deze pagina willen we een antwoord geven op veel gestelde vragen.
 Er zijn vier kleurcodes: gaande van groen (nul risico) over geel (laag risico) en oranje (matig risico) tot rood (hoog risico).  
 Aan elke kleurcode zijn duidelijke voorschriften verbonden.  
 
-**Geel**
+**Geel**  
   Alle sportactiviteiten zijn mogelijk voor U12 en 12+, zowel indoor als outdoor.  
   Contact in de eigen sportgroep en tussen verschillende sportgroepen is toegestaan.  
   Het aantal sporters in een sportinfrastructuur wordt bepaald door de densiteitsregels.  
@@ -24,7 +24,7 @@ Aan elke kleurcode zijn duidelijke voorschriften verbonden.
   Publiek is toegelaten op sportactiviteiten.  
   Let op dat lokale besturen bijkomende beperkingen kunnen opleggen.  
 
-**Oranje**
+**Oranje**  
   Sportactiviteiten zijn mogelijk voor U12 en 12+, zowel indoor als outdoor.  
   Voor de U12 is contact toegestaan in de eigen sportgroep en tussen verschillende sportgroepen. - Indoorsportactiviteiten: Voor 12+ is enkel contactloos sporten toegestaan.  
   Het aantal sporters in een sportinfrastructuur wordt bepaald door de densiteitsregels.  
@@ -33,7 +33,7 @@ Aan elke kleurcode zijn duidelijke voorschriften verbonden.
   Publiek is verboden voor indoor sportactiviteiten.  
   Let op dat lokale besturen bijkomende beperkingen kunnen opleggen.  
 
-**Rood**
+**Rood**  
   Sportactiviteiten zijn mogelijk voor U12 zowel indoor als outdoor.
   Outdoorsportactiviteiten voor 12+ zijn mogelijk op individuele basis of binnen de gezins- of huisbubbel, waar contact is toegelaten. Of met maximum twee steeds dezelfde personen, zonder contact.  
   De sportkantines zijn gesloten.  
