@@ -36,18 +36,15 @@ Als club hechten we veel belang aan het naleven van de hierna beschreven maatreg
       - [Algemeen](#trainingalgemeen)
       - [Circulatieplan bij wedstrijden](#ToegangtotsporthalZolderbijwedstrijden)
       - [Registratie](#ingangbijtraining)
-      - [Richtlijnen voor spelers (thuis en bezoekend team)](#richtlijnenvoorspelersthuisenbezoekendteam)
-      - [Richtlijnen voor coach/assistant-coach (thuis en bezoekend team)](#richtlijnenvoorcoachassistantcoachthuisenbezoekendteam)
+      - [Richtlijnen voor spelers (thuis en bezoekend team)](#richtlijnenvoorspelers)
+      - [Richtlijnen voor coach/assistant-coach](#richtlijnenvoorcoachassistantcoach)
       - [Tafelofficials](#tafelofficials)
-      - [Toeschouwers/ouders/supporters (thuis en bezoekend team)](#Toeschouwersouderssupportersthuisenbezoekendteam)
+      - [Toeschouwers/ouders/supporters](#Toeschouwersouderssupporters)
       - [Uitgang/afhalen](#uitgangafhalennatraining)
   - [Cafetaria](#cafetaria)
   - [Rol van corona coördinator](#rolvancoronacoordinator)
   - [Rol van secretaris](#rolvansecretaris)
   - [Vaak gestelde vragen](#vaak-gestelde-vragen)
-      - [Wat als ik als speler/coach/medewerker positief test op Corona?](#Watalsikalsspelercoachmedewerkerpositieftestopcorona)
-      - [Registratie](#ingangbijtraining)
-      - [Richtlijnen voor spelers (thuis en bezoekend team)](#richtlijnenvoorspelersthuisenbezoekendteam)
 
   - [Nuttige COVID 19 links](#nuttige-covid-19-links)
   
@@ -56,7 +53,7 @@ Corona coördinator KBBC Zolder : Peter Iven (0476/927483 / corona@kbbczolder.be
 Clubdokter : Lisa Weyens (011/42.06.09) 
   
 ## Trainingen
-### Training Algemeen
+### Training algemeen
   -	Alvorens spelers/coaches zich naar de training begeven, nemen ze thuis hun temperatuur. Is deze boven de 37,5° dan blijft de betrokkene thuis en gaat niet naar de training. Spelers verwittigen hun coach tijdig. Coaches zorgen voor vervanging of communiceren met de spelers en de kalenderverantwoordelijke dat de training niet doorgaat.  
   - Bij een van de volgende ziektesymptomen (zelfs heel lichte), komt de speler/coach niet naar de training: hoest, kortademig, geur-en/of smaakverlies, druk op de borst, spierpijn, neusloop, keelpijn, hoofdpijn, waterige diarree, eetlustverlies en acute verwardheid.  
   - Iedere speler brengt zijn eigen drinkbus mee indien nodig.  
@@ -112,7 +109,7 @@ Clubdokter : Lisa Weyens (011/42.06.09)
    
 ## Wedstrijden.
 
-### Inleiding  
+### Inleiding
 Dit basisprotocol is geldig voor alle thuiswedstrijden van KBBC Zolder. Zowel onze eigen teams, als de bezoekende teams worden geacht dit protocol strikt na te leven in het belang van ieders gezondheid.  
 We begrijpen dat er verschillende opinies bestaan omtrent Covid-19 maatregelen, … . Onafgezien van ieders persoonlijke opinie, vragen we het nodige respect en sereniteit aan de dag te leggen bij het bijwonen van wedstrijden. We hebben alle begrip dat sommige elementen in dit protocol voor moeilijke en emotionele situaties kunnen zorgen. We vragen iedereen om, in het belang van onze sport en gezondheid, gezond verstand aan de dag te leggen, hoe moeilijk dat soms ook is. Daarnaast sporen we iedereen aan om op een beleefde manier personen die dit protocol niet naleven hierop te wijzen. Samen kunnen we ervoor zorgen dat we hier op een gedegen manier mee omgaan.  
 
@@ -129,12 +126,12 @@ We begrijpen dat er verschillende opinies bestaan omtrent Covid-19 maatregelen, 
   - Ouders/supporters/sympathisanten komen via de cafetaria binnen.  
   - Spelers (zowel thuis- als bezoekende ploeg) verzamelen met mondmasker per ploeg, in de respectievelijke wachtzones tot de groep compleet is en begeven zich in groep naar hun kleedkamers.  
  
-### Registratie  
+### Registratie
  - Spelers, coaches en officials, dienen zich niet te registreren voor wedstrijden. Dit verloopt via het digitaal wedstrijdformulier.  
  - De toeschouwers dienen bij binnenkomst het registratieformulier in te vullen (1 per bubbel). Deze worden 14 dagen bijgehouden door de secretaris en zullen voor geen enkele andere doelstelling gebruikt worden.  
  - Mits uw akkoord kan u (speler, coach, official, toeschouwer) gevraagd worden om uw temperatuur te laten opmeten. Indien uw temperatuur meer dan 37,5 ° bedraagt, zal u verzocht worden om de accommodatie (incl. cafetaria) niet te betreden. We rekenen op ieders medewerking op dit vlak.  
 
-### Kleedkamers  
+### Kleedkamers
 - Buiten de spelers, hun coaches en zaalpersoneel mag niemand anders in de kleedkamer komen.  
 - Spelers nemen al hun spullen mee te nemen naar de sporthal, zodat de kleedkamer leeg is.  
 - Kleedkamer verdelingen tijdens wedstrijden:
@@ -147,7 +144,7 @@ We begrijpen dat er verschillende opinies bestaan omtrent Covid-19 maatregelen, 
 - Na het douchen zijn de spelers verantwoordelijk om de vloer van de kleedkamer en de douches af te trekken.  
 - De coach (thuis- als bezoekende ploeg) ziet erop toe dat alles conform verloopt en de kleedkamer conform de richtlijnen wordt achter gelaten.  
 
-### Richtlijnen voor spelers (thuis en bezoekend team)
+### Richtlijnen voor spelers
 - Verplaats je naar de wedstrijd niet in gezelschap van mensen buiten uw sociale bubbel, tenzij iedereen een mondmasker draagt en maximaal afstand houdt.  
 - Iedere speler brengt zijn eigen drinkbus mee indien nodig. KBBC Zolder voorziet geen water. Drinkbussen kunnen gevuld worden aan de kranen.  
 - Spelers wachten in de wachtzones (met mondmaskers) tot de groep compleet is en begeven zich dan in groep naar de respectievelijke kleedkamers.  
@@ -166,7 +163,7 @@ We begrijpen dat er verschillende opinies bestaan omtrent Covid-19 maatregelen, 
 - Spelers gaan tijdens de rust en na de wedstrijd meteen richting hun toegewezen kleedkamer en niet naar de tribune of de cafetaria.  
 - Spelers/coaches van elk team zorgen samen ervoor dat de kleedkamers bij het verlaten volledig opgeruimd zijn.  
 
-### Richtlijnen voor coach/assistant-coach (thuis en bezoekend team)  
+### Richtlijnen voor coach/assistant-coach
 - Zorgt ervoor dat het digitaal wedstrijdformulier op voorhand is ingevuld.  
 - Heeft een voorbeeldfunctie in het naleven van de Covid-19 regels en draagt zorg dat zijn/haar team de richtlijnen van dit protocol naleeft.  
 - Coacht op een positieve manier en stelt zich constructief op m.b.t. elke beslissing van de scheidsrechters, corona coördinator en zaalwachters.  
@@ -184,7 +181,7 @@ We begrijpen dat er verschillende opinies bestaan omtrent Covid-19 maatregelen, 
 - Dragen gedurende de ganse wedstrijd mondbescherming.  
 - Ontsmetten tafel en tafelmateriaal (klok, pijl, bel, …) voor en na elke wedstrijd.  
 
-### Toeschouwers/ouders/supporters (thuis en bezoekend team)  
+### Toeschouwers/ouders/supporters
 - Verplaats je naar de wedstrijd niet in gezelschap van mensen buiten uw sociale bubbel, tenzij iedereen een mondmasker draagt en maximaal afstand houdt.  
 - Dragen ten alle tijden mondbescherming.  
 - Kunnen de sporthal betreden via de cafetaria. Geen andere weg is toegestaan.  
