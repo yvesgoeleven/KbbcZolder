@@ -26,14 +26,6 @@ Als club hechten we veel belang aan het naleven van de hierna beschreven maatreg
   - [Nuttige COVID 19 links](#nuttige-covid-19-links)
   - [Contactinformatie](#contactinformatie)
   
-## [Richtlijnen bij trainingen](/corona/training/).  
-  
-## [Richtlijnen voor thuiswedstrijden KBBC Zolder](/corona/wedstrijden/).  
-
-## [Cafetaria](/corona/cafetaria/).
-
-## [Vaak gestelde vragen](/corona/vragen/)
-
 ## Nuttige COVID-19 links.  
 - [Basketbal Vlaanderen](https://www.basketbal.vlaanderen/coronavirus-covid-19).  
 - [Belgische overheid](https://www.info-coronavirus.be/nl/).  
