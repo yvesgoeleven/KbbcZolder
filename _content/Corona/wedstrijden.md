@@ -7,35 +7,35 @@ title: Corona informatie wedstrijden KBBC Zolder VZW
 **Maatregelen om veilig te sporten (Versie 3.0 d.d. 30 september 2020)**
 # Richtlijnen voor thuiswedstrijden KBBC Zolder VZW  
 
-**Disclaimer: Dit protocol werd opgesteld op basis van de kennis waarover we op het moment van publicatie beschikken en gebaseerd op de federale, Vlaamse, gemeentelijke en federatie maatregelen en richtlijnen ter zake.**  
+<u>Disclaimer</u>: Dit protocol werd opgesteld op basis van de kennis waarover we op het moment van publicatie beschikken en gebaseerd op de federale, Vlaamse, gemeentelijke en federatie maatregelen en richtlijnen ter zake.  
 
-- [Wedstrijden](#wedstrijden)
-    - [Algemeen](#trainingalgemeen)
-    - [Circulatieplan bij wedstrijden](#ToegangtotsporthalZolderbijwedstrijden)
-    - [Registratie](#ingangbijtraining)
-    - [Richtlijnen voor spelers](#richtlijnenvoorspelers)
-    - [Richtlijnen voor coach/assistant-coach](#richtlijnenvoorcoachassistantcoach)
-    - [Tafelofficials](#tafelofficials)
-    - [Toeschouwers/ouders/supporters](#Toeschouwersouderssupporters)
-    - [Uitgang/afhalen](#uitgangafhalennatraining)
-  
-## Wedstrijden.
-
-### Inleiding
-Dit basisprotocol is geldig voor alle thuiswedstrijden van KBBC Zolder. Zowel onze eigen teams, als de bezoekende teams worden geacht dit protocol strikt na te leven in het belang van ieders gezondheid.  
+Dit protocol is geldig voor alle thuiswedstrijden van KBBC Zolder.
+Zowel onze eigen teams, als de bezoekende teams worden geacht dit protocol strikt na te leven in het belang van ieders gezondheid.  
 We begrijpen dat er verschillende opinies bestaan omtrent Covid-19 maatregelen, … . Onafgezien van ieders persoonlijke opinie, vragen we het nodige respect en sereniteit aan de dag te leggen bij het bijwonen van wedstrijden. We hebben alle begrip dat sommige elementen in dit protocol voor moeilijke en emotionele situaties kunnen zorgen. We vragen iedereen om, in het belang van onze sport en gezondheid, gezond verstand aan de dag te leggen, hoe moeilijk dat soms ook is. Daarnaast sporen we iedereen aan om op een beleefde manier personen die dit protocol niet naleven hierop te wijzen. Samen kunnen we ervoor zorgen dat we hier op een gedegen manier mee omgaan.  
 
+
+- [Wedstrijden](#wedstrijden)
+    - [Algemeen](#algemeen)
+    - [Circulatieplan bij wedstrijden](#circulatieplan)  
+    - [Registratie](#registratie)  
+    - [Kleedkamers](#kleedkamers)  
+    - [Richtlijnen voor spelers](#richtlijnenvoorspelers)  
+    - [Richtlijnen voor coaches](#richtlijnenvoorcoaches)  
+    - [Tafelofficials](#tafelofficials)  
+    - [Toeschouwers](#toeschouwers)  
+- [Contactinformatie](#contactinformatie)        
+
+## Wedstrijden.
 ### Algemeen
-- Elk KBBC Zolder team beschikt over minstens 1 corona coördinator die de zaken in goede banen leidt tijdens de thuiswedstrijden. Hij/Zij draagt een geel hesje. De corona coördinator ziet toe op de naleving van dit protocol en is geautoriseerd om mensen aan te spreken en in uitzonderlijke gevallen ook de toegang tot de accommodatie te ontzeggen.  
+- Elk KBBC Zolder team beschikt over minstens 1 corona coördinator die de zaken in goede banen leidt tijdens de thuiswedstrijden. Hij/Zij draagt een geel hesje. De corona coördinator ziet toe op de naleving van dit protocol en is geautoriseerd om mensen aan te spreken en in uitzonderlijke gevallen ook de toegang tot de accommodatie te ontzeggen. 
 - Bij een van de volgende ziektesymptomen (zelfs heel lichte), komt men niet naar de wedstrijd:  
   Hoest, kortademig, geur-en/of smaakverlies, druk op de borst, spierpijn, neusloop, keelpijn, hoofdpijn, waterige diarree, eetlustverlies en acute verwardheid.  
 - Alvorens naar de wedstrijden te komen, raden we iedereen aan om thuis hun temperatuur te nemen. Is deze boven de 37,5° dan blijft de betrokkene thuis. 
 
-### Toegang tot sporthal Zolder bij wedstrijden
+### Circulatieplan  
 - Volgende circulatieplan is van toepassing wedstrijden.  
 ![Circulatieplan wedstrijden](/news/img/wedstrijdencirculatie.jpg)
-
-- Samengevat:  
+- <u>Samengevat</u>:  
   - Spelers, coaches, bestuursleden en zaalwachters zijn enkel toegelaten in het gedeelte waar de kleedkamers zich bevinden.  De toegang zal enkel mogelijk zijn via de glazen deur (Ringlaan zijde), welke uitgeeft op de gang met kleedkamers.  
   - Ouders/supporters/sympathisanten komen via de cafetaria binnen.  
   - Spelers (zowel thuis- als bezoekende ploeg) verzamelen (met mondmasker) per ploeg, in de respectievelijke wachtzones tot de groep compleet is en begeven zich in groep naar hun kleedkamers.  
@@ -77,7 +77,7 @@ We begrijpen dat er verschillende opinies bestaan omtrent Covid-19 maatregelen, 
 - Spelers gaan tijdens de rust en na de wedstrijd meteen richting hun toegewezen kleedkamer en niet naar de tribune of de cafetaria.  
 - Spelers/coaches van elk team zorgen samen ervoor dat de kleedkamers bij het verlaten volledig opgeruimd zijn.  
 
-### Richtlijnen voor coach/assistant-coach
+### Richtlijnen voor coaches
 - Zorgt ervoor dat het digitaal wedstrijdformulier op voorhand is ingevuld.  
 - Heeft een voorbeeldfunctie in het naleven van de Covid-19 regels en draagt zorg dat zijn/haar team de richtlijnen van dit protocol naleeft.  
 - Coacht op een positieve manier en stelt zich constructief op m.b.t. elke beslissing van de scheidsrechters, corona coördinator en zaalwachters.  
@@ -95,7 +95,7 @@ We begrijpen dat er verschillende opinies bestaan omtrent Covid-19 maatregelen, 
 - Dragen gedurende de ganse wedstrijd mondbescherming.  
 - Ontsmetten tafel en tafelmateriaal (klok, pijl, bel, …) voor en na elke wedstrijd.  
 
-### Toeschouwers/ouders/supporters
+### Toeschouwers
 - Verplaats je naar de wedstrijd niet in gezelschap van mensen buiten uw sociale bubbel, tenzij iedereen een mondmasker draagt en maximaal afstand houdt.  
 - Dragen ten alle tijden mondbescherming.  
 - Kunnen de sporthal betreden via de cafetaria. Geen andere weg is toegestaan.  
