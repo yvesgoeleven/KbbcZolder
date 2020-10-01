@@ -17,6 +17,8 @@ title: Corona informatie KBBC Zolder VZW
   - [Handhygiëne](#handhygiene)
   - [Kleedkamers](#kleedkamers)
   - [Uitgang/afhalen](#uitgang)
+- [Contactinformatie](#contactinformatie)  
+    
 ## Trainingen
 ### Algemeen
   -	Alvorens spelers/coaches zich naar de training begeven, nemen ze thuis hun temperatuur. Is deze boven de 37,5° dan blijft de betrokkene thuis en gaat niet naar de training. 
@@ -49,7 +51,7 @@ title: Corona informatie KBBC Zolder VZW
   - Ook bij verplaatsingen in de sporthal (toilet, …) dient een mondmasker gedragen te worden.  
   - Wij raden aan om een plastiek zakje of briefomslag mee te brengen, zodat ieder zijn/haar mondmasker op een hygiënische manier kan opbergen tijdens het sporten.  
 
-### Handhygiëne  
+### Handhygiëne
   - Bij aankomst ontsmet iedereen zijn/haar handen. Aan de ingang is een dispenser beschikbaar.  
   - Bij vertrek ontsmet ook iedereen zijn/haar handen of wast ze met water en zeep.  
   
@@ -72,5 +74,9 @@ title: Corona informatie KBBC Zolder VZW
 ### Uitgang
    - De spelers verlaten de sporthal, met mondmasker, via de uitgang langs het judo-lokaal (Dekenstraat kant, zie plan).  
    - De ouders halen hun kinderen direct na de training op aan de buitendeur aan de Dekenstraat.  
+
+## Contactinformatie
+Corona coördinator KBBC Zolder : Peter Iven (0476/927483 / corona@kbbczolder.be)  
+Clubdokter : Lisa Weyens (011/42.06.09) 
 
 #SamenSterk #StaySafe #blijfsporten #volgderegels  
