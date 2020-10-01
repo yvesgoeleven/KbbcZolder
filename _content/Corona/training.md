@@ -1,6 +1,6 @@
 ---
 layout: content
-title: Corona informatie KBBC Zolder VZW
+title: KBBC Zolder VZW: Corona informatie m.b.t. trainingen.
 ---
 
 # Protocol Covid-19 KBBC Zolder VZW
