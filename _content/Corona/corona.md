@@ -23,41 +23,14 @@ Als club hechten we veel belang aan het naleven van de hierna beschreven maatreg
   - [Richtlijnen voor thuiswedstrijden KBBC Zolder](https://www.kbbczolder.be/corona/wedstrijden)
   - [Cafetaria](https://www.kbbczolder.be/corona/cafetaria)
   - [Vaak gestelde vragen](#vaak-gestelde-vragen)
-  - [Rol van corona coördinator](#rolvancoronacoordinator)
-  - [Rol van secretaris](#rolvansecretaris)
   - [Nuttige COVID 19 links](#nuttige-covid-19-links)
   - [Contactinformatie](#contactinformatie)
-
   
 ## [Richtlijnen bij trainingen](https://www.kbbczolder.be/corona/trainingen).  
   
 ## [Richtlijnen voor thuiswedstrijden KBBC Zolder](https://www.kbbczolder.be/corona/wedstrijden).  
 
 ## [Cafetaria](https://www.kbbczolder.be/corona/cafetaria).
-
-## Rol van corona coördinator
-- Ontvangt de spelers/coaches/officials/toeschouwers en legt kort de richtlijnen uit.  
-- Wijst de kleedkamers toe aan de teams.  
-- Geeft het signaal dat de teams op de spelersbank kunnen plaatsnemen.  
-- Draagt er zorg voor dat alle materialen op hun plaats en bijgevuld zijn:  
- - Contact tracking documenten  
- - Handontsmetting  
- - Reinigingsmiddelen tafel en coaches  
- - …  
-- Checkt de naleving van de richtlijnen:  
- - Kleedkamers  
- - Banken  
- - Wachtzones  
- - ….  
-- Ziet erop toe dat alle toeschouwers het contact tracking document invullen.  
- - Organiseert de temperatuur controle.  
- - Ziet erop toe dat na de wedstrijd alles correct gereinigd en ontsmet wordt conform de afspraken.  
- - Steekt na elke wedstrijd de contact tracking documenten in de brievenbus.  
-
-## Rol van secretaris
-- Stuurt tijdig de corona richtlijnen naar de bezoekende clubs.  
-- Houdt de contact tracking documenten bij gedurende 14 dagen.  
-- Bezorgt de contact tracking documenten enkel aan derden op vraag van de corona coördinator.  
 
 ## Vaak gestelde vragen.
 
