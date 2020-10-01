@@ -5,6 +5,19 @@ date: 2020-09-30 18:00:00
 excerpt: "Covid-19 - Veel gestelde vragen - KBBC Zolder."
 ---
 
+ - [Wat zijn de verschillende kleurcodes en wat betekenen ze?](#watzijndeverschillendekleurcodesenwatbetekenenze)
+ - [Welke soorten risico’s (contacten) zijn er?](#welkesoortenrisicoscontactenzijner)
+   - [Hoog risico contacten of nauwe contacten](#hoogrisicocontactenofnauwecontacten)
+   - [Laag risico contacten](#laagrisicocontacten)
+ - [Wat bij een Nauw (hoog risico) contact?](#watbijeennauwhoogrisicocontact)
+ - [Wat bij een laag risico contact?](#watbijeenlaagrisicocontact)
+ - [Wat als ik als speler/coach/medewerker/tafelofficial, positief test op Corona?](#watalsikalsspelercoachmedewerkertafelofficialpositieftestopcorona)
+ - [## Wat als iemand waarmee ik samenwoon of een relatie heb, positief test op Corona?](### watalsiemandwaarmeeiksamenwoonofeenrelatiehebpositieftestopcorona)
+ - [Wat als ik door contacttracing gevraagd wordt om een test te ondergaan?](#watalsikdoorcontacttracinggevraagdwordtomeentestteondergaan)
+ - [Wat als een lid van mijn club (medespeler/coach/tafelofficial/scheidsrechter) positief test op Corona?](#watalseenlidvanmijnclubmedespelercoachtafelofficialscheidsrechterpositieftestopcorona)
+ - [Mag ik sporten als ik ziek ben?](#magiksportenalsikziekben)
+ - [Ik heb bijkomende vragen over Corona?](#ikhebbijkomendevragenovercorona)
+
 ## Wat zijn de verschillende kleurcodes en wat betekenen ze?
 - Er zijn vier kleurcodes: gaande van groen (nul risico) over geel (laag risico) en oranje (matig risico) tot rood (hoog risico).  
 - Aan elke kleurcode zijn duidelijke voorschriften verbonden.  
@@ -38,7 +51,7 @@ excerpt: "Covid-19 - Veel gestelde vragen - KBBC Zolder."
 In functie van het risico op besmetting worden contacten opgedeeld in twee groepen.  
 Omdat het belangrijk is om in deze fase van de epidemie, verspreiding van het virus zoveel mogelijk in te dijken, moeten personen die mogelijk besmettelijk zijn in quarantaine worden geplaatst, ook zonder klachten of in de dagen vooraleer ze klachten vertonen.  
 
-#### Hoog risico contacten of nauwe contacten**  
+#### Hoog risico contacten of nauwe contacten  
 Voor onze sport zijn dat:  
 - Spelers waarmee je meetraint en aan wedstrijden deelneemt.  
 - Coaches  
@@ -55,7 +68,7 @@ Voor de volgende personen wordt het risico op besmetting als “hoog” beschouw
 - In een vliegtuig ook bemanningsleden die dienst doen in de sectie van het  vliegtuig waar het geval zat. Indien de ernst van de symptomen of de verplaatsing van de patiënt in het vliegtuig wijst op een mogelijk grotere blootstelling, kunnen passagiers die in hetzelfde compartiment zaten of alle passagiers in het vliegtuig worden beschouwd als hoog risico contacten (beoordeling door de dienst Infectieziekten bestrijding).  
 -	Een reiziger die terugkeert uit een rode of oranje zone2.  
 
-#### Laag risico contacten**  
+#### Laag risico contacten
 Voor onze sport zijn dat:  
 - Scheidsrechters  
 - Taffelofficials  
@@ -93,7 +106,7 @@ Voor de volgende personen wordt het risico op besmetting als “laag” beschouw
 -	Afname van een test om een infectie uit te sluiten bij asymptomatische personen is niet nodig. 
 -	Bij ontwikkelen van symptomen die compatibel zijn met COVID-19 (zie gevalsdefinitie) wordt de persoon een mogelijk geval en moet er telefonisch contact genomen worden met de huisarts die kan zeggen waar een staalafname kan plaatsvinden. Vanaf dat moment is het tevens noodzakelijk om de corona coördinator van de club te verwittigen.
 
-## Wat als ik als speler/coach/medewerker/tafelofficial positief test op Corona?
+## Wat als ik als speler/coach/medewerker/tafelofficial, positief test op Corona?
 - Contacteer onmiddelijk de corona-coördinator van de club.  
   - Hij zal op basis van de contacttracing documenten, de contactlijst opstellen.  
   - De corona-coördinator verwittigt ook onmiddellijk Basketbal Vlaanderen én stelt een contactlijst op i.f.v. contacttracing.  Basketbal Vlaanderen zal de eventuele tegenstanders (tot dag -2) en de betrokken scheidsrechters (tot dag -2) informeren.  
@@ -104,13 +117,13 @@ Voor de volgende personen wordt het risico op besmetting als “laag” beschouw
 - Je komt dus niet naar de trainingen en wedstrijden, tot je dokter het fiat geeft om opnieuw te sporten.  
 - Alvorens opnieuw te starten neem je eerst contact op met de Corona Coördinator van de club.  
 
-## Wat als iemand waarmee ik samenwoon of een relatie heb positief test op Corona?
+## Wat als iemand waarmee ik samenwoon of een relatie heb, positief test op Corona?
 - In dit geval spreken we van een nauw (hoog risico) contact en gelden de richtlijne terzake. zie [Wat bij een Nauw (hoog risico) contact?](#watbijeennauwhoogrisicocontact)  
 
 ## Wat als ik door contacttracing gevraagd wordt om een test te ondergaan?
 - In dit geval spreken we van een nauw (hoog risico) contact en gelden de richtlijne terzake. zie [Wat bij een Nauw (hoog risico) contact?](#watbijeennauwhoogrisicocontact)  
 
-## Wat als een medespeler/coach/tafelofficial/scheidsrechter positief test op Corona?
+## Wat als een lid van mijn club (medespeler/coach/tafelofficial/scheidsrechter) positief test op Corona?
   - Afhankelijk van het contact type (zie [Welke soorten risico’s (contacten) zijn er?](#welkesoortenrisicoscontactenzijner) gelden de respectievelijke regels:  
       [Wat bij een Nauw (hoog risico) contact?](#watbijeennauwhoogrisicocontact)  
       [Wat bij een laag risico contact?](#watbijeenlaagrisicocontact)  
