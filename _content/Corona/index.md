@@ -21,7 +21,7 @@ Als club hechten we veel belang aan het naleven van de hierna beschreven maatreg
 - [Inhoud](#Inhoud)
   - [Richtlijnen bij trainingen](https://www.kbbczolder.be/corona/trainingen/index)
   - [Richtlijnen voor thuiswedstrijden KBBC Zolder](https://www.kbbczolder.be/corona/wedstrijden/index)
-  - [Cafetaria](https://www.kbbczolder.be/corona/cafetaria/index)
+  - [Richtlijnen cafetaria](https://www.kbbczolder.be/corona/cafetaria/index)
   - [Vaak gestelde vragen](#vaak-gestelde-vragen)
   - [Nuttige COVID 19 links](#nuttige-covid-19-links)
   - [Contactinformatie](#contactinformatie)
