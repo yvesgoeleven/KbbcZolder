@@ -19,18 +19,18 @@ Momenteel opereren we onder code **Geel**.
 Als club hechten we veel belang aan het naleven van de hierna beschreven maatregelen, in het belang van de gezondheid van iedereen. Afwijkingen en eigen interpretaties van de maatregelen kunnen niet toegestaan worden. We vragen dan ook iedereen om deze maatregelen strikt na te leven.
 
 - [Inhoud](#Inhoud)
-  - [Richtlijnen bij trainingen](https://www.kbbczolder.be/corona/trainingen)
-  - [Richtlijnen voor thuiswedstrijden KBBC Zolder](https://www.kbbczolder.be/corona/wedstrijden)
-  - [Cafetaria](https://www.kbbczolder.be/corona/cafetaria)
+  - [Richtlijnen bij trainingen](https://www.kbbczolder.be/corona/trainingen/index)
+  - [Richtlijnen voor thuiswedstrijden KBBC Zolder](https://www.kbbczolder.be/corona/wedstrijden/index)
+  - [Cafetaria](https://www.kbbczolder.be/corona/cafetaria/index)
   - [Vaak gestelde vragen](#vaak-gestelde-vragen)
   - [Nuttige COVID 19 links](#nuttige-covid-19-links)
   - [Contactinformatie](#contactinformatie)
   
-## [Richtlijnen bij trainingen](https://www.kbbczolder.be/corona/trainingen).  
+## [Richtlijnen bij trainingen](https://www.kbbczolder.be/corona/trainingen/index).  
   
-## [Richtlijnen voor thuiswedstrijden KBBC Zolder](https://www.kbbczolder.be/corona/wedstrijden).  
+## [Richtlijnen voor thuiswedstrijden KBBC Zolder](https://www.kbbczolder.be/corona/wedstrijden/index).  
 
-## [Cafetaria](https://www.kbbczolder.be/corona/cafetaria).
+## [Cafetaria](https://www.kbbczolder.be/corona/cafetaria/index).
 
 ## Vaak gestelde vragen.
 
