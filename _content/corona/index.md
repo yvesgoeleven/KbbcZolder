@@ -22,7 +22,7 @@ Als club hechten we veel belang aan het naleven van de hierna beschreven maatreg
   - [Richtlijnen bij trainingen](/corona/training/)
   - [Richtlijnen voor thuiswedstrijden KBBC Zolder](/corona/wedstrijden/)
   - [Richtlijnen cafetaria](/corona/cafetaria/)
-  - [Vaak gestelde vragen](#vaak-gestelde-vragen)
+  - [Vaak gestelde vragen](/corona/vragen)
   - [Nuttige COVID 19 links](#nuttige-covid-19-links)
   - [Contactinformatie](#contactinformatie)
   
