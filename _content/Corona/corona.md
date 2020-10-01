@@ -21,8 +21,8 @@ Als club hechten we veel belang aan het naleven van de hierna beschreven maatreg
 - [Inhoud](#Inhoud)
   - [Richtlijnen bij trainingen](https://www.kbbczolder.be/corona/trainingen)
   - [Richtlijnen voor thuiswedstrijden KBBC Zolder](https://www.kbbczolder.be/corona/wedstrijden)
-  - [Vaak gestelde vragen](#vaak-gestelde-vragen)
   - [Cafetaria](#cafetaria)
+  - [Vaak gestelde vragen](#vaak-gestelde-vragen)
   - [Rol van corona coördinator](#rolvancoronacoordinator)
   - [Rol van secretaris](#rolvansecretaris)
   - [Nuttige COVID 19 links](#nuttige-covid-19-links)
@@ -62,7 +62,7 @@ Als club hechten we veel belang aan het naleven van de hierna beschreven maatreg
  - Ziet erop toe dat na de wedstrijd alles correct gereinigd en ontsmet wordt conform de afspraken.  
  - Steekt na elke wedstrijd de contact tracking documenten in de brievenbus.  
 
-## Club secretaris
+## Rol van secretaris
 - Stuurt tijdig de corona richtlijnen naar de bezoekende clubs.  
 - Houdt de contact tracking documenten bij gedurende 14 dagen.  
 - Bezorgt de contact tracking documenten enkel aan derden op vraag van de corona coördinator.  
