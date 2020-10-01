@@ -21,7 +21,7 @@ Als club hechten we veel belang aan het naleven van de hierna beschreven maatreg
 - [Inhoud](#Inhoud)
   - [Richtlijnen bij trainingen](https://www.kbbczolder.be/corona/trainingen)
   - [Richtlijnen voor thuiswedstrijden KBBC Zolder](https://www.kbbczolder.be/corona/wedstrijden)
-  - [Cafetaria](#cafetaria)
+  - [Cafetaria](https://www.kbbczolder.be/corona/cafetaria)
   - [Vaak gestelde vragen](#vaak-gestelde-vragen)
   - [Rol van corona coördinator](#rolvancoronacoordinator)
   - [Rol van secretaris](#rolvansecretaris)
@@ -33,15 +33,7 @@ Als club hechten we veel belang aan het naleven van de hierna beschreven maatreg
   
 ## [Richtlijnen voor thuiswedstrijden KBBC Zolder](https://www.kbbczolder.be/corona/wedstrijden).  
 
-## Cafetaria
-- Hier gelden de horeca regels.  
-- Kort samengevat:  
-  - 1 bubbel per tafel.  
-  - Blijf aan tafel zitten.  
-  - Rechtstaan, aan de toog zitten of staan is niet toegestaan.  
-  - Je moet een mondmasker dragen als je je verplaatst. Het is verplicht.  
-  - Zit je aan een tafel? Dan is een mondmasker niet nodig.  
-  - Je geeft je contactinfo door bij aankomst.  
+## [Cafetaria](https://www.kbbczolder.be/corona/cafetaria).
 
 ## Rol van corona coördinator
 - Ontvangt de spelers/coaches/officials/toeschouwers en legt kort de richtlijnen uit.  
