@@ -9,7 +9,7 @@ excerpt: "Covid-19 - Veel gestelde vragen - KBBC Zolder."
 - Er zijn vier kleurcodes: gaande van groen (nul risico) over geel (laag risico) en oranje (matig risico) tot rood (hoog risico).  
 - Aan elke kleurcode zijn duidelijke voorschriften verbonden.  
 
-**- Geel**  
+**Geel**  
   - Alle sportactiviteiten zijn mogelijk voor U12 en 12+, zowel indoor als outdoor.  
   - Contact in de eigen sportgroep en tussen verschillende sportgroepen is toegestaan.  
   - Het aantal sporters in een sportinfrastructuur wordt bepaald door de densiteitsregels.  
@@ -38,7 +38,7 @@ excerpt: "Covid-19 - Veel gestelde vragen - KBBC Zolder."
 In functie van het risico op besmetting worden contacten opgedeeld in twee groepen.  
 Omdat het belangrijk is om in deze fase van de epidemie, verspreiding van het virus zoveel mogelijk in te dijken, moeten personen die mogelijk besmettelijk zijn in quarantaine worden geplaatst, ook zonder klachten of in de dagen vooraleer ze klachten vertonen.  
 
-**Hoog risico contacten of nauwe contacten**  
+#### Hoog risico contacten of nauwe contacten**  
 Voor onze sport zijn dat:  
 - Spelers waarmee je meetraint en aan wedstrijden deelneemt.  
 - Coaches  
@@ -55,7 +55,7 @@ Voor de volgende personen wordt het risico op besmetting als “hoog” beschouw
 - In een vliegtuig ook bemanningsleden die dienst doen in de sectie van het  vliegtuig waar het geval zat. Indien de ernst van de symptomen of de verplaatsing van de patiënt in het vliegtuig wijst op een mogelijk grotere blootstelling, kunnen passagiers die in hetzelfde compartiment zaten of alle passagiers in het vliegtuig worden beschouwd als hoog risico contacten (beoordeling door de dienst Infectieziekten bestrijding).  
 -	Een reiziger die terugkeert uit een rode of oranje zone2.  
 
-**Laag risico contacten**  
+#### Laag risico contacten**  
 Voor onze sport zijn dat:  
 - Scheidsrechters  
 - Taffelofficials  
