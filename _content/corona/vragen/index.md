@@ -8,18 +8,18 @@ excerpt: "Covid-19 - Veel gestelde vragen - KBBC Zolder."
 # Veel gestelde vragen over Covid-19 KBBC Zolder VZW
 **(Versie 3.0 d.d. 30 september 2020)**
 
- - [Wat zijn de verschillende kleurcodes en wat betekenen ze?](#watzijndeverschillendekleurcodesenwatbetekenenze)
- - [Welke soorten risico’s (contacten) zijn er?](#welkesoortenrisicoscontactenzijner)
-   - [Hoog risico contacten of nauwe contacten](#hoogrisicocontactenofnauwecontacten)
-   - [Laag risico contacten](#laagrisicocontacten)
- - [Wat bij een nauw (hoog risico) contact?](#watbijeennauwhoogrisicocontact)
- - [Wat bij een laag risico contact?](#watbijeenlaagrisicocontact)
- - [Wat als ik als speler/coach/medewerker/tafelofficial, positief test op Corona?](#watalsikalsspelercoachmedewerkertafelofficialpositieftestopcorona)
- - [## Wat als iemand waarmee ik samenwoon of een relatie heb, positief test op Corona?](#watalsiemandwaarmeeiksamenwoonofeenrelatiehebpositieftestopcorona)
- - [Wat als ik door contacttracing gevraagd wordt om een test te ondergaan?](#watalsikdoorcontacttracinggevraagdwordtomeentestteondergaan)
- - [Wat als een lid van mijn club (medespeler/coach/tafelofficial/scheidsrechter) positief test op Corona?](#watalseenlidvanmijnclubmedespelercoachtafelofficialscheidsrechterpositieftestopcorona)
- - [Mag ik sporten als ik ziek ben?](#magiksportenalsikziekben)
- - [Ik heb bijkomende vragen over Corona.](#ikhebbijkomendevragenovercorona)
+ - [Wat zijn de verschillende kleurcodes en wat betekenen ze?](#wat-zijn-de-verschillende-kleurcodes-en-wat-betekenen-ze)
+ - [Welke soorten risico’s (contacten) zijn er?](#welke-soorten-risicos-contacten-zijn-er)
+   - [Hoog risico contacten of nauwe contacten](#hoog-risico-contacten-of-nauwe-contacten)
+   - [Laag risico contacten](#laag-risico-contacten)
+ - [Wat bij een nauw (hoog risico) contact?](#wat-bij-een-nauw-hoog-risico-contact)
+ - [Wat bij een laag risico contact?](#wat-bij-een-laag-risico-contact)
+ - [Wat als ik als speler/coach/medewerker/tafelofficial, positief test op Corona?](#wat-als-ik-als-spelercoachmedewerkertafelofficial-positief-test-op-corona)
+ - [Wat als iemand waarmee ik samenwoon of een relatie heb, positief test op Corona?](#wat-als-iemand-waarmee-ik-samenwoon-of-een-relatie-heb-positief-test-op-corona)
+ - [Wat als ik door contacttracing gevraagd wordt om een test te ondergaan?](#wat-als-ik-door-contacttracing-gevraagd-wordt-om-een-test-te-ondergaan)
+ - [Wat als een lid van mijn club (medespeler/coach/tafelofficial/scheidsrechter) positief test op Corona?](#wat-als-een-lid-van-mijn-club-medespelercoachtafelofficialscheidsrechter-positief-test-op-corona)
+ - [Mag ik sporten als ik ziek ben?](#mag-ik-sporten-als-ik-ziek-ben)
+ - [Ik heb bijkomende vragen over Corona.](#ik-heb-bijkomende-vragen-over-corona)
 
 ## Wat zijn de verschillende kleurcodes en wat betekenen ze?
 - Er zijn vier kleurcodes: gaande van groen (nul risico) over geel (laag risico) en oranje (matig risico) tot rood (hoog risico).  
@@ -96,7 +96,7 @@ Voor de volgende personen wordt het risico op besmetting als “laag” beschouw
   - Bij een tweede negatief PCR resultaat kan de quarantaine worden beëindigd (dit is dus ten vroegste 10 dagen na het laatste risicocontact). De arts informeert de patiënt dat de quarantaine stopgezet mag worden.  
   - Enkel wanneer je huisdokter je toelating geeft, kan je weer sporten.
   - Alvorens opnieuw te starten, neem je contact op met de corona coördinator van de club.
-  -	Indien het testresultaat positief is, dan geldt de procedure zoals beschreven in [Wat als ik positief test op Corona?](#watalsikalsspelercoachmedewerkerpositieftestopCorona)?.  
+  -	Indien het testresultaat positief is, dan geldt de procedure zoals beschreven in [Wat als ik positief test op Corona?](##wat-als-ik-als-spelercoachmedewerkertafelofficial-positief-test-op-corona)?.  
 
 ## Wat bij een laag risico contact?
 -	Neem contact op met je huisarts en volg zijn/haar raadgevingen.
@@ -120,15 +120,15 @@ Voor de volgende personen wordt het risico op besmetting als “laag” beschouw
 - Alvorens opnieuw te starten neem je eerst contact op met de Corona Coördinator van de club.  
 
 ## Wat als iemand waarmee ik samenwoon of een relatie heb, positief test op Corona?
-- In dit geval spreken we van een nauw (hoog risico) contact en gelden de richtlijne terzake. zie [Wat bij een nauw (hoog risico) contact?](#watbijeennauwhoogrisicocontact)  
+- In dit geval spreken we van een nauw (hoog risico) contact en gelden de richtlijne terzake. zie [Wat bij een nauw (hoog risico) contact?](#wat-bij-een-nauw-hoog-risico-contact)  
 
 ## Wat als ik door contacttracing gevraagd wordt om een test te ondergaan?
-- In dit geval spreken we van een nauw (hoog risico) contact en gelden de richtlijne terzake. zie [Wat bij een nauw (hoog risico) contact?](#watbijeennauwhoogrisicocontact)  
+- In dit geval spreken we van een nauw (hoog risico) contact en gelden de richtlijne terzake. zie [Wat bij een nauw (hoog risico) contact?](#wat-bij-een-nauw-hoog-risico-contact)  
 
 ## Wat als een lid van mijn club (medespeler/coach/tafelofficial/scheidsrechter) positief test op Corona?
-  - Afhankelijk van het contact type (zie [Welke soorten risico’s (contacten) zijn er?](#welkesoortenrisicoscontactenzijner) gelden de respectievelijke regels:  
-      [Wat bij een nauw (hoog risico) contact?](#watbijeennauwhoogrisicocontact)  
-      [Wat bij een laag risico contact?](#watbijeenlaagrisicocontact)  
+  - Afhankelijk van het contact type (zie [Welke soorten risico’s (contacten) zijn er?](#welke-soorten-risicos-contacten-zijn-er) gelden de respectievelijke regels:  
+      [Wat bij een nauw (hoog risico) contact?](#wat-bij-een-nauw-hoog-risico-contact)  
+      [Wat bij een laag risico contact?](#wat-bij-een-laag-risico-contact)  
 
 ## Mag ik sporten als ik ziek ben?
 - Uiteraard ga je niet sporten als je je ziek voelt, of recent ziek bent geweest.  
