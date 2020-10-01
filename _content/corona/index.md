@@ -32,7 +32,7 @@ Als club hechten we veel belang aan het naleven van de hierna beschreven maatreg
 
 ## [Cafetaria](/corona/cafetaria/).
 
-## Vaak gestelde vragen.
+## [Vaak gestelde vragen](/corona/vragen/)
 
 ## Nuttige COVID-19 links.  
 - [Basketbal Vlaanderen](https://www.basketbal.vlaanderen/coronavirus-covid-19).  
