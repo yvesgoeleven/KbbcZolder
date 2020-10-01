@@ -12,7 +12,7 @@ excerpt: "Covid-19 - Veel gestelde vragen - KBBC Zolder."
  - [Wat bij een Nauw (hoog risico) contact?](#watbijeennauwhoogrisicocontact)
  - [Wat bij een laag risico contact?](#watbijeenlaagrisicocontact)
  - [Wat als ik als speler/coach/medewerker/tafelofficial, positief test op Corona?](#watalsikalsspelercoachmedewerkertafelofficialpositieftestopcorona)
- - [## Wat als iemand waarmee ik samenwoon of een relatie heb, positief test op Corona?](### watalsiemandwaarmeeiksamenwoonofeenrelatiehebpositieftestopcorona)
+ - [## Wat als iemand waarmee ik samenwoon of een relatie heb, positief test op Corona?](#watalsiemandwaarmeeiksamenwoonofeenrelatiehebpositieftestopcorona)
  - [Wat als ik door contacttracing gevraagd wordt om een test te ondergaan?](#watalsikdoorcontacttracinggevraagdwordtomeentestteondergaan)
  - [Wat als een lid van mijn club (medespeler/coach/tafelofficial/scheidsrechter) positief test op Corona?](#watalseenlidvanmijnclubmedespelercoachtafelofficialscheidsrechterpositieftestopcorona)
  - [Mag ik sporten als ik ziek ben?](#magiksportenalsikziekben)
