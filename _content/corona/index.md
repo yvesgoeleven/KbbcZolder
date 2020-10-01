@@ -18,13 +18,12 @@ Momenteel opereren we onder code **Geel**.
 
 Als club hechten we veel belang aan het naleven van de hierna beschreven maatregelen, in het belang van de gezondheid van iedereen. Afwijkingen en eigen interpretaties van de maatregelen kunnen niet toegestaan worden. We vragen dan ook iedereen om deze maatregelen strikt na te leven.
 
-- [Inhoud](#Inhoud)
-  - [Richtlijnen bij trainingen](/corona/training/)
-  - [Richtlijnen voor thuiswedstrijden KBBC Zolder](/corona/wedstrijden/)
-  - [Richtlijnen cafetaria](/corona/cafetaria/)
-  - [Vaak gestelde vragen](/corona/vragen/)
-  - [Nuttige COVID 19 links](#nuttige-covid-19-links)
-  - [Contactinformatie](#contactinformatie)
+- [Richtlijnen bij trainingen](/corona/training/)
+- [Richtlijnen voor thuiswedstrijden KBBC Zolder](/corona/wedstrijden/)
+- [Richtlijnen cafetaria](/corona/cafetaria/)
+- [Vaak gestelde vragen](/corona/vragen/)
+- [Nuttige COVID 19 links](#nuttige-covid-19-links)
+- [Contactinformatie](#contactinformatie)
   
 ## Nuttige COVID-19 links.  
 - [Basketbal Vlaanderen](https://www.basketbal.vlaanderen/coronavirus-covid-19).  
