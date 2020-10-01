@@ -19,7 +19,7 @@ excerpt: "Covid-19 - Veel gestelde vragen - KBBC Zolder."
  - [Wat als ik door contacttracing gevraagd wordt om een test te ondergaan?](#watalsikdoorcontacttracinggevraagdwordtomeentestteondergaan)
  - [Wat als een lid van mijn club (medespeler/coach/tafelofficial/scheidsrechter) positief test op Corona?](#watalseenlidvanmijnclubmedespelercoachtafelofficialscheidsrechterpositieftestopcorona)
  - [Mag ik sporten als ik ziek ben?](#magiksportenalsikziekben)
- - [Ik heb bijkomende vragen over Corona?](#ikhebbijkomendevragenovercorona)
+ - [Ik heb bijkomende vragen over Corona.](#ikhebbijkomendevragenovercorona)
 
 ## Wat zijn de verschillende kleurcodes en wat betekenen ze?
 - Er zijn vier kleurcodes: gaande van groen (nul risico) over geel (laag risico) en oranje (matig risico) tot rood (hoog risico).  
@@ -134,6 +134,6 @@ Voor de volgende personen wordt het risico op besmetting als “laag” beschouw
 - Uiteraard ga je niet sporten als je je ziek voelt, of recent ziek bent geweest.  
 - Sporters die koorts hebben, moeten na de koorts evenveel dagen, als ze koorts hadden, wachten om opnieuw te sporten. Concreet: als je drie dagen koorts had, wacht je nog eens drie dagen extra tot je weer sport. Pas op de zevende dag na de start van de koorts kun je opnieuw beginnen te sporten.  
 
-## Ik heb bijkomende vragen over Corona?
+## Ik heb bijkomende vragen over Corona.
 - Voor medische vragen kan je terecht bij onze clubdokter Lisa Weyens op 011/42.06.09 op werkdagen en tijdens de openingsuren van het kabinet (08.00 – 19.00u). Buiten deze tijdens neem je contact op met de corona coördinator die je in contact zal brengen met de clubdokter.  
 - Voor alle andere vragen kan je terecht bij de corona coördinator van de club op Corona@KBBCZOLDER.BE of 0476/927483.  
