@@ -5,6 +5,9 @@ date: 2020-09-30 18:00:00
 excerpt: "Covid-19 - Veel gestelde vragen - KBBC Zolder."
 ---
 
+# Veel gestelde vragen over Covid-19 KBBC Zolder VZW
+**(Versie 3.0 d.d. 30 september 2020)**
+
  - [Wat zijn de verschillende kleurcodes en wat betekenen ze?](#watzijndeverschillendekleurcodesenwatbetekenenze)
  - [Welke soorten risico’s (contacten) zijn er?](#welkesoortenrisicoscontactenzijner)
    - [Hoog risico contacten of nauwe contacten](#hoogrisicocontactenofnauwecontacten)
@@ -51,7 +54,7 @@ excerpt: "Covid-19 - Veel gestelde vragen - KBBC Zolder."
 In functie van het risico op besmetting worden contacten opgedeeld in twee groepen.  
 Omdat het belangrijk is om in deze fase van de epidemie, verspreiding van het virus zoveel mogelijk in te dijken, moeten personen die mogelijk besmettelijk zijn in quarantaine worden geplaatst, ook zonder klachten of in de dagen vooraleer ze klachten vertonen.  
 
-#### Hoog risico contacten of nauwe contacten  
+#### Hoog risico contacten of nauwe contacten
 Voor onze sport zijn dat:  
 - Spelers waarmee je meetraint en aan wedstrijden deelneemt.  
 - Coaches  
@@ -73,7 +76,6 @@ Voor onze sport zijn dat:
 - Scheidsrechters  
 - Taffelofficials  
 - Zaalwachters  
-
 Voor de volgende personen wordt het risico op besmetting als “laag” beschouwd:  
 -	Een persoon die minder dan 15 minuten contact heeft gehad met een COVID-19 patiënt binnen een afstand van 1,5 m (“face to face”).  
 -	Een persoon die zich in dezelfde kamer/gesloten omgeving bevond met een COVID-19 patiënt, maar daarbij minder dan 15 minuten binnen een afstand van <1,5 m was.  Dit omvat, onder andere, de hele afdeling in een kinderkribbe/kleuterschool (<6jaar), alle klasgenoten in het lager onderwijs, mensen die in dezelfde ruimte werken, of samen zaten in een wachtkamer.  
