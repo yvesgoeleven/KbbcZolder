@@ -1,12 +1,7 @@
 ---
 layout: content
-title: Corona richtlijnen KBBC Zolder VZW : cafetaria
+title: Corona richtlijnen KBBC Zolder VZW : Cafetaria
 ---
-
-Als club willen we in de eerste plaats ervoor zorgen dat iedereen op een veilige en gezonde manier kan sporten.
-Op deze pagina willen we iedereen een overzicht geven van de huidige maatregelen tegen het COVID-19 virus.
-Consulteer deze pagina regelmatig, want deze wordt regelmatig aangepast.
-
 # Protocol Covid-19 KBBC Zolder VZW
 **Maatregelen om veilig te sporten (Versie 3.0 d.d. 30 september 2020)**
 # Richtlijnen cafetaria  
@@ -24,6 +19,8 @@ Consulteer deze pagina regelmatig, want deze wordt regelmatig aangepast.
   - Je moet een mondmasker dragen als je je verplaatst. Het is verplicht.  
   - Zit je aan een tafel? Dan is een mondmasker niet nodig.  
   - Je geeft je contactinfo door bij aankomst.  
+  
+![Horeca maatregelen](/news/img/HorecaCorona.jpg)
 
 ## Contactinformatie
 Corona coördinator KBBC Zolder : Peter Iven (0476/927483 / corona@kbbczolder.be)  
