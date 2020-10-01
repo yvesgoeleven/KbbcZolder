@@ -394,7 +394,7 @@
 	border-collapse: collapse;
 	width: 100%;
 }
-.post img{
+.post img, .content img{
 	max-width: 100%;
 	display: block;
     margin-left: auto;

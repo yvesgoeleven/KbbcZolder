@@ -1,7 +1,8 @@
 ---
 layout: content
-title: Corona richtlijnen KBBC Zolder VZW : Cafetaria
+title: "Corona richtlijnen KBBC Zolder VZW : Cafetaria"
 ---
+
 # Protocol Covid-19 KBBC Zolder VZW
 **Maatregelen om veilig te sporten (Versie 3.0 d.d. 30 september 2020)**
 # Richtlijnen cafetaria  
