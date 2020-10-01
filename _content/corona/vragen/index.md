@@ -9,7 +9,7 @@ excerpt: "Covid-19 - Veel gestelde vragen - KBBC Zolder."
  - [Welke soorten risico’s (contacten) zijn er?](#welkesoortenrisicoscontactenzijner)
    - [Hoog risico contacten of nauwe contacten](#hoogrisicocontactenofnauwecontacten)
    - [Laag risico contacten](#laagrisicocontacten)
- - [Wat bij een Nauw (hoog risico) contact?](#watbijeennauwhoogrisicocontact)
+ - [Wat bij een nauw (hoog risico) contact?](#watbijeennauwhoogrisicocontact)
  - [Wat bij een laag risico contact?](#watbijeenlaagrisicocontact)
  - [Wat als ik als speler/coach/medewerker/tafelofficial, positief test op Corona?](#watalsikalsspelercoachmedewerkertafelofficialpositieftestopcorona)
  - [## Wat als iemand waarmee ik samenwoon of een relatie heb, positief test op Corona?](#watalsiemandwaarmeeiksamenwoonofeenrelatiehebpositieftestopcorona)
@@ -79,7 +79,7 @@ Voor de volgende personen wordt het risico op besmetting als “laag” beschouw
 -	Een persoon die zich in dezelfde kamer/gesloten omgeving bevond met een COVID-19 patiënt, maar daarbij minder dan 15 minuten binnen een afstand van <1,5 m was.  Dit omvat, onder andere, de hele afdeling in een kinderkribbe/kleuterschool (<6jaar), alle klasgenoten in het lager onderwijs, mensen die in dezelfde ruimte werken, of samen zaten in een wachtkamer.  
 -	Een zorgverlener die in dezelfde ruimte als een COVID-19 patiënt is geweest zonder het gebruik van adequate beschermende kleding, maar nooit binnen een afstand van 1,5 m.  
 
-## Wat bij een Nauw (hoog risico) contact?
+## Wat bij een nauw (hoog risico) contact?
 - Neem in ieder geval contact op met je huisarts en volg zijn/haar raadgevingen.  
 - Informeer onmiddellijk de corona coördinator van de club, zodat hij kan inschatten welke acties er ondernomen dienen te worden. Wees er je bewust van dat ook al heeft het contact zich buiten de club plaatsgevonden, er een mogelijk impact naar de club is. Daarom beter te veel melden dan te weinig.   
 - Quarantaine gedurende 14 dagen na het laatste risicocontact.  
@@ -118,14 +118,14 @@ Voor de volgende personen wordt het risico op besmetting als “laag” beschouw
 - Alvorens opnieuw te starten neem je eerst contact op met de Corona Coördinator van de club.  
 
 ## Wat als iemand waarmee ik samenwoon of een relatie heb, positief test op Corona?
-- In dit geval spreken we van een nauw (hoog risico) contact en gelden de richtlijne terzake. zie [Wat bij een Nauw (hoog risico) contact?](#watbijeennauwhoogrisicocontact)  
+- In dit geval spreken we van een nauw (hoog risico) contact en gelden de richtlijne terzake. zie [Wat bij een nauw (hoog risico) contact?](#watbijeennauwhoogrisicocontact)  
 
 ## Wat als ik door contacttracing gevraagd wordt om een test te ondergaan?
-- In dit geval spreken we van een nauw (hoog risico) contact en gelden de richtlijne terzake. zie [Wat bij een Nauw (hoog risico) contact?](#watbijeennauwhoogrisicocontact)  
+- In dit geval spreken we van een nauw (hoog risico) contact en gelden de richtlijne terzake. zie [Wat bij een nauw (hoog risico) contact?](#watbijeennauwhoogrisicocontact)  
 
 ## Wat als een lid van mijn club (medespeler/coach/tafelofficial/scheidsrechter) positief test op Corona?
   - Afhankelijk van het contact type (zie [Welke soorten risico’s (contacten) zijn er?](#welkesoortenrisicoscontactenzijner) gelden de respectievelijke regels:  
-      [Wat bij een Nauw (hoog risico) contact?](#watbijeennauwhoogrisicocontact)  
+      [Wat bij een nauw (hoog risico) contact?](#watbijeennauwhoogrisicocontact)  
       [Wat bij een laag risico contact?](#watbijeenlaagrisicocontact)  
 
 ## Mag ik sporten als ik ziek ben?
