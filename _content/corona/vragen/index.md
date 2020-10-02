@@ -19,6 +19,7 @@ excerpt: "Covid-19 - Veel gestelde vragen - KBBC Zolder."
  - [Wat als ik door contacttracing gevraagd wordt om een test te ondergaan?](#wat-als-ik-door-contacttracing-gevraagd-wordt-om-een-test-te-ondergaan)
  - [Wat als een lid van mijn club (medespeler/coach/tafelofficial/scheidsrechter) positief test op Corona?](#wat-als-een-lid-van-mijn-club-medespelercoachtafelofficialscheidsrechter-positief-test-op-corona)
  - [Mag ik sporten als ik ziek ben?](#mag-ik-sporten-als-ik-ziek-ben)
+ - [Mag ik douchen in de sporthal?](#mag-ik-douchen-in-de-sporthal)
  - [Ik heb bijkomende vragen over Corona.](#ik-heb-bijkomende-vragen-over-corona)
 
 ## Wat zijn de verschillende kleurcodes en wat betekenen ze?
@@ -85,7 +86,7 @@ Voor de volgende personen wordt het risico op besmetting als “laag” beschouw
 ## Wat bij een nauw (hoog risico) contact?
 - Neem in ieder geval contact op met je huisarts en volg zijn/haar raadgevingen.  
 - Informeer onmiddellijk de corona coördinator van de club, zodat hij kan inschatten welke acties er ondernomen dienen te worden. Wees er je bewust van dat ook al heeft het contact zich buiten de club plaatsgevonden, er een mogelijk impact naar de club is. Daarom beter te veel melden dan te weinig.   
-- Quarantaine gedurende 7 dagen na het laatste risicocontact. Meer gedetailleerde informatie vind je op de link van sciensano (https://covid-19.sciensano.be/sites/default/files/Covid19/COVID-19_procedure_contact_NL.pdf)
+- Quarantaine gedurende 7 dagen na het laatste risicocontact. Meer gedetailleerde informatie vind je op de link van sciensano: [Sciensano Informatie](https://covid-19.sciensano.be/sites/default/files/Covid19/COVID-19_procedure_contact_NL.pdf).  
   - Enkel wanneer je huisarts je toelating geeft, kan je weer sporten.
   - Alvorens opnieuw te starten, neem je contact op met de corona coördinator van de club.
   -	Indien het testresultaat positief is, dan geldt de procedure zoals beschreven in [Wat als ik positief test op Corona?](#wat-als-ik-als-spelercoachmedewerkertafelofficial-positief-test-op-corona).  
@@ -101,9 +102,9 @@ Voor de volgende personen wordt het risico op besmetting als “laag” beschouw
 ## Wat als ik als speler/coach/medewerker/tafelofficial, positief test op Corona?
 - Contacteer onmiddelijk de corona-coördinator van de club.  
   - Hij zal op basis van de contacttracing documenten, de contactlijst opstellen.  
-  - De corona-coördinator verwittigt ook onmiddellijk Basketbal Vlaanderen én stelt een contactlijst op i.f.v. contacttracing.  Basketbal Vlaanderen zal de eventuele tegenstanders (tot dag -2) en de betrokken scheidsrechters (tot dag -2) informeren.  
-  - De Corona-coördinator neemt contact op met alle hoog risico contacten, welke je tot 2 dagen voor de positieve test (of eerder indien er aanwijzigingen zijn dat je eerder positief was), had binnen de club en informeert de betrokkenen over de te nemen acties.  
-- Alle wedstrijden én trainingen, welke in de volgende 7 dagen door de betrokken teams betwist worden, worden zonder meer uitgesteld.
+  - De corona-coördinator verwittigt ook onmiddellijk Basketbal Vlaanderen én stelt een contactlijst op i.f.v. contacttracing.  Basketbal Vlaanderen zal de eventuele tegenstanders en de betrokken scheidsrechters informeren.  
+  - De Corona-coördinator neemt contact op met alle hoog risico contacten binnen de club, waarmee je mogelijk contact hebt gehad.    
+- Alle wedstrijden én trainingen (voor zover de betrokken speler gedurende de betrokken periode aanwezig was op trainingen en wedstrijden), welke in de volgende 7 dagen door de betrokken teams betwist worden, worden zonder meer uitgesteld.  
 - Blijf thuis en heb zo weinig mogelijk contact met anderen.
 - Je blijft minstens 7 dagen thuis en zeker tot zolang je nog symptomen hebt, en de symptomen van Covid-19 (koorts, ademhalingsmoeilijkheden, ziektegevoel…) volledig verdwenen zijn.  
 - Je komt dus niet naar de trainingen en wedstrijden, tot je huisarts het fiat geeft om opnieuw te sporten.  
@@ -123,6 +124,12 @@ Voor de volgende personen wordt het risico op besmetting als “laag” beschouw
 ## Mag ik sporten als ik ziek ben?
 - Uiteraard ga je niet sporten als je je ziek voelt, of recent ziek bent geweest.  
 - Sporters die koorts hebben, moeten na de koorts evenveel dagen, als ze koorts hadden, wachten om opnieuw te sporten. Concreet: als je drie dagen koorts had, wacht je nog eens drie dagen extra tot je weer sport. Pas op de zevende dag na de start van de koorts kun je opnieuw beginnen te sporten.  
+
+## Mag ik douchen in de sporthal?
+- We raden iedereen aan om zoveel mogelijk thuis te douchen.  
+- Bij trainingen kan je alleen douchen als je bij de seniors of G-Basket traint, alle anderen dienen zich thuis te douchen.  
+- Bij wedstrijden kan je, in zoverre het toegestaan is door de sporthalbeheerder, douchen.  
+ 
 
 ## Ik heb bijkomende vragen over Corona.
 - Voor medische vragen kan je terecht bij onze clubdokter Lisa Weyens op 011/42.06.09 op werkdagen en tijdens de openingsuren van het kabinet (08.00 – 19.00u). Buiten deze tijdens neem je contact op met de corona coördinator die je in contact zal brengen met de clubdokter.  
