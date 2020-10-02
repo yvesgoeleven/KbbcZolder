@@ -10,6 +10,8 @@ Consulteer deze pagina regelmatig, want deze wordt regelmatig aangepast.
 # Protocol Covid-19 KBBC Zolder VZW
 **Maatregelen om veilig te sporten (Versie 3.1 d.d. 2 oktober 2020)**
 
+![Covid-19](/news/img/20200930CovidFAQ2.jpg)
+
 ## Inleiding  
 
 **Disclaimer: Dit protocol werd opgesteld op basis van de kennis waarover we op het moment van publicatie beschikken en gebaseerd op de federale, Vlaamse, gemeentelijke en federatie maatregelen en richtlijnen ter zake.**  
@@ -17,8 +19,6 @@ Consulteer deze pagina regelmatig, want deze wordt regelmatig aangepast.
 Momenteel opereren we onder code **Geel**.  
 
 Als club hechten we veel belang aan het naleven van de hierna beschreven maatregelen, in het belang van de gezondheid van iedereen. Afwijkingen en eigen interpretaties van de maatregelen kunnen niet toegestaan worden. We vragen dan ook iedereen om deze maatregelen strikt na te leven.  
-
-![Covid-19](/news/img/20200930CovidFAQ2.jpg)
 
 - [Richtlijnen bij trainingen](/corona/training/)
 - [Richtlijnen voor thuiswedstrijden KBBC Zolder](/corona/wedstrijden/)
