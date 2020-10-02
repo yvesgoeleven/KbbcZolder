@@ -20,6 +20,7 @@ excerpt: "Covid-19 - Veel gestelde vragen - KBBC Zolder."
  - [Wat als een lid van mijn club (medespeler/coach/tafelofficial/scheidsrechter) positief test op Corona?](#wat-als-een-lid-van-mijn-club-medespelercoachtafelofficialscheidsrechter-positief-test-op-corona)
  - [Mag ik sporten als ik ziek ben?](#mag-ik-sporten-als-ik-ziek-ben)
  - [Mag ik douchen in de sporthal?](#mag-ik-douchen-in-de-sporthal)
+ - [Hoe verplaats ik me best naar een training of wedstrijd?](#hoe-verplaats-ik-me-best-naar-een-training-of-wedstrijd)
  - [Ik heb bijkomende vragen over Corona.](#ik-heb-bijkomende-vragen-over-corona)
 
 ## Wat zijn de verschillende kleurcodes en wat betekenen ze?
@@ -62,7 +63,7 @@ Voor onze sport zijn dat:
 - Reisgenoten (personen waarmee je naar trainingen/wedstrijden gaat)  
 - Spelers van andere ploegen waartegen je gespeeld hebt.  
 
-Voor de volgende personen wordt het risico op besmetting als “hoog” beschouwd. Deze worden verder in deze richtlijn “nauwe contacten” genoemd:  
+Voor de volgende personen wordt het risico op besmetting als “hoog” beschouwd. Deze worden verder in deze richtlijn “nauwe contacten” genoemd (bron Sciensano):  
 -	Een persoon met een cumulatief contact van minstens 15 minuten binnen een afstand van <1,5 m (“face to face”), bijvoorbeeld in een gesprek, zonder correct gebruik van een mondmasker (neus en mond volledig bedekkend) door één van beide personen.  
 - Een persoon die direct fysiek contact heeft gehad met een COVID-19 patiënt.  
 - Een persoon die in direct contact is geweest met excreties of lichaamsvloeistoffen van een COVID-19 patiënt, zoals tijdens het zoenen en mond-op-mond beademing, of contact met
@@ -76,9 +77,10 @@ zaten of alle passagiers in het vliegtuig worden beschouwd als hoog risico conta
 #### Laag risico contacten
 Voor onze sport zijn dat:  
 - Scheidsrechters  
-- Taffelofficials  
+- Tafelofficials  
 - Zaalwachters  
-Voor de volgende personen wordt het risico op besmetting als “laag” beschouwd:  
+
+Voor de volgende personen wordt het risico op besmetting als “laag” beschouwd (bron Sciensano):  
 -	Een persoon die minder dan 15 minuten contact heeft gehad met een COVID-19 patiënt binnen een afstand van 1,5 m (“face to face”).  
 -	Een persoon die zich in dezelfde kamer/gesloten omgeving bevond met een COVID-19 patiënt, maar daarbij minder dan 15 minuten binnen een afstand van <1,5 m was.  Dit omvat, onder andere, de hele afdeling in een kinderkribbe/kleuterschool (<6jaar), alle klasgenoten in het lager onderwijs, mensen die in dezelfde ruimte werken, of samen zaten in een wachtkamer.  
 -	Een zorgverlener die in dezelfde ruimte als een COVID-19 patiënt is geweest zonder het gebruik van adequate beschermende kleding, maar nooit binnen een afstand van 1,5 m.  
@@ -92,17 +94,18 @@ Voor de volgende personen wordt het risico op besmetting als “laag” beschouw
 -	Indien het testresultaat positief is, dan geldt de procedure zoals beschreven in [Wat als ik positief test op Corona?](#wat-als-ik-als-spelercoachmedewerkertafelofficial-positief-test-op-corona).  
 
 ## Wat bij een laag risico contact?
--	Neem contact op met je huisarts en volg zijn/haar raadgevingen.
+-	Neem contact op met je huisarts als je onzeker bent en volg zijn/haar raadgevingen.
 -	Je hoeft in dit geval geen contact op te nemen met de corona coördinator van de club.
 - Quarantaine is niet nodig voor laag risico contacten.
 -	Wel wordt aanbevolen om de sociale contacten tot een minimum te beperken, met respect van een afstand van 1,5m. 
 -	Er moet extra aandacht besteed worden aan de basis hygiënemaatregelen 
--	Bij ontwikkelen van COVID-19 symptomen neem je contact op met je huisarts en volg je zijn/haar raadgevingen. 
+-	Bij ontwikkelen van COVID-19 symptomen neem je onmiddellijk contact op met je huisarts en volg je zijn/haar raadgevingen. 
 
 ## Wat als ik als speler/coach/medewerker/tafelofficial, positief test op Corona?
 - Contacteer onmiddelijk de corona-coördinator van de club.  
   - Hij zal op basis van de contacttracing documenten, de contactlijst opstellen.  
-  - De corona-coördinator verwittigt ook onmiddellijk Basketbal Vlaanderen én stelt een contactlijst op i.f.v. contacttracing.  Basketbal Vlaanderen zal de eventuele tegenstanders en de betrokken scheidsrechters informeren.  
+  - De corona-coördinator verwittigt ook onmiddellijk Basketbal Vlaanderen.
+  - Basketbal Vlaanderen zal de eventuele tegenstanders en de betrokken scheidsrechters informeren.  
   - De Corona-coördinator neemt contact op met alle hoog risico contacten binnen de club, waarmee je mogelijk contact hebt gehad.    
 - Alle wedstrijden én trainingen (voor zover de betrokken speler gedurende de betrokken periode aanwezig was op trainingen en wedstrijden), welke in de volgende 7 dagen door de betrokken teams betwist worden, worden zonder meer uitgesteld.  
 - Blijf thuis en heb zo weinig mogelijk contact met anderen.
@@ -129,7 +132,10 @@ Voor de volgende personen wordt het risico op besmetting als “laag” beschouw
 - We raden iedereen aan om zoveel mogelijk thuis te douchen.  
 - Bij trainingen kan je alleen douchen als je bij de seniors of G-Basket traint, alle anderen dienen zich thuis te douchen.  
 - Bij wedstrijden kan je, in zoverre het toegestaan is door de sporthalbeheerder, douchen.  
- 
+
+## Hoe verplaats ik me best naar een training of wedstrijd?
+- We raden iedereen aan om zoveel mogelijk individueel in zijn/haar bubbel zich te verplaatsen.  
+- Ga je met iemand anders (buiten je bubbel) mee, dan raden we aan dat iedereen een mondmasker draagt tijdens de verplaatsing.
 
 ## Ik heb bijkomende vragen over Corona.
 - Voor medische vragen kan je terecht bij onze clubdokter Lisa Weyens op 011/42.06.09 op werkdagen en tijdens de openingsuren van het kabinet (08.00 – 19.00u). Buiten deze tijdens neem je contact op met de corona coördinator die je in contact zal brengen met de clubdokter.  
