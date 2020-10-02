@@ -56,20 +56,21 @@ Omdat het belangrijk is om in deze fase van de epidemie, verspreiding van het vi
 
 #### Hoog risico contacten of nauwe contacten
 Voor onze sport zijn dat:  
-- Spelers waarmee je meetraint en aan wedstrijden deelneemt.  
+- Spelers waarmee je traint en aan wedstrijden deelneemt.  
 - Coaches  
 - Reisgenoten (personen waarmee je naar trainingen/wedstrijden gaat)  
 - Spelers van andere ploegen waartegen je gespeeld hebt.  
 
 Voor de volgende personen wordt het risico op besmetting als “hoog” beschouwd. Deze worden verder in deze richtlijn “nauwe contacten” genoemd:  
--	Een persoon met een cumulatief contact van minstens 15 minuten binnen een afstand van <1,5 m (“face to face”), bijvoorbeeld in een gesprek/**basketbaltraining/ basketbalwedstrijd**.  
--	Een persoon die meer dan 15 minuten in dezelfde kamer/gesloten omgeving was met een COVID-19 patiënt, waarbij niet steeds een afstand van 1,5 m werd gerespecteerd en/of waarbij voorwerpen werden gedeeld. Dit omvat, onder andere, huisgenoten, kinderen van dezelfde groep in een residentiele collectiviteit en eventueel naaste buren op het werk.  
--	Een persoon die direct fysiek contact heeft gehad met een COVID-19 patiënt.  
--	Een persoon die in direct contact is geweest met excreties of lichaamsvloeistoffen van een COVID-19 patiënt, zoals tijdens het zoenen en mond-op-mond beademing, of contact met braaksel, stoelgang, slijmen, enz..  
--	Een zorgverlener in contact met een COVID-19 patiënt tijdens de zorg of het medisch onderzoek binnen een afstand van 1,5 m, zonder gebruik van persoonlijke beschermingsmiddelen (volgens protocol/activiteit).  
--	Een persoon die meer dan 15 minuten samen met een COVID-19 patiënt heeft gereisd, in eender welk transportmiddel, zittend binnen twee zitplaatsen (in eender welke richting) van de patiënt.  
-- In een vliegtuig ook bemanningsleden die dienst doen in de sectie van het  vliegtuig waar het geval zat. Indien de ernst van de symptomen of de verplaatsing van de patiënt in het vliegtuig wijst op een mogelijk grotere blootstelling, kunnen passagiers die in hetzelfde compartiment zaten of alle passagiers in het vliegtuig worden beschouwd als hoog risico contacten (beoordeling door de dienst Infectieziekten bestrijding).  
--	Een reiziger die terugkeert uit een rode of oranje zone2.  
+-	Een persoon met een cumulatief contact van minstens 15 minuten binnen een afstand van <1,5 m (“face to face”), bijvoorbeeld in een gesprek, zonder correct gebruik van een mondmasker (neus en mond volledig bedekkend) door één van beide personen.  
+- Een persoon die direct fysiek contact heeft gehad met een COVID-19 patiënt.  
+- Een persoon die in direct contact is geweest met excreties of lichaamsvloeistoffen van een COVID-19 patiënt, zoals tijdens het zoenen en mond-op-mond beademing, of contact met
+braaksel, stoelgang, slijmen, enz..  
+- Een persoon die door de "Coronalert" applicatie werd geïdentificeerd als een nauw contact.  
+- Een persoon die meer dan 15 minuten samen met een COVID-19 patiënt heeft gereisd, in eender welk transportmiddel, zittend binnen twee zitplaatsen (in eender welke richting) van de patiënt, tenzij alle betrokkenen correct een mondmasker droegen. In een vliegtuig ook bemanningsleden die dienst doen in de sectie van het vliegtuig waar het geval zat.
+Indien de ernst van de symptomen of de verplaatsing van de patiënt in het vliegtuig wijst op een mogelijk grotere blootstelling, kunnen passagiers die in hetzelfde compartiment
+zaten of alle passagiers in het vliegtuig worden beschouwd als hoog risico contacten (beoordeling door de dienst Infectieziektenbestrijding).	 
+- Een reiziger die terugkeert uit een rode zone waar hij of zij meer dan 48 uur heeft verbleven en waarbij het zelfbeoordelingsformulier een hoog risico aangeeft  
 
 #### Laag risico contacten
 Voor onze sport zijn dat:  
@@ -84,19 +85,10 @@ Voor de volgende personen wordt het risico op besmetting als “laag” beschouw
 ## Wat bij een nauw (hoog risico) contact?
 - Neem in ieder geval contact op met je huisarts en volg zijn/haar raadgevingen.  
 - Informeer onmiddellijk de corona coördinator van de club, zodat hij kan inschatten welke acties er ondernomen dienen te worden. Wees er je bewust van dat ook al heeft het contact zich buiten de club plaatsgevonden, er een mogelijk impact naar de club is. Daarom beter te veel melden dan te weinig.   
-- Quarantaine gedurende 14 dagen na het laatste risicocontact.  
-  - Buitengaan is enkel toegestaan voor kleine essentiële aankopen (voeding, apotheek,...), maar enkel indien niemand anders hiervoor kan zorgen en per uitzondering. Hierbij moet een mondmasker in textiel gedragen worden, de hygiënische maatregelen strikt nageleefd en direct contact met andere mensen vermeden worden.  
-  - Indien er tijdens de quarantaineperiode een huisgenoot symptomen ontwikkelt, waarbij COVID-19 bevestigd wordt, begint de periode van 14 dagen opnieuw voor de asymptomatische huisgenoten die aan deze nieuwe patiënt werden blootgesteld.  
-  -	Volg de richtlijn hygiëneadvies voor hoog-risico contact. [Link](https://covid-19.sciensano.be/sites/default/files/Covid19/COVID-19_procedure_hygiene_highriskcontact_NL.pdf)  
--	Gedurende 14 dagen moeten alle nauwe contacten zelf hun gezondheidstoestand opvolgen (zelfmonitoring).  
--	Onderga een Corona test.  
-  -	Bij negatief resultaat wordt de quarantaine verdergezet.  
-  -	Indien de contactpersoon een eerste test onderging binnen de 7 dagen na blootstelling, kan de arts in overleg met de patiënt beslissen een tweede PCR test uit te voeren.  
-  -	Deze tweede test moet minstens 5 dagen na de eerste PCR test en ten vroegste 9 dagen na het laatste risicocontact worden uitgevoerd.  
-  - Bij een tweede negatief PCR resultaat kan de quarantaine worden beëindigd (dit is dus ten vroegste 10 dagen na het laatste risicocontact). De arts informeert de patiënt dat de quarantaine stopgezet mag worden.  
-  - Enkel wanneer je huisdokter je toelating geeft, kan je weer sporten.
+- Quarantaine gedurende 7 dagen na het laatste risicocontact. Meer gedetailleerde informatie vind je op de link van sciensano (https://covid-19.sciensano.be/sites/default/files/Covid19/COVID-19_procedure_contact_NL.pdf)
+  - Enkel wanneer je huisarts je toelating geeft, kan je weer sporten.
   - Alvorens opnieuw te starten, neem je contact op met de corona coördinator van de club.
-  -	Indien het testresultaat positief is, dan geldt de procedure zoals beschreven in [Wat als ik positief test op Corona?](##wat-als-ik-als-spelercoachmedewerkertafelofficial-positief-test-op-corona)?.  
+  -	Indien het testresultaat positief is, dan geldt de procedure zoals beschreven in [Wat als ik positief test op Corona?](#wat-als-ik-als-spelercoachmedewerkertafelofficial-positief-test-op-corona).  
 
 ## Wat bij een laag risico contact?
 -	Neem contact op met je huisarts en volg zijn/haar raadgevingen.
@@ -104,19 +96,17 @@ Voor de volgende personen wordt het risico op besmetting als “laag” beschouw
 - Quarantaine is niet nodig voor laag risico contacten.
 -	Wel wordt aanbevolen om de sociale contacten tot een minimum te beperken, met respect van een afstand van 1,5m. 
 -	Er moet extra aandacht besteed worden aan de basis hygiënemaatregelen 
--	Voor alle verplaatsingen buitenshuis moet een mondmasker in textiel gedragen worden (voor personen > 12 jaar). 
--	Afname van een test om een infectie uit te sluiten bij asymptomatische personen is niet nodig. 
--	Bij ontwikkelen van symptomen die compatibel zijn met COVID-19 (zie gevalsdefinitie) wordt de persoon een mogelijk geval en moet er telefonisch contact genomen worden met de huisarts die kan zeggen waar een staalafname kan plaatsvinden. Vanaf dat moment is het tevens noodzakelijk om de corona coördinator van de club te verwittigen.
+-	Bij ontwikkelen van COVID-19 symptomen neem je contact op met je huisarts en volg je zijn/haar raadgevingen. 
 
 ## Wat als ik als speler/coach/medewerker/tafelofficial, positief test op Corona?
 - Contacteer onmiddelijk de corona-coördinator van de club.  
   - Hij zal op basis van de contacttracing documenten, de contactlijst opstellen.  
   - De corona-coördinator verwittigt ook onmiddellijk Basketbal Vlaanderen én stelt een contactlijst op i.f.v. contacttracing.  Basketbal Vlaanderen zal de eventuele tegenstanders (tot dag -2) en de betrokken scheidsrechters (tot dag -2) informeren.  
   - De Corona-coördinator neemt contact op met alle hoog risico contacten, welke je tot 2 dagen voor de positieve test (of eerder indien er aanwijzigingen zijn dat je eerder positief was), had binnen de club en informeert de betrokkenen over de te nemen acties.  
-- Alle wedstrijden én trainingen, welke in de volgende 14 dagen door de betrokken teams betwist worden, worden zonder meer uitgesteld.
+- Alle wedstrijden én trainingen, welke in de volgende 7 dagen door de betrokken teams betwist worden, worden zonder meer uitgesteld.
 - Blijf thuis en heb zo weinig mogelijk contact met anderen.
 - Je blijft minstens 7 dagen thuis en zeker tot zolang je nog symptomen hebt, en de symptomen van Covid-19 (koorts, ademhalingsmoeilijkheden, ziektegevoel…) volledig verdwenen zijn.  
-- Je komt dus niet naar de trainingen en wedstrijden, tot je dokter het fiat geeft om opnieuw te sporten.  
+- Je komt dus niet naar de trainingen en wedstrijden, tot je huisarts het fiat geeft om opnieuw te sporten.  
 - Alvorens opnieuw te starten neem je eerst contact op met de Corona Coördinator van de club.  
 
 ## Wat als iemand waarmee ik samenwoon of een relatie heb, positief test op Corona?
