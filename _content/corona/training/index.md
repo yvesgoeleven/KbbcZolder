@@ -4,7 +4,7 @@ title: "KBBC Zolder VZW: Corona informatie m.b.t. trainingen."
 ---
 
 # Protocol Covid-19 KBBC Zolder VZW
-**Maatregelen om veilig te sporten (Versie 3.0 d.d. 30 september 2020)**
+**Maatregelen om veilig te sporten (Versie 3.1 d.d. 2 oktober 2020)**
 ## Richtlijnen voor trainingen  
 
 **Disclaimer: Dit protocol werd opgesteld op basis van de kennis waarover we op het moment van publicatie beschikken en gebaseerd op de federale, Vlaamse, gemeentelijke en federatie maatregelen en richtlijnen ter zake.**  
