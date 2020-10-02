@@ -133,4 +133,4 @@ Voor de volgende personen wordt het risico op besmetting als “laag” beschouw
 
 ## Ik heb bijkomende vragen over Corona.
 - Voor medische vragen kan je terecht bij onze clubdokter Lisa Weyens op 011/42.06.09 op werkdagen en tijdens de openingsuren van het kabinet (08.00 – 19.00u). Buiten deze tijdens neem je contact op met de corona coördinator die je in contact zal brengen met de clubdokter.  
-- Voor alle andere vragen kan je terecht bij de corona coördinator van de club op Corona@KBBCZOLDER.BE of 0476/927483.  
+- Voor alle andere vragen kan je terecht bij de corona coördinator van de club op Corona@KBBCZOLDER.BE.  
