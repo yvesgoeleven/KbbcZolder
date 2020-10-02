@@ -6,7 +6,7 @@ excerpt: "Covid-19 - Veel gestelde vragen - KBBC Zolder."
 ---
 
 # Veel gestelde vragen over Covid-19 KBBC Zolder VZW
-**(Versie 3.0 d.d. 30 september 2020)**
+**(Versie 3.1 d.d. 2 oktober 2020)**
 
  - [Wat zijn de verschillende kleurcodes en wat betekenen ze?](#wat-zijn-de-verschillende-kleurcodes-en-wat-betekenen-ze)
  - [Welke soorten risico’s (contacten) zijn er?](#welke-soorten-risicos-contacten-zijn-er)
@@ -87,9 +87,9 @@ Voor de volgende personen wordt het risico op besmetting als “laag” beschouw
 - Neem in ieder geval contact op met je huisarts en volg zijn/haar raadgevingen.  
 - Informeer onmiddellijk de corona coördinator van de club, zodat hij kan inschatten welke acties er ondernomen dienen te worden. Wees er je bewust van dat ook al heeft het contact zich buiten de club plaatsgevonden, er een mogelijk impact naar de club is. Daarom beter te veel melden dan te weinig.   
 - Quarantaine gedurende 7 dagen na het laatste risicocontact. Meer gedetailleerde informatie vind je op de link van sciensano: [Sciensano Informatie](https://covid-19.sciensano.be/sites/default/files/Covid19/COVID-19_procedure_contact_NL.pdf).  
-  - Enkel wanneer je huisarts je toelating geeft, kan je weer sporten.
-  - Alvorens opnieuw te starten, neem je contact op met de corona coördinator van de club.
-  -	Indien het testresultaat positief is, dan geldt de procedure zoals beschreven in [Wat als ik positief test op Corona?](#wat-als-ik-als-spelercoachmedewerkertafelofficial-positief-test-op-corona).  
+- Enkel wanneer je huisarts je toelating geeft, kan je weer sporten.  
+- Alvorens opnieuw te starten, neem je contact op met de corona coördinator van de club.  
+-	Indien het testresultaat positief is, dan geldt de procedure zoals beschreven in [Wat als ik positief test op Corona?](#wat-als-ik-als-spelercoachmedewerkertafelofficial-positief-test-op-corona).  
 
 ## Wat bij een laag risico contact?
 -	Neem contact op met je huisarts en volg zijn/haar raadgevingen.
