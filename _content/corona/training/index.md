@@ -9,6 +9,8 @@ title: "KBBC Zolder VZW: Corona informatie m.b.t. trainingen."
 
 **Disclaimer: Dit protocol werd opgesteld op basis van de kennis waarover we op het moment van publicatie beschikken en gebaseerd op de federale, Vlaamse, gemeentelijke en federatie maatregelen en richtlijnen ter zake.**  
 
+![Covid-19](/news/img/20200930CovidFAQ2.jpg)
+
 - [Trainingen](#trainingen)
   - [Algemeen](#algemeen)
   - [Circulatieplan](#circulatieplan)
