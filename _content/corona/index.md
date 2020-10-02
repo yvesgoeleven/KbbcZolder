@@ -8,7 +8,7 @@ Op deze pagina willen we iedereen een overzicht geven van de huidige maatregelen
 Consulteer deze pagina regelmatig, want deze wordt regelmatig aangepast.
 
 # Protocol Covid-19 KBBC Zolder VZW
-**Maatregelen om veilig te sporten (Versie 3.0 d.d. 30 september 2020)**
+**Maatregelen om veilig te sporten (Versie 3.1 d.d. 2 oktober 2020)**
 
 ## Inleiding  
 
