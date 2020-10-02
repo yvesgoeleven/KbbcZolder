@@ -16,7 +16,9 @@ Consulteer deze pagina regelmatig, want deze wordt regelmatig aangepast.
 
 Momenteel opereren we onder code **Geel**.  
 
-Als club hechten we veel belang aan het naleven van de hierna beschreven maatregelen, in het belang van de gezondheid van iedereen. Afwijkingen en eigen interpretaties van de maatregelen kunnen niet toegestaan worden. We vragen dan ook iedereen om deze maatregelen strikt na te leven.
+Als club hechten we veel belang aan het naleven van de hierna beschreven maatregelen, in het belang van de gezondheid van iedereen. Afwijkingen en eigen interpretaties van de maatregelen kunnen niet toegestaan worden. We vragen dan ook iedereen om deze maatregelen strikt na te leven.  
+
+![Covid-19](/news/img/20200930CovidFAQ2.jpg)
 
 - [Richtlijnen bij trainingen](/corona/training/)
 - [Richtlijnen voor thuiswedstrijden KBBC Zolder](/corona/wedstrijden/)
