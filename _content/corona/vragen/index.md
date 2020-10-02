@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Covid-19 - Veel gestelde vragen - update 30/9/2020"
-date: 2020-09-30 18:00:00
+date: 2020-10-02 14:00:00
 excerpt: "Covid-19 - Veel gestelde vragen - KBBC Zolder."
 ---
 
