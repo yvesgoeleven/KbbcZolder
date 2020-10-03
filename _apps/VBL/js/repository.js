@@ -143,13 +143,15 @@ var repository = new function(){
     }
 
     this.loadMatches = function(){
+        var now = new Date();
         waitFor = [];
         var wait = new $.Deferred();
         vbl.matches(self.vblOrgId, function(matches){
              if(usedb){
-                var tx = self.db.transaction("matches", "readwrite").objectStore("matches");
+                var store = self.db.transaction("matches", "readwrite").objectStore("matches");
                 matches.forEach(function(m){
-                    tx.put(m);
+                    m.lastUpdateDate = now;
+                    store.put(m);
                 });
              }
              else{
@@ -162,9 +164,10 @@ var repository = new function(){
             var wait = new $.Deferred();
             vbl.teamMatches(teamId, function(matches){
                 if(usedb){
-                    var tx = self.db.transaction("matches", "readwrite").objectStore("matches");
+                    var store = self.db.transaction("matches", "readwrite").objectStore("matches");
                     matches.forEach(function(m){
-                        tx.put(m);
+                        m.lastUpdateDate = now;
+                        store.put(m);
                     });
                 }
                 else{
@@ -174,6 +177,15 @@ var repository = new function(){
             }); 
             waitFor.push(wait);
         });
+
+        var store = self.db.transaction("matches", "readwrite").objectStore("matches");
+        store.getAll().onsuccess = function(event) {
+            for(var m of event.target.result){
+                if(!m.lastUpdateDate || m.lastUpdateDate < now ){
+                    store.delete(m.guid);
+                }
+            }
+          };
 
         $.when.apply($, waitFor).then(function() {
           $.topic("vbl.matches.loaded").publish();
