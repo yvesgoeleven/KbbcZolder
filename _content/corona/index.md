@@ -16,7 +16,13 @@ Consulteer deze pagina regelmatig, want deze wordt regelmatig aangepast.
 
 **Disclaimer: Dit protocol werd opgesteld op basis van de kennis waarover we op het moment van publicatie beschikken en gebaseerd op de federale, Vlaamse, gemeentelijke en federatie maatregelen en richtlijnen ter zake.**  
 
-Momenteel opereren we onder code **Geel**.  
+### Vanaf 12/10/2020 geldt code **Oranje** 
+
+Concreet betekent dat dat indoorsporten (waaronder basketbal), verboden worden voor iedereen boven 12 jaar. Zo kunnen er bijvoorbeeld geen competitiematchen basket meer georganiseerd worden.
+
+Verdere informatie volgt later...
+
+----------------------------------------------------------------------------------------------------------------
 
 Als club hechten we veel belang aan het naleven van de hierna beschreven maatregelen, in het belang van de gezondheid van iedereen. Afwijkingen en eigen interpretaties van de maatregelen kunnen niet toegestaan worden. We vragen dan ook iedereen om deze maatregelen strikt na te leven.  
 
