@@ -8,7 +8,7 @@ Op deze pagina willen we iedereen een overzicht geven van de huidige maatregelen
 Consulteer deze pagina regelmatig, want deze wordt regelmatig aangepast.
 
 # Protocol Covid-19 KBBC Zolder VZW
-**Maatregelen om veilig te sporten (Versie 3.1 d.d. 2 oktober 2020)**
+**Maatregelen om veilig te sporten (Versie 3.2 d.d. 12 oktober 2020)**
 
 ![Covid-19](/news/img/20200930CovidFAQ2.jpg)
 
@@ -16,7 +16,7 @@ Consulteer deze pagina regelmatig, want deze wordt regelmatig aangepast.
 
 **Disclaimer: Dit protocol werd opgesteld op basis van de kennis waarover we op het moment van publicatie beschikken en gebaseerd op de federale, Vlaamse, gemeentelijke en federatie maatregelen en richtlijnen ter zake.**  
 
-### Vanaf 12/10/2020 geldt code **Oranje** 
+### Vanaf 14/10/2020 geldt code **Oranje** 
 
 Concreet betekent dat dat indoorsporten (waaronder basketbal), verboden worden voor iedereen boven 12 jaar. Zo kunnen er bijvoorbeeld geen competitiematchen basket meer georganiseerd worden.
 
