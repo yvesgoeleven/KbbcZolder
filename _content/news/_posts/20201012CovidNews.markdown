@@ -6,16 +6,18 @@ excerpt: "Covid-19 - Nieuws - KBBC Zolder."
 permalink: /news/20201012CovidNews/
 ---
 
-## Update 12/10/2020
+## Update 13/10/2020
 
-Vlaams minister van Sport Ben Weyts heeft vandaag beslist om vanaf woensdag 14/10/2020, voor de sportwereld naar "code oranje" over te gaan.
+### Vanaf 14/10/2020 geldt code **Oranje** 
 
-Concreet betekent dat dat indoorsporten (waaronder basketbal), waar de veiligheidsafstand van 1,5 meter niet bewaard kan worden, verboden worden voor iedereen boven 12 jaar. 
-Zo kunnen er bijvoorbeeld geen competitiematchen basket meer georganiseerd worden. 
+Vlaams minister van Sport Ben Weyts heeft op 12/10 beslist om vanaf woensdag 14/10/2020 voor de sportwereld naar "code oranje" over te gaan. Op 8/11 volgt een evaluatie van deze maatregel.  
+Concreet betekent dat dat indoorsporten (waaronder basketbal), verboden worden voor iedereen boven 12 jaar. Zo kunnen er bijvoorbeeld geen competitiematchen basket meer georganiseerd worden.  
 
-Als club vinden we dit de meest logische beslissing, gezien het hoge aantal besmettingen.
-Voor ons is de gezondheid van iedereen die bij onze club betrokken is, het aller belangrijkste.
+Als club vinden we dit de enig juiste beslissing, gezien het grote aantal besmettingen.  
 
-Verdere informatie volgt later.
+Elke coach zal met zijn/haar ploeg communiceren of de trainingen doorgaan.  
+Trainingen zijn in ieder geval contactloos (geen passing) en iedereen dient zijn/haar eigen basketbal mee te brengen.  
+
+U10/U12 wedstrijden en trainingen blijven voorlopig gewoon doorgaan.  
 
 #SamenSterk #StaySafe #blijfsporten #volgderegels
