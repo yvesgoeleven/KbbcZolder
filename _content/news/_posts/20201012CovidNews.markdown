@@ -11,7 +11,7 @@ permalink: /news/20201012CovidNews/
 ### Vanaf 14/10/2020 geldt code **Oranje** 
 
 Vlaams minister van Sport Ben Weyts heeft op 12/10 beslist om vanaf woensdag 14/10/2020 voor de sportwereld naar "code oranje" over te gaan. Op 8/11 volgt een evaluatie van deze maatregel.  
-Concreet betekent dat dat indoorsporten (waaronder basketbal), verboden worden voor iedereen boven 12 jaar. Zo kunnen er bijvoorbeeld geen competitiematchen basket meer georganiseerd worden.  
+Concreet betekent dit, dat indoorsporten (waaronder basketbal), verboden worden voor iedereen boven 12 jaar. Zo kunnen er bijvoorbeeld geen competitiematchen basket meer georganiseerd worden.  
 
 Als club vinden we dit de enig juiste beslissing, gezien het grote aantal besmettingen.  
 
