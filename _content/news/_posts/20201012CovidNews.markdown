@@ -16,7 +16,7 @@ Concreet betekent dit, dat indoorsporten (waaronder basketbal), verboden worden 
 Als club vinden we dit de enig juiste beslissing, gezien het grote aantal besmettingen.  
 
 Elke coach zal met zijn/haar ploeg communiceren of de trainingen doorgaan.  
-Trainingen zijn in ieder geval contactloos (geen passing) en iedereen dient zijn/haar eigen basketbal mee te brengen.  
+Trainingen zijn in ieder geval contactloos. Alle materiaal dient voor en na de training ontsmet te worden. 
 
 U10/U12 wedstrijden en trainingen blijven voorlopig gewoon doorgaan.  
 
