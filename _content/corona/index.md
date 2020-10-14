@@ -22,7 +22,7 @@ Vlaams minister van Sport Ben Weyts heeft op 12/10 beslist om vanaf woensdag 14/
 Concreet betekent dat dat indoorsporten (waaronder basketbal), verboden worden voor iedereen boven 12 jaar. Zo kunnen er bijvoorbeeld geen competitiematchen basket meer georganiseerd worden.  
 Als club vinden we dit de enig juiste beslissing, gezien het grote aantal besmettingen.  
 Elke coach zal met zijn/haar ploeg communiceren of de trainingen doorgaan.  
-Trainingen zijn in ieder geval contactloos (geen passing) en iedereen dient zijn/haar eigen basketbal mee te brengen.  
+Trainingen zijn in ieder geval contactloos. Alle materialen zullen voor en na de training ontsmet worden. 
 U10/U12 wedstrijden en trainingen blijven voorlopig gewoon doorgaan.  
 
 ----------------------------------------------------------------------------------------------------------------
