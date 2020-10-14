@@ -4,7 +4,7 @@ title: Corona informatie wedstrijden KBBC Zolder VZW
 ---
 
 # Protocol Covid-19 KBBC Zolder VZW
-**Maatregelen om veilig te sporten (Versie 3.1 d.d. 2 oktober 2020)**
+**Maatregelen om veilig te sporten (Versie 3.2 d.d. 13 oktober 2020)**
 # Richtlijnen voor thuiswedstrijden KBBC Zolder VZW  
 
 <u>Disclaimer</u>: Dit protocol werd opgesteld op basis van de kennis waarover we op het moment van publicatie beschikken en gebaseerd op de federale, Vlaamse, gemeentelijke en federatie maatregelen en richtlijnen ter zake.  
@@ -27,7 +27,6 @@ We begrijpen dat er verschillende opinies bestaan omtrent Covid-19 maatregelen, 
 
 ## Wedstrijden.
 ### Algemeen
-- Elk KBBC Zolder team beschikt over minstens 1 corona coördinator die de zaken in goede banen leidt tijdens de thuiswedstrijden. Hij/Zij draagt een geel hesje. De corona coördinator ziet toe op de naleving van dit protocol en is geautoriseerd om mensen aan te spreken en in uitzonderlijke gevallen ook de toegang tot de accommodatie te ontzeggen. 
 - Bij een van de volgende ziektesymptomen (zelfs heel lichte), komt men niet naar de wedstrijd:  
   Hoest, kortademig, geur-en/of smaakverlies, druk op de borst, spierpijn, neusloop, keelpijn, hoofdpijn, waterige diarree, eetlustverlies en acute verwardheid.  
 - Alvorens naar de wedstrijden te komen, raden we iedereen aan om thuis hun temperatuur te nemen. Is deze boven de 37,5° dan blijft de betrokkene thuis. 
