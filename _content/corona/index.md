@@ -8,7 +8,7 @@ Op deze pagina willen we iedereen een overzicht geven van de huidige maatregelen
 Consulteer deze pagina regelmatig, want deze wordt regelmatig aangepast.
 
 # Protocol Covid-19 KBBC Zolder VZW
-**Maatregelen om veilig te sporten (Versie 3.3 d.d. 13 oktober 2020)**
+**Maatregelen om veilig te sporten (Versie 3.4 d.d. 25 oktober 2020)**
 
 ![Covid-19](/news/img/20200930CovidFAQ2.jpg)
 
@@ -16,14 +16,17 @@ Consulteer deze pagina regelmatig, want deze wordt regelmatig aangepast.
 
 **Disclaimer: Dit protocol werd opgesteld op basis van de kennis waarover we op het moment van publicatie beschikken en gebaseerd op de federale, Vlaamse, gemeentelijke en federatie maatregelen en richtlijnen ter zake.**  
 
-### Vanaf 14/10/2020 geldt code **Oranje** 
+### Tot en met 11/11 geen trainingen of wedstrijden voor alle teams. 
 
-Vlaams minister van Sport Ben Weyts heeft op 12/10 beslist om vanaf woensdag 14/10/2020 voor de sportwereld naar "code oranje" over te gaan. Op 8/11 volgt een evaluatie van deze maatregel.  
-Concreet betekent dat dat indoorsporten (waaronder basketbal), verboden worden voor iedereen boven 12 jaar. Zo kunnen er bijvoorbeeld geen competitiematchen basket meer georganiseerd worden.  
-Als club vinden we dit de enig juiste beslissing, gezien het grote aantal besmettingen.  
-Elke coach zal met zijn/haar ploeg communiceren of de trainingen doorgaan.  
-Trainingen zijn in ieder geval contactloos. Alle materialen zullen voor en na de training ontsmet worden. 
-U10/U12 wedstrijden en trainingen blijven voorlopig gewoon doorgaan.  
+Ondanks het feit dat sporten op afstand en voor U10/U12 toegestaan is, heeft KBBC Zolder op 25/10 beslist **alle trainingen en wedstrijden stop te zetten tot en met 11 november**.  
+
+Gezien de huidige omstandigheden, vinden we als club het onze plicht om ons steentje bij te dragen in het belang van ieders gezondheid.  
+
+Bedankt iedereen voor het naleven van de richtlijnen. Het is dankzij jullie discipline, dat spelers en coaches tot de dag van vandaag Coronavrij hebben kunnen sporten.  
+
+We roepen iedereen ook op om de richtlijnen strikt na te leven en zoveel mogelijk in uw kot te blijven.  
+
+We volgen de situatie op de voet en brengen jullie meer nieuws op 11 november.  
 
 ----------------------------------------------------------------------------------------------------------------
 
