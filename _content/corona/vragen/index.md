@@ -6,7 +6,7 @@ excerpt: "Covid-19 - Veel gestelde vragen - KBBC Zolder."
 ---
 
 # Veel gestelde vragen over Covid-19 KBBC Zolder VZW
-**(Versie 3.1 d.d. 2 oktober 2020)**
+**(Versie 3.4 d.d. 25 oktober 2020)**
 
  - [Wat zijn de verschillende kleurcodes en wat betekenen ze?](#wat-zijn-de-verschillende-kleurcodes-en-wat-betekenen-ze)
  - [Welke soorten risico’s (contacten) zijn er?](#welke-soorten-risicos-contacten-zijn-er)
@@ -88,7 +88,7 @@ Voor de volgende personen wordt het risico op besmetting als “laag” beschouw
 ## Wat bij een nauw (hoog risico) contact?
 - Neem in ieder geval contact op met je huisarts en volg zijn/haar raadgevingen.  
 - Informeer onmiddellijk de corona coördinator van de club, zodat hij kan inschatten welke acties er ondernomen dienen te worden. Wees er je bewust van dat ook al heeft het contact zich buiten de club plaatsgevonden, er een mogelijk impact naar de club is. Daarom beter te veel melden dan te weinig.   
-- Quarantaine gedurende 7 dagen na het laatste risicocontact. Meer gedetailleerde informatie vind je op de link van sciensano: [Sciensano Informatie](https://covid-19.sciensano.be/sites/default/files/Covid19/COVID-19_procedure_contact_NL.pdf).  
+- Quarantaine na het laatste risicocontact. Meer gedetailleerde informatie vind je op de link van sciensano: [Sciensano Informatie](https://covid-19.sciensano.be/sites/default/files/Covid19/COVID-19_procedure_contact_NL.pdf).  
 - Enkel wanneer je huisarts je toelating geeft, kan je weer sporten.  
 - Alvorens opnieuw te starten, neem je contact op met de corona coördinator van de club.  
 -	Indien het testresultaat positief is, dan geldt de procedure zoals beschreven in [Wat als ik positief test op Corona?](#wat-als-ik-als-spelercoachmedewerkertafelofficial-positief-test-op-corona).  
@@ -107,9 +107,9 @@ Voor de volgende personen wordt het risico op besmetting als “laag” beschouw
   - De corona-coördinator verwittigt ook onmiddellijk Basketbal Vlaanderen.
   - Basketbal Vlaanderen zal de eventuele tegenstanders en de betrokken scheidsrechters informeren.  
   - De Corona-coördinator neemt contact op met alle hoog risico contacten binnen de club, waarmee je mogelijk contact hebt gehad.    
-- Alle wedstrijden én trainingen (voor zover de betrokken speler gedurende de betrokken periode aanwezig was op trainingen en wedstrijden), welke in de volgende 7 dagen door de betrokken teams betwist worden, worden zonder meer uitgesteld.  
+- Alle wedstrijden én trainingen (voor zover de betrokken speler gedurende de betrokken periode aanwezig was op trainingen en wedstrijden), welke in de volgende 10 dagen door de betrokken teams betwist worden, worden zonder meer uitgesteld.  
 - Blijf thuis en heb zo weinig mogelijk contact met anderen.
-- Je blijft minstens 7 dagen thuis en zeker tot zolang je nog symptomen hebt, en de symptomen van Covid-19 (koorts, ademhalingsmoeilijkheden, ziektegevoel…) volledig verdwenen zijn.  
+- Je blijft minstens 10 dagen thuis en zeker tot zolang je nog symptomen hebt, en de symptomen van Covid-19 (koorts, ademhalingsmoeilijkheden, ziektegevoel…) volledig verdwenen zijn.  
 - Je komt dus niet naar de trainingen en wedstrijden, tot je huisarts het fiat geeft om opnieuw te sporten.  
 - Alvorens opnieuw te starten neem je eerst contact op met de Corona Coördinator van de club.  
 
@@ -130,7 +130,7 @@ Voor de volgende personen wordt het risico op besmetting als “laag” beschouw
 
 ## Mag ik douchen in de sporthal?
 - We raden iedereen aan om zoveel mogelijk thuis te douchen.  
-- Bij trainingen kan je alleen douchen als je bij de seniors of G-Basket traint, alle anderen dienen zich thuis te douchen.  
+- Bij trainingen kan je, in zoverre het toegestaan is door de sporthalbeheerder, alleen douchen als je bij de seniors of G-Basket traint, alle anderen dienen zich thuis te douchen.  
 - Bij wedstrijden kan je, in zoverre het toegestaan is door de sporthalbeheerder, douchen.  
 
 ## Hoe verplaats ik me best naar een training of wedstrijd?
