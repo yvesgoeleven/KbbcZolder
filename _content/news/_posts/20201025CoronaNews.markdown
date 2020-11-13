@@ -3,7 +3,7 @@ layout: post
 title: "Covid-19 - Nieuws - update 13/11/2020"
 date: 2020-11-13 12:00:00
 excerpt: "Covid-19 - Nieuws - KBBC Zolder."
-permalink: /news/20201025CovidNews/
+permalink: /news/20201025CoronaNews/
 ---
 
 ## Update 13/11/2020
