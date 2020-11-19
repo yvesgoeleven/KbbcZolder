@@ -6,10 +6,15 @@ excerpt: "Covid-19 - Nieuws - KBBC Zolder."
 permalink: /news/20201025CoronaNews/
 ---
 
-## Update 13/11/2020
+## Update 19/11/2020
 
-Momenteel gelden nog steeds strenge maatregelen voor indoor sporten.  
-Alle trainingen en wedstrijden (ook voor U10 en U12) gaan niet door t.e.m. 30 november 2020.  
-We volgen de situatie op de voet en brengen jullie meer nieuws rond 30 november.
+Alle competitie- en bekerwedstrijden van de U14-leeftijd tot en met seniors werden door Basketbal Vlaanderen geannuleerd tot het einde van het jaar.  
+Daarnaast heeft onze club gisteren beslist om de U10 en U12 **tot het einde van het jaar geen wedstrijden** te laten spelen.  
+Zolang de huidige maatregelen van toepassing zijn, zullen **alle trainingen niet doorgaan, dit zeker tot 13 december 2020.**   
+Hierdoor komt de eerste seizoenshelft voor iedereen tot een einde.  
+
+We bekijken de situatie opnieuw tegen 13 december of wanneer er nieuwe beslissingen van de overheden komen en informeren jullie dan via de gekende kanalen.  
+
+Hou het veilig en zorg voor elkaar!  
 
 #SamenSterk #StaySafe #volgderegels #blijfinuwkot
