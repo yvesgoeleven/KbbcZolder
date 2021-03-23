@@ -1,0 +1,13 @@
+{
+  "name": "kbbczolder",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/yvesgoeleven/KbbcZolder.git",
+  "author": "Yves Goeleven <yves@goeleven.com>",
+  "license": "MIT",
+  "dependencies": {
+    "clubmanagement.organization.public": "npm:@messagehandler/clubmanagement.organization.public",
+    "clubmanagement.profile.public": "npm:@messagehandler/clubmanagement.profile.public",
+    "clubmanagement.roster.public": "npm:@messagehandler/clubmanagement.roster.public"
+  }
+}

@@ -5,12 +5,17 @@ description: KBBC Zolder
 keywords: Basket, KBBC Zolder, Team Standings
 custom_js:
 - team-standings
+modules:
+  - dish.shell.monitoring.applicationinsights.app
+  - clubmanagement.profile.public.app
+  - clubmanagement.organization.public.app
+  - clubmanagement.roster.public.app
+  - startup
 ---
 
-<div id="team-photo" class="team-photo">
-</div>
+<current-roster-picture data-organization-id="7a2f5a81-4d68-48d3-9bae-dedd7b25b003" data-group-querystring-parameter="teamid" ></current-roster-picture>
 <div class="container content">  
-     <h1 id="team-name"></h1> 
+    <h1><group-name data-group-querystring-parameter="teamid" data-organization-id="7a2f5a81-4d68-48d3-9bae-dedd7b25b003"></group-name></h1> 
     <div class="loading centered-content"><img src="/img/loader.gif" /></div>
     <div id="team-dashboard" class="dashboard">
         <div id="standings-table" class="calendar-table responsive-table striped-table">    

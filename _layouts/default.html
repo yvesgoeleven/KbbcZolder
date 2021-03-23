@@ -45,6 +45,11 @@
 		{{#each page.async_js}}
    <script async defer src='{{this}}' type="text/javascript"></script>
 		{{/each}}
+  {{/if}}  
+  {{#if page.modules}}
+		{{#each page.modules}}
+   <script src='/js/{{this}}.js' type="module"></script>
+		{{/each}}
   {{/if}}
-  
+
 </html>

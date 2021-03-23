@@ -10,35 +10,9 @@ var getParameterByName = function (name, url) {
 var vblteamid = getParameterByName("vblteamid");
 var teamid = getParameterByName("teamid");
 var poule = getParameterByName("poule");
-var partnershipId = getParameterByName("p");
-var team;
 var visualDate = new Date();
 
-var renderTeam = function(vblTeam, team){
-       
-    var imgurl = null;
-    var fallbackimgurl = null;
-    if(team != null){
-        imgurl = "url('https://clubmgmt.blob.core.windows.net/groups/originals/" + team.groupId + ".jpg')";        
-    }
-    fallbackimgurl = "url('/img/team_placeholder.png')";
-
-    var combined = null;
-    if(imgurl){
-        combined = imgurl;
-    }
-    if(fallbackimgurl){
-        if(combined){
-            combined += ", " + fallbackimgurl;
-        }
-        else{
-            combined = fallbackimgurl;
-        }
-    }
-    combined += ";";
-    
-    $("#team-photo").attr("style", "background: " + combined +  " background-repeat: no-repeat; background-position: center top; background-size: cover;"); 
-
+var renderPoules = function(vblTeam){
      if(vblTeam && vblTeam.poules){
         var p = vblTeam.poules.filter(function(pl){ return pl.guid === poule; })[0];   
         if(p){
@@ -70,47 +44,16 @@ $.topic("repository.initialized").subscribe(function () {
       repository.loadTeam(vblteamid);
     }
     else if(teamid != null){   
-      
-      if(partnershipId == null){
-  
-          clubmgmt.mapTeam(teamid, function(map){
-              if(map == null){            
-                  clubmgmt.loadTeam(teamid, function(t){
-                      team = t;
-                      renderTeam(null, team);
-                      $(".loading").hide();
-                      $("#team-dashboard").css("visibility", "visible");     
-                  });                       
-              }
-              else{
-                  vblteamid = map.referenceId;
-                  clubmgmt.loadTeam(teamid, function(t){
-                      team = t;
-                      repository.loadTeam(vblteamid);         
-                  });
-              }               
-          });
-  
-      }
-      else{
-          clubmgmt.mapPartnerTeam(teamid, partnershipId, function(map){
-              if(map == null){            
-                  clubmgmt.loadPartnerTeam(partnershipId, teamid, function(t){
-                      team = t;
-                      renderTeam(null, team);
-                      $(".loading").hide();
-                      $("#team-dashboard").css("visibility", "visible");     
-                  });                        
-              }
-              else{
-                  vblteamid = map.referenceId;
-                  clubmgmt.loadPartnerTeam(partnershipId, teamid, function(t){
-                      team = t;
-                      repository.loadTeam(vblteamid);         
-                  });
-              }   
-          });
-      } 
+        clubmgmt.mapTeam(teamid, function(map){
+            if(map == null){            
+                $(".loading").hide();
+                $("#team-dashboard").css("visibility", "visible");                          
+            }
+            else{
+                vblteamid = map.referenceId;
+                repository.loadTeam(vblteamid);
+            }               
+        }); 
     }
    
   });
@@ -118,12 +61,9 @@ $.topic("repository.initialized").subscribe(function () {
 $.topic("vbl.team.loaded").subscribe(function () {
     repository.getTeam(vblteamid, function(vblteam){
         if(vblteam && vblteam.guid == vblteamid){
-           renderTeam(vblteam, team);
+           renderPoules(vblteam);
            $(".loading").hide();
            $("#team-dashboard").css("visibility", "visible");
-        }
-        if(!vblteam){
-            $("#team-name").text("Team niet gevonden");
         }
     });     
 });

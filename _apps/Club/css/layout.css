@@ -22,7 +22,7 @@
 }
 
 /* carousel */
-.carousel, .team-photo {
+.carousel,.roster-picture {
   height: 70vh;
   margin-top: -3vw;
 }
@@ -40,7 +40,7 @@
 }
 
 /* Declare heights because of positioning of img element */
-.carousel .item, .team-photo {
+.carousel .item, .roster-picture {
   height: 70vh;
 }
 .carousel-inner > .item > img{
@@ -406,7 +406,7 @@
 	border-collapse: collapse;
 	width: 100%;
 }
-.post img, .content img{
+.post img{
 	max-width: 100%;
 	display: block;
     margin-left: auto;
@@ -562,8 +562,14 @@
 	}
 }
 
-.dashboard .tiles .tile .tile-description{
-   width: 100%;
+.dashboard public-profile-picture{
+	width: 100%;
+	height: 100%;
+}
+
+.dashboard .tiles .tile .tile-description, .dashboard .tiles .tile .participation-description{
+	position: absolute;
+	width: 100%;
    flex-grow: 0;
    flex-shrink: 0;
 }
