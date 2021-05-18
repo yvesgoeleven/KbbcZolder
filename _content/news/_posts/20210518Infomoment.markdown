@@ -19,7 +19,7 @@ Agenda:
 – Lidgeld  
 – Clubwerking  
 
-Schrijf in voor een van deze sessies, door een mail te sturen naar info@kbbczolder.be, met vermelding van de gewenste dag.  
+Schrijf in voor een van deze sessies, door een mail te sturen naar info@kbbczolder.be(info://evenementen@kbbczolder.be), met vermelding van de gewenste dag.  
   
 Je ontvangt dan, voor aanvang van de vergadering, van ons een email met de gegevens om aan deze videobespreking deel te nemen.  
 
