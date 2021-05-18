@@ -16,18 +16,6 @@ Consulteer deze pagina regelmatig, want deze wordt regelmatig aangepast.
 
 **Disclaimer: Dit protocol werd opgesteld op basis van de kennis waarover we op het moment van publicatie beschikken en gebaseerd op de federale, Vlaamse, gemeentelijke en federatie maatregelen en richtlijnen ter zake.**  
 
-### Tot en met 11/11 geen trainingen of wedstrijden voor alle teams. 
-
-Ondanks het feit dat sporten op afstand en voor U10/U12 toegestaan is, heeft KBBC Zolder op 25/10 beslist **alle trainingen en wedstrijden stop te zetten tot en met 11 november**.  
-
-Gezien de huidige omstandigheden, vinden we als club het onze plicht om ons steentje bij te dragen in het belang van ieders gezondheid.  
-
-Bedankt iedereen voor het naleven van de richtlijnen. Het is dankzij jullie discipline, dat spelers en coaches tot de dag van vandaag Coronavrij hebben kunnen sporten.  
-
-We roepen iedereen ook op om de richtlijnen strikt na te leven en zoveel mogelijk in uw kot te blijven.  
-
-We volgen de situatie op de voet en brengen jullie meer nieuws op 11 november.  
-
 ----------------------------------------------------------------------------------------------------------------
 
 Als club hechten we veel belang aan het naleven van de hierna beschreven maatregelen, in het belang van de gezondheid van iedereen. Afwijkingen en eigen interpretaties van de maatregelen kunnen niet toegestaan worden. We vragen dan ook iedereen om deze maatregelen strikt na te leven.  
