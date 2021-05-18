@@ -6,8 +6,6 @@ excerpt: "1, 2 en 3 juni 2021"
 permalink: /news/20210518Infomoment/
 ---
 
-## Online infomomenten seizoen 2021-2022
-
 2020 was een moeilijk jaar voor iedereen. Maar voor binnensporten, zoals basketbal, was het een waar horrorjaar. Het seizoen 20-21 ging met uitzondering van september en een beetje oktober volledig verloren. We konden er weinig aan doen maar moesten erdoor. 
 Hopelijk ben jezelf en je familie gespaard gebleven van het ergste.  
 Er gloort wel wat perspectief aan de horizon. Wellicht kan het basketbal seizoen 21-22 doorgaan. Zoals het er nu naar uit ziet kan de competitie half september van start gaan.  
