@@ -71,7 +71,7 @@ Zij hebben voornamelijk tot taak:
 * Begeleiding van de seniors ploegen
 * Vertegenwoordiging bij de basketbalbond
 * Externe vertegenwoordiging van de club
-* Relatie met de vzw sporthal en de gemeente
+* Relatie verzorgen met de gemeentelijke diensten.
 
 De Statuten zijn raadpleegbaar bij het Belgische Staatsblad (alleen website): http://www.ejustice.just.fgov.be/tsv/tsvn.htm
 
