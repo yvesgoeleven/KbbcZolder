@@ -7,7 +7,7 @@ keywords: Basket, KBBC Zolder
 
 # Belangrijke documenten
 
- * [Medisch Getuigschrift](/club/documenten/medisch%20getuigschrift%202020%202021.pdf)
+ * [Medisch Getuigschrift](/club/documenten/medischgetuigschrift21-22.pdf)
  * [Aangifte verzekeringen](/club/documenten/verzekeringsformulier.pdf)
  
 ## Tussenkomsten ziekenfondsen
