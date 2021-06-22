@@ -88,7 +88,7 @@ De Spelers worden ingedeeld per leeftijd. Dit gebeurt telkens in schijven van 2 
 | U16          | 15 - 16 jaar / 3de en 4de middelbaar        |
 | U18          | 17 - 18 jaar / 5de en 6de middelbaar        |
 | U21          | 19 - 21 jaar / na schoolplicht              |
-| Seniors      | Vanaf 22 jaar of afhangende van spelniveau  |
+| Seniors      | Vanaf 22 jaar of afhankelijk van spelniveau |
 
 De jeugdploegen worden ingeschreven voor de jeugdcompetitie georganiseerd door Basketbal Vlaanderen.
 Per schijf van 10 spelers wordt in principe één ploeg ingeschreven. De indeling gebeurt door het bestuur op basis van het aantal spelers ingeschreven in het vorige seizoen. Hierbij wordt vooral het geboortejaar als criterium gehanteerd.
@@ -130,12 +130,6 @@ Zoals in iedere andere sporttak, wordt van de leden een bijdrage verwacht om de 
 _2.1. Inkomsten._
 
 Het bedrag van het lidgeld wordt jaarlijks door de Raad van Bestuur vastgelegd.
-
-Voor het seizoen 2020-2021 bedraagt het lidgeld voor spelers:  
-  * 215 euro voor G-Basket  
-  * 165 euro voor U10   
-  * 245 euro voor de jeugdploegen vanaf U12 (Tot Niveau 3)  
-  * 295 euro voor de jeugdploeg (Niveau 1 en 2) en senioren  
 
 Er zijn verschillende vormen van tussenkomsten waarvan spelers kunnen genieten. Bezoek zeker [http://aap.heusden-zolder.be/content/detail/8/alle-mogelijke-tussenkomsten-in-het-lidgeld](http://aap.heusden-zolder.be/content/detail/8/alle-mogelijke-tussenkomsten-in-het-lidgeld), waar alle tussenkomsten en voorwaarden mooi werden samengevat.  
 
@@ -221,7 +215,7 @@ Om deze taken rond te krijgen spreekt de ploegverantwoordelijke een beurtrol af 
 | 2018-2019      | 2de landelijke |
 | 2019-2020      | 1ste provinciale |
 | 2020-2021      | 1ste provinciale |
-
+| 2021-2022      | 1ste provinciale |
 
 
 
