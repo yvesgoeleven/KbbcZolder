@@ -20,7 +20,7 @@ hidden: true
 | Cecemel | € 2,00 | Witte wijn | € 2,50 |
 | Tonissteiner Orange | € 2,00 | Cava 75 cl (enkel fles) | € 17,00 |
 | Tonissteiner Citroen | € 2,00 | Cava 20 cl flesje	| € 5,00 |
-| Tonissteiner Vruchtenkorf | € 2,00 | Martini Wit | € 3,00 |
+| Tonissteiner Vruchtenkorf | € 2,00 | Martini Wit | € 2,50 |
 | **Sportdranken** | | **Snacks/Snoep** ||
 | Aquarius Lemon 33cl | € 2,50 | Party snacks / bitterballen | € 4,00 |
 | Aquarius Orange 33cl | € 2,50 | Chips, snoepgoed, … | € 1,50 |
