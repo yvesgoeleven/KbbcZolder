@@ -11,23 +11,20 @@ hidden: true
 | **Frisdranken** | | **Bieren** | |
 | Plat water | € 2,00 | Haacht pils | € 2,00 |
 | Bruis water | € 2,00 | Kriek Mystic	| € 2,00 |
-| Pepsi | € 2,00 | Duvel | € 2,50 |
-| Pepsi Max | € 2,00 | Tongerlo Prior Tripel | € 2,50 |
-| Val Limonade | € 2,00 | Tongerlo Nox |	€ 2,50 |
-| Tonic | € 2,00 | Karmeliet | € 2,70 |
-| Agrum | € 2,00 | Haka | € 2,70 |
-| Tea | € 2,00 | **Wijn/Cava (per glas)** | |
+| Pepsi | € 2,00 | Duvel | € 3,00 |
+| Pepsi Max | € 2,00 | Tongerlo Prior Tripel | € 3,00 |
+| Val Limonade | € 2,00 | Tongerlo Nox |	€ 3,00 |
+| Tonic | € 2,00 | Karmeliet | € 3,00 |
+| Agrum | € 2,00 | Ter Dolen Armand | € 3,00 |
+| Tea | € 2,00 | **Wijn/Cava** | |
 | Cecemel | € 2,00 | Witte wijn | € 2,50 |
-| Tonissteiner Orange | € 2,00 | Rode wijn | € 2,50 |
-| Tonissteiner Citroen | € 2,00 | Cava	| € 2,50 |
-| Tonissteiner Vruchtenkorf | € 2,00 | Martini Wit | € 2,50 |
-| Lipton ice tea green | € 2,00 |||
-| Schweppes Mojito | € 2,00 | **Cava 20cl** | € 5,00 |
-| Fuze Tea | € 2,00 |||
+| Tonissteiner Orange | € 2,00 | Cava 75 cl (enkel fles) | € 17,00 |
+| Tonissteiner Citroen | € 2,00 | Cava 20 cl flesje	| € 5,00 |
+| Tonissteiner Vruchtenkorf | € 2,00 | Martini Wit | € 3,00 |
 | **Sportdranken** | | **Snacks/Snoep** ||
-| Aquarius Lemon blik | € 2,50 | Party snacks / bitterballen | € 4,00 |
-| Aquarius Orange blik | € 2,50 | Chips, snoepgoed, … | € 1,50 |
-| Aquarius Red peach blik | € 2,50 |||
+| Aquarius Lemon 33cl | € 2,50 | Party snacks / bitterballen | € 4,00 |
+| Aquarius Orange 33cl | € 2,50 | Chips, snoepgoed, … | € 1,50 |
+| Aquarius Red peach 33cl | € 2,50 |||
 | **Warme dranken** | |||
 | Koffie / Déca| € 2,00|||
 | Koffie verkeerd*| € 2,50|||
@@ -39,9 +36,6 @@ hidden: true
 | Soep | € 2,00|||
 
 '*' verkrijgbaar afhankelijk van drukte en beschikbaarheid.
-
-Aquarius en water in flesjes kan je in onze automaat vinden.
-
 
 
 
