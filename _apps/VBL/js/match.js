@@ -79,7 +79,7 @@ var renderMatchDetails = function(match, org) {
 
     if(realDate.getTime() < Date.now()){
         $("#result-header").show();
-         if(match.doc.uitslag != null && match.doc.uitslag.lenght > 0){
+         if(match.doc.uitslag != null && match.doc.uitslag.length > 0){
             $('#results').text(match.doc.uitslag);
             $("#result-container").show();
         }
