@@ -6,8 +6,8 @@ excerpt:
 permalink: /news/20210925werkensporthalzolder/
 ---
 
-##               Sporthal Zolder 
-##         Bereikbaarheid en parkeren       
+###               Sporthal Zolder 
+###         Bereikbaarheid en parkeren       
 
 Momenteel zijn er werken aan de gang in de directe omgeving van Sporthal Zolder.  
 Hierdoor is Sporthal Zolder enkel bereikbaar via de Ringlaan en is de parking aan de Dekenstraat niet langer beschikbaar.  
