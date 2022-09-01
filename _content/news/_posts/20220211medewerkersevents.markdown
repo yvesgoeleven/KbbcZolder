@@ -1,24 +1,22 @@
  
 ---
 layout: post
-title:  "Evenementen 2022"
-date:   2022-02-11 09:00:00
+title:  "Evenementen najaar 2022"
+date:   2022-09-01 09:00:00
 excerpt: 
 permalink: /news/2022-02-11-medewerkers2022/
 ---
 
 In de volgende maanden zijn we als club actief op een aantal evenementen. 
 
-Zeker na de zware Corona periode zijn deze financiële opbrengsten belangrijk. 
-
 ## Evenementen:
 
 
 | Evenement                         | Datum      | Uren         | Plaats          | Aantal       |
 | ----------------------------------|------------|--------------|-----------------|--------------|
-|  Queen                           	|  1/05/2022 | 19h00-00h00	|	TRIXXO Theater  | 15 Personen  |
-|  I Love the 90's                  | 14/05/2022 | 18h00-04h00  |	TRIXXO Arena    | 30 Personen  |
-|  The magic of Motown              | 02/06/2022 | 19h00-00h00	|	TRIXXO Theater  | 15 Personen  |
+|  Retro Kitch                     	| 24/09/2022 | 18h00-00h00 	|	TRIXXO Arena    | 40 Personen  |
+|  Het Zwanenmeer                   | 14/10/2022 | 19h00-00h00  |	TRIXXO Theater  | 12 Personen  |
+|  The Dire Straits experience      | 26/11/2022 | 18h00-00h00	 |	TRIXXO Theater  | 12 Personen  |
   
 
 ## Zin om te helpen?
