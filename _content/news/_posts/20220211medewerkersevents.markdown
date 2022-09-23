@@ -14,7 +14,6 @@ In de volgende maanden zijn we als club actief op een aantal evenementen.
 
 | Evenement                         | Datum      | Uren         | Plaats          | Aantal          |
 | ----------------------------------|------------|--------------|-----------------|-----------------|
-|  Het Zwanenmeer                   | 14/10/2022 | 19h00-00h00  |	TRIXXO Theater  | Nog 3 Personen  |
 |  Hans Teeuwen        * **Nieuw**  | 27/10/2022 | 19h00-00h00  |	TRIXXO Theater  | 13 Personen     |
 |  Lord of the Dance   * **Nieuw**  | 20/11/2022 | 13h00-19h00  |	TRIXXO Theater  | 12 Personen     |
 |  The Dire Straits experience      | 26/11/2022 | 18h00-00h00	 |	TRIXXO Theater  | Nog 2 Personen  |
