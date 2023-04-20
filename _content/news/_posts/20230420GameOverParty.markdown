@@ -12,4 +12,4 @@ permalink: /news/20230420GameOverParty/
 
 ![Parking Sporthal Zolder](/news/img/instagameover.png)
 
-<p align="center">
+</p>
