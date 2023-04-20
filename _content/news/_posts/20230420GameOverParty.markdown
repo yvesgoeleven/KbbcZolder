@@ -8,7 +8,7 @@ permalink: /news/20230420GameOverParty/
 
 <p align="center">
 
-# [Tickets](https://trooper.be/GBasketZolder/)
+# [Tickets](https://game-over.eventsquare.store/3p5oqnasakj1)
 
 ![Parking Sporthal Zolder](/news/img/instagameover.png)
 
