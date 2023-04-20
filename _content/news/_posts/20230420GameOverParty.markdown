@@ -10,6 +10,6 @@ permalink: /news/20230420GameOverParty/
 
 # [Tickets](https://trooper.be/GBasketZolder/)
 
-![Parking Sporthal Zolder](/news/img/instagameover.jpg)
+![Parking Sporthal Zolder](/news/img/instagameover.png)
 
 <p align="center">
