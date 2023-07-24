@@ -18,8 +18,8 @@ keywords: Basket, KBBC Zolder
 
 ### Sporthal:
 
-  Sporthal Zolder  
-  Dekenstraat 22  
+  Sporthal Heusden  
+  Pastoor Van Mierlolaan 17  
   3550 HEUSDEN-ZOLDER  
 
 ### Briefwisseling + contact gegevens:
@@ -37,8 +37,7 @@ Algemeen: BE35001208662537
 
 ### Verzekering:
 
-Alle nodige documenten voor de verzekeringen kan je krijgen via ploegafgevaardigde.
-Ze zijn ook downloadbaar via volgende link [Aangifteformulier ongevallen](https://www.basketbal.vlaanderen/src/Frontend/Files/userfiles/files/Benjamin/verzekeringen/Aangifteformulier.pdf)  
+Alle nodige informatie ivm de verzekeringen kan je krijgen via ploegafgevaardigde.
 Daarnaast is KBBC Zolder erkent bij het Vlaams Steunpunt Vrijwilligerswerk onder erkenningsnummer : GVV82647286
 
 ## Kennismaking
@@ -131,7 +130,7 @@ _2.1. Inkomsten._
 
 Het bedrag van het lidgeld wordt jaarlijks door de Raad van Bestuur vastgelegd.
 
-Er zijn verschillende vormen van tussenkomsten waarvan spelers kunnen genieten. Bezoek zeker [http://aap.heusden-zolder.be/content/detail/8/alle-mogelijke-tussenkomsten-in-het-lidgeld](http://aap.heusden-zolder.be/content/detail/8/alle-mogelijke-tussenkomsten-in-het-lidgeld), waar alle tussenkomsten en voorwaarden mooi werden samengevat.  
+Er zijn verschillende vormen van tussenkomsten waarvan spelers kunnen genieten. Bezoek zeker [https://www.aap-nel.be/voordeouders/tussenkomsten](https://www.aap-nel.be/voordeouders/tussenkomsten), waar alle tussenkomsten en voorwaarden mooi werden samengevat.  
 
 Lidgelden zijn slechts een klein deel van de inkomsten. Daarnaast doet onze club een beroep op sponsors en organiseert nevenactiviteiten ten einde het budget in evenwicht te brengen.
 
@@ -216,6 +215,8 @@ Om deze taken rond te krijgen spreekt de ploegverantwoordelijke een beurtrol af 
 | 2019-2020      | 1ste provinciale |
 | 2020-2021      | 1ste provinciale |
 | 2021-2022      | 1ste provinciale |
+| 2022-2023      | 1ste provinciale (promotie naar 2de landelijke) |
+| 2023-2024      | 2de landelijke |
 
 
 
