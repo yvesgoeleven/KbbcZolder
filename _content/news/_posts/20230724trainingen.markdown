@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Waar - Wanneer ???"
+title:  "Trainingen seizoen 2023-2024"
 date:   2023-07-01 09:00:00
 excerpt: 
-permalink: /news/20230701antwoorden/
+permalink: /news/20230724Trainingen/
 ---
 
 <p align="center">
