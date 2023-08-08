@@ -9,7 +9,7 @@ permalink: /news/20230724trainingen/
 ## Trainingsuren 2023-2024:
 
 U10-U12 
-Sporthal Heusden 	Hal 1 	Woensdag 17h00 tot 18h30  
+Vanaf 6 september : Sporthal Heusden 	Hal 2 	Woensdag 17h00 tot 18h30  
 
 U14  
 Sportzaal  Zolder  		Maandag 18h00 tot 19h30  
