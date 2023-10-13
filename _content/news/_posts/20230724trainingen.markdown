@@ -8,19 +8,24 @@ permalink: /news/20230724trainingen/
 
 ## Trainingsuren 2023-2024:
 
-U10-U12 
-Vanaf 6 september : Sporthal Heusden 	Hal 2 	Woensdag 17h00 tot 18h30  
+U10  (Coach Lindy)
+Sporthal Heusden      Dinsdag 17h tot 18h30
+Sporthal Heusden      Donderdag 17h tot 18h30
+
+U12  (Coach Sam)
+Sporthal Zolder       Maandag 17h tot 18h30
+Sporthal Heusden      Woensdag 17h tot 18h30
 
 U14  
-Sportzaal  Zolder  		Maandag 18h00 tot 19h30  
+Sportzaal  Zolder  		Maandag 18h30 tot 20h00  
 Sportzaal  Zolder  		Woensdag 18h30 tot 20h00  
 
 U18   
-Sportzaal  Zolder 		Maandag 19h30 tot 21h00  
-Sporthal Heusden 	Hal 1 	Woensdag 18h30 tot 20h00  
+Sportzaal  Zolder 		Maandag 20h00 tot 21h30  
+Sporthal Heusden 	  	Woensdag 18h30 tot 20h00  
 
 U21  
-Sporthal Heusden 	Hal 2	Dinsdag 18h30 tot 20H00  
+Sporthal Heusden 		Dinsdag 18h30 tot 20H00  
 Sportzaal Zolder 		Donderdag 18h30 tot 20h00  
 
 Dames  
