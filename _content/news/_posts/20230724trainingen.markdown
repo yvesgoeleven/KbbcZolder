@@ -1,9 +1,8 @@
 ---
 layout: post
 title:  "Trainingen seizoen 2023-2024"
-date:   2023-07-24 21:00:00
-excerpt: 
-permalink: /news/20230724trainingen/
+update:   12/10/2023
+permalink: /news/20231012trainingen/
 ---
 
 ## Trainingsuren 2023-2024:
