@@ -4,8 +4,6 @@ title: Trainingsuren 2023-2024
 keywords: Basket, KBBC Zolder, Trainingsuren
 ---
 
-## Trainingsuren 2023-2024:
-  
 U10  
 Sporthal Heusden      Dinsdag 17h tot 18h30  
 Sporthal Heusden      Donderdag 17h tot 18h30  
