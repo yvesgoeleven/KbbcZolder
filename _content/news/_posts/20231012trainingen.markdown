@@ -4,48 +4,45 @@ title:  "Trainingen seizoen 2023-2024"
 update:   12/10/2023
 permalink: /news/20231012trainingen/
 ---
-
-## Trainingsuren 2023-2024:
-  
-U10 (Coach Lindy)  
+#### U10   
 Sporthal Heusden      Dinsdag 17h tot 18h30  
 Sporthal Heusden      Donderdag 17h tot 18h30  
 
-U12 (Coach Sam)  
+#### U12  
 Sporthal Zolder       Maandag 17h tot 18h30  
 Sporthal Heusden      Woensdag 17h tot 18h30  
 
-U14  
+#### U14  
 Sportzaal  Zolder  		Maandag 18h30 tot 20h00  
 Sportzaal  Zolder  		Woensdag 18h30 tot 20h00  
 
-U18   
+#### U18   
 Sportzaal  Zolder 		Maandag 20h00 tot 21h30  
 Sporthal Heusden 	  	Woensdag 18h30 tot 20h00  
 
-U21  
+#### U21  
 Sporthal Heusden 		Dinsdag 18h30 tot 20H00  
 Sportzaal Zolder 		Donderdag 18h30 tot 20h00  
 
-Dames  
+#### Dames  
 Sportzaal Zolder 		Dinsdag 20h30 22h00  
 Sportzaal Zolder 		Donderdag 20h00 tot 21h30  
 
-A ploeg + B ploeg  
+#### A ploeg + B ploeg  
 Sporthal Houthalen 		Dinsdag 20h30 tot 22h00  
 Sporthal Heusden  	Hal 1	Donderdag   20h30 tot 22h00  
 
-C ploeg  
+#### C ploeg  
 Sporthal Heusden 	Hal 1 	Vrijdag  20H30 tot 22h00  
 
-D ploeg  
+#### D ploeg  
 Sportzaal  Zolder 		Vrijdag  20h00 tot 21h30  
 
-E ploeg  
+#### E ploeg  
 Sporthal Bolderberg 	Hal 1 	Dinsdag 20h00 tot 21h30  
 Sporthal Bolderberg 	Hal 1	Vrijdag 20h00 tot 21h30	  
 
-G basket   
+#### G basket   
 Sportzaal Zolder 		Woensdag 14h00 tot 15h30  
 Sportzaal Zolder 		Zondag 11h30 tot 13h00  
 SFC 				Dinsdag en donderdag 19h30 tot 21h00  
