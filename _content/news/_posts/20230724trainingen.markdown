@@ -7,7 +7,7 @@ permalink: /news/20230724trainingen/
 ---
 
 ## Trainingsuren 2023-2024:
-
+  
 U10 (Coach Lindy)  
 Sporthal Heusden      Dinsdag 17h tot 18h30  
 Sporthal Heusden      Donderdag 17h tot 18h30  
