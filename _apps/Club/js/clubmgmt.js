@@ -1,5 +1,5 @@
 var clubmgmtimgbase = "https://clubmgmt.blob.core.windows.net/profiles/";
-var clubmgmtleaguebaseuri = "https://clubmgmt-league-service-prd.azurewebsites.net/api/leagues/";
+var clubmgmtleaguebaseuri = "https://clubmgmt-governance-api-prd.azurewebsites.net/api/leagues/";
 var clubmgmtorgbaseuri = "https://clubmgmt-organization-service-prd.azurewebsites.net/api/organizations/";
 var leagueId = "09346d48-da8b-4b66-ab72-c04bad59d3d8";
 
