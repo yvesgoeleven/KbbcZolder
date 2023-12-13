@@ -720,3 +720,60 @@ button .spinner{
 .align-right{
 	text-align: right;
 }
+
+
+/* TODO: move to shell.css */
+
+.table .table-header{
+	font-weight: normal;
+}
+
+.table .table-row, .table .table-cell{
+	border-collapse: collapse;
+	padding: 5px;
+}
+
+.responsive-form .table{
+	display: table;
+}
+.responsive-form .table-row{
+	display: table-row;
+}
+.responsive-form .table-cell{
+	display: table-cell;
+}
+
+.responsive-form .table { 
+	width: 100%; 
+	border-collapse: collapse;
+	border: none;
+  }
+  .responsive-form .table a {
+	  cursor: pointer;
+  }
+  
+  .responsive-form .table-header { 
+	background: #333; 
+	color: white; 
+	font-weight: bold; 
+  }  
+  .responsive-form .table-row, .responsive-form .table-cell  {
+	  border: none;
+  }
+  .responsive-form .table-cell { 
+	text-align: left;
+	white-space: nowrap;
+  }
+  .responsive-form .table-cell:first-of-type { 
+	text-align: right;
+  }
+  .responsive-form .table-cell:not(:first-of-type){
+	width: 99%;
+  }
+  @media 
+  only screen and (max-width: 760px),
+  (min-device-width: 768px) and (max-device-width: 1024px)  {
+	.responsive-form .table-cell:first-of-type { 
+		text-align: left;
+	  }
+  }
