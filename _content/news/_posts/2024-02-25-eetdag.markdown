@@ -53,7 +53,7 @@ Heb je vragen over je bestelling, dan kan je steeds mailen naar [kalender@kbbczo
 
 <script type="module">
 
- import { shell, translations } from "https://fundraising.clubmanagement.io/cdn/release/1.0.6/clubmanagement.sales.public.min.js";
+ import { shell, translations } from "https://fundraising.clubmanagement.io/cdn/release/1.0.7/clubmanagement.sales.public.min.js";
 
  (async function() {			
 	
