@@ -4,7 +4,7 @@ layout: post
 title:  "Evenementen voorjaar 2024"
 date:   2023-12-19 09:00:00
 excerpt: 
-permalink: /news/2023-12-19-medewerkers2024/
+permalink: /news/20231219medewerkersevenementen/
 ---
 
 In de volgende maanden zijn we als club actief op een aantal evenementen. 
