@@ -14,7 +14,7 @@ Sporthal Heusden      Donderdag 17h tot 18h30
 
 #### U14  (Vanaf 27/8/2024)
 Sportzaal  Zolder  		Dinsdag 17h30 tot 19h00  
-Sportzaal  Zolder  		Dinsdag 17h00 tot 18h30  
+Sportzaal  Zolder  		Donderdag 17h00 tot 18h30  
 
 #### U16  (Vanaf 20/08/2024)   
 Sportzaal  Zolder 		Maandag 18h30 tot 20h00  
@@ -44,5 +44,5 @@ Sporthal Bolderberg    	Vrijdag 20h00 tot 21h30
 #### G basket   
 Sportzaal Zolder 		Woensdag 14h00 tot 15h30  
 Sportzaal Zolder 		Zondag 11h30 tot 13h00  
-SFC 				Dinsdag en donderdag 19h30 tot 21h00  
+SFC 				      Dinsdag en donderdag 19h30 tot 21h00  
    
