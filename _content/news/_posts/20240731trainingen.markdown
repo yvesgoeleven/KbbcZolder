@@ -20,12 +20,16 @@ Sportzaal  Zolder  		Donderdag 17h00 tot 18h30
 Sportzaal  Zolder 		Maandag 18h30 tot 20h00  
 Sportzaal  Zolder 	  	Woensdag 18h30 tot 20h00  
 
+#### U18  (Vanaf 27/08/2024)   
+Sportzaal  Zolder 		Maandag 20h00 tot 21h30  
+Sporthal  Heusden 	  	Woensdag 18h30 tot 20h00  
+
 #### U21  (Vanaf 27/08/2024)
 Sportzaal Zolder 		Dinsdag 19h00 tot 20H30  
 Sportzaal Zolder 		Donderdag 18h30 tot 20h00  
 
 #### Dames  (Vanaf 7/8/2024)
-Sportzaal Zolder 		Dinsdag 20h30 22h00  
+Sportzaal Zolder 		Dinsdag 20h30 tot 22h00  
 Sportzaal Zolder 		Donderdag 20h00 tot 21h30  
 
 #### A ploeg + B ploeg  
@@ -34,10 +38,10 @@ Sporthal Heusden  		Donderdag 20h30 tot 22h00
 Velodroom               Vrijdag 20h30 tot 22h00
 
 #### C ploeg  
-Sporthal Bolderberg  	Dinsdag 20h00 tot 21h30 
+Sporthal Bolderberg  	Dinsdag 20h00 tot 21h30  
 Sporthal Heusden 	    	Vrijdag  20H30 tot 22h00  
 
-#### E ploeg  
+#### D ploeg  
 Sporthal Bolderberg  	Dinsdag 20h00 tot 21h30  
 Sporthal Bolderberg    	Vrijdag 20h00 tot 21h30	  
 
