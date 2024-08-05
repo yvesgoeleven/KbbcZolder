@@ -7,15 +7,12 @@ keywords: Basket, KBBC Zolder
 
 # Belangrijke documenten
 
-## Medisch attest seizoen 2023-2024   
+## Medisch attest   
 
-Alle spelers en scheidsrechters geboren in 2009 en 2005 zijn verplicht om een (sport)medische keuring, bij een sport- of huisarts uit te laten voeren voor aanvang van de competitie 2023-2024. Dit attest is 4 seizoenen ( seizoen 2023-2024 + 3 volgende seizoenen) geldig. Einddatum 30 juni 2027.
-
-Alle spelers en scheidsrechters die buiten deze geboortejaren vallen én die reeds in seizoen 2021-2022 of 2022-2023 een medisch attest hebben opgeladen in onze databank moeten zich niet opnieuw medisch laten keuren voor seizoen 2023-2024. Hun medisch attest wordt automatisch verlengd en zal gelinkt blijven aan het lidmaatschap.
-
-Spelers, scheidsrechters en nieuwe leden die tijdens het seizoen 2022-2023 geen medisch attest hebben opgeladen hebben in onze databank, moeten voor ze kunnen deelnemen aan een resultaatgebonden wedstrijd een (sport)medische keuring ondergaan en het attest van deze keuring opladen in de databank voor aanvang van het seizoen. De geldigheidsduur valt dan samen met de vooropgestelde cohorten.
-
-Download hier een blanco Medisch Attest : https://www.basketbal.vlaanderen/documenten/Medisch-Ethisch-Verantwoord-Sporten/ATTEST-MEDISCHE-SCREENING-01072022.pdf
+Vanaf seizoen 2024-2025 is een jaarlijkse medische keuring niet langer verplicht.
+Wel adviseren het volgende:
+Ga niet te licht over de medische keuring heen te gaan. We raden aan om de gratis vragenlijst in te vullen op www.sportkeuring.be. Deze wetenschappelijk erkende vragenlijst adviseert of het aangewezen is om bijkomend een fysiek medisch onderzoek bij een erkend sportkeuringsarts te laten doen.
+Verder raden we aan om in het jaar dat een speler of scheidsrechter 14 jaar wordt en in het jaar dat die 18 jaar wordt een ECG (elektrocardiogram) te laten afnemen.
 
 ## Aangifte ongeval   
 
