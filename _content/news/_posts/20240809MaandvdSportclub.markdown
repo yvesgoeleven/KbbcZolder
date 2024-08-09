@@ -10,8 +10,8 @@ permalink: /news/20240809MaandvdSportclub/
 ## Wil je graag kennismaken met basketbal?  
 ## Kom dan gratis sporten!  
   
-Jeugdtrainingen (6 - 12 jaar) op maandag in Sporthal heusden en op woensdag in Sportzaal zolder telkens tussen 17.00u en 18.30u  
+Jeugdtrainingen (6 - 12 jaar) op maandag in Sporthal Heusden en op woensdag in Sportzaal Zolder telkens tussen 17.00u en 18.30u  
   
-Daarnaast zullen we op 12 en 13 september 2024 ook aanwezig zijn in de Velodroom tijdens ‘sport Voor scholen’ georganiseerd door de gemeente heusden-zolder.
+Daarnaast zullen we op 12 en 13 september 2024 ook aanwezig zijn in de Velodroom tijdens ‘sport Voor scholen’ georganiseerd door de gemeente Heusden-Zolder.
 
 ![MaandvdSportclub](/news/img/MaandvdSportclubFlyer.jpg)
