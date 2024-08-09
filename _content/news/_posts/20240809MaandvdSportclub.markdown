@@ -5,9 +5,10 @@ date: 2024-08-09 12:00:00
 permalink: /news/20240809MaandvdSportclub/
 ---
   
-# Van 1 tot 30 september 2024 zetten we daarom onze deuren open voor iedereen.  
-Wil je graag kennismaken met basketbal?  
-Kom dan gratis sporten!  
+## Van 1 tot 30 september 2024 zetten we onze deuren open voor iedereen.  
+  
+## Wil je graag kennismaken met basketbal?  
+## Kom dan gratis sporten!  
   
 Jeugdtrainingen (6 - 12 jaar)  
 op maandag in Sporthal heuSden  
