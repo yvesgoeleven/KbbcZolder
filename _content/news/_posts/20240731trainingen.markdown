@@ -32,18 +32,23 @@ Sportzaal Zolder 		Donderdag 18h30 tot 20h00
 Sportzaal Zolder 		Dinsdag 20h30 tot 22h00  
 Sportzaal Zolder 		Donderdag 20h00 tot 21h30  
 
-#### A ploeg + B ploeg  
+#### A ploeg 
 Sporthal Houthalen 		Dinsdag 21h00 tot 22h30  
 Sporthal Heusden  		Donderdag 20h30 tot 22h00  
-Velodroom               Vrijdag 20h30 tot 22h00
+Sporthal Heusden 	    	Vrijdag  20H30 tot 22h00  
+
+#### B ploeg 
+Sporthal Houthalen 		Dinsdag 21h00 tot 22h30  
+Sporthal Heusden  		Donderdag 20h30 tot 22h00  
+Velodroom               Vrijdag 20h30 tot 22h00  
 
 #### C ploeg  
 Sporthal Bolderberg  	Dinsdag 20h00 tot 21h30  
-Sporthal Heusden 	    	Vrijdag  20H30 tot 22h00  
+Velodroom               Vrijdag 20h30 tot 22h00  
 
 #### D ploeg  
 Sporthal Bolderberg  	Dinsdag 20h00 tot 21h30  
-Sporthal Bolderberg    	Vrijdag 20h00 tot 21h30	  
+Sporthal Bolderberg    	Vrijdag 20h30 tot 22h00  
 
 #### G basket   
 Sportzaal Zolder 		Woensdag 14h00 tot 15h30  
