@@ -4,31 +4,31 @@ title:  "Trainingen seizoen 2024-2025"
 update:   31/07/2024
 permalink: /news/20240731trainingen/
 ---
-#### U8 en U10   (Vanaf 1/9/2024)
-Sporthal Heusden      Maandag 17h tot 18h  
-Sportzaal Zolder      Woensdag 17h tot 18h  
+#### U8 en U10
+Sporthal Heusden      Maandag 17h30 tot 18h30  
+Sportzaal Zolder      Woensdag 17h30 tot 18h30  
 
-#### U12  (Vanaf 28/8/2024)
+#### U12
 Sporthal Heusden      Dinsdag 17h tot 18h30  
 Sporthal Heusden      Donderdag 17h tot 18h30  
 
-#### U14  (Vanaf 27/8/2024)
+#### U14
 Sportzaal  Zolder  		Dinsdag 17h30 tot 19h00  
 Sportzaal  Zolder  		Donderdag 17h00 tot 18h30  
 
-#### U16  (Vanaf 20/08/2024)   
+#### U16   
 Sportzaal  Zolder 		Maandag 18h30 tot 20h00  
 Sportzaal  Zolder 	  	Woensdag 18h30 tot 20h00  
 
-#### U18  (Vanaf 27/08/2024)   
+#### U18   
 Sportzaal  Zolder 		Maandag 20h00 tot 21h30  
 Sporthal  Heusden 	  	Woensdag 18h30 tot 20h00  
 
-#### U21  (Vanaf 27/08/2024)
+#### U21
 Sportzaal Zolder 		Dinsdag 19h00 tot 20H30  
 Sportzaal Zolder 		Donderdag 18h30 tot 20h00  
 
-#### Dames  (Vanaf 7/8/2024)
+#### Dames
 Sportzaal Zolder 		Dinsdag 20h30 tot 22h00  
 Sportzaal Zolder 		Donderdag 20h00 tot 21h30  
 
