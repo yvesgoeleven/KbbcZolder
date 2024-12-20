@@ -217,6 +217,7 @@ Om deze taken rond te krijgen spreekt de ploegverantwoordelijke een beurtrol af 
 | 2021-2022      | 1ste provinciale |
 | 2022-2023      | 1ste provinciale (promotie naar 2de landelijke) |
 | 2023-2024      | 2de landelijke |
+| 2024-2025      | 2de landelijke |
 
 
 
