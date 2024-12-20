@@ -9,10 +9,10 @@ keywords: Basket, KBBC Zolder
 
 ## Medisch attest   
 
-Vanaf seizoen 2024-2025 is een jaarlijkse medische keuring niet langer verplicht.
-Wel adviseren het volgende:
-Ga niet te licht over de medische keuring heen te gaan. We raden aan om de gratis vragenlijst in te vullen op www.sportkeuring.be. Deze wetenschappelijk erkende vragenlijst adviseert of het aangewezen is om bijkomend een fysiek medisch onderzoek bij een erkend sportkeuringsarts te laten doen.
-Verder raden we aan om in het jaar dat een speler of scheidsrechter 14 jaar wordt en in het jaar dat die 18 jaar wordt een ECG (elektrocardiogram) te laten afnemen.
+Vanaf seizoen 2024-2025 is een jaarlijkse medische keuring niet langer verplicht.  
+<ins>Wel adviseren we het volgende:</ins>  
+Ga niet te licht over de medische keuring heen te gaan. We raden aan om de gratis vragenlijst in te vullen op www.sportkeuring.be. Deze wetenschappelijk erkende vragenlijst adviseert of het aangewezen is om bijkomend een fysiek medisch onderzoek bij een erkend sportkeuringsarts te laten doen.  
+Verder raden we aan om in het jaar dat een speler of scheidsrechter 14 jaar wordt en in het jaar dat die 18 jaar wordt een ECG (elektrocardiogram) te laten afnemen.  
 
 ## Aangifte ongeval   
 
