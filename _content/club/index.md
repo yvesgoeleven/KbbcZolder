@@ -8,7 +8,7 @@ keywords: Basket, KBBC Zolder
 ## Algemene info
 
   KBBC Zolder vzw  
-  Dekenstraat 22  
+  Pastoor van Mierlolaan 17/4  
   3550 Heusden-Zolder  
   * BTW BE0416751491  
   * Stamnummer: 0853  
@@ -38,7 +38,6 @@ Algemeen: BE35001208662537
 ### Verzekering:
 
 Alle nodige informatie ivm de verzekeringen kan je krijgen via ploegafgevaardigde.
-Daarnaast is KBBC Zolder erkent bij het Vlaams Steunpunt Vrijwilligerswerk onder erkenningsnummer : GVV82647286
 
 ## Kennismaking
 
@@ -54,11 +53,11 @@ Voor kinderen van 4 tot 6 jaar, bieden we samen met de gemeentelijk sportdienst 
 
 _1.1. Statuut._
 
-Basketbalclub Zolder is een vereniging zonder winstgevend doel (vzw) naar Belgisch recht.
-Officiële naam: Koninklijke Basketbalclub Zolder vzw (KBBC Zolder vzw)
-_Maatschappelijke Zetel:_ Dekenstraat 22, 3550 Heusden-Zolder
-_Ondernemingsnummer:_ 416751491
-_Nummer van de vzw:_ 57577
+Basketbalclub Zolder is een vereniging zonder winstgevend doel (vzw) naar Belgisch recht.  
+Officiële naam: Koninklijke Basketbalclub Zolder vzw (KBBC Zolder vzw)  
+_Maatschappelijke Zetel:_ Pastoor van Mierlolaan 17/4, 3550 Heusden-Zolder  
+_Ondernemingsnummer:_ 416751491  
+_Nummer van de vzw:_ 57577  
 
 De vzw, bestaat uit de Algemene Vergadering en de Raad van Bestuur. De samenstelling, bevoegdheden en taken van beide organen is vastgelegd in de statuten van de vzw. De Raad van Bestuur is verantwoordelijk voor de dagdagelijkse organisatie, het reilen en zeilen van de club. Zij bestaat uit: een voorzitter, een secretaris, een penningmeester en gewone bestuursleden. De persoonsgegevens van de bestuursleden vind je op de site van KBBC ZOLDER . 
 
@@ -137,12 +136,10 @@ Lidgelden zijn slechts een klein deel van de inkomsten. Daarnaast doet onze club
 Als nevenactiviteiten worden jaarlijks georganiseerd:
 * Eetdag
 * Andere initiatieven zoals de catering voorzien op verschillende evenmenten:
-    * Ethias Arena (Schlagerfestival, I love the 90's, theatervoorstellingen, ...)
+    * Trixxo Arena (Schlagerfestival, I love the 90's, theatervoorstellingen, ...)
     * Pukkelpop
     * Rock Herk
     * Reggae Geel
-    * Koning Boudewijnstadion
-    * Veldritten
     * ...
 
 _2.2. Uitgaven._
