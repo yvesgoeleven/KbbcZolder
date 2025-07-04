@@ -1,57 +1,44 @@
 ---
 layout: content
-title: Trainingsuren 2024-2025
+title: Trainingsuren 2025-2026
 keywords: Basket, KBBC Zolder, Trainingsuren
 ---
 
-#### U8 en U10
-Sporthal Heusden      Maandag 17h30 tot 18h30  
-Sportzaal Zolder      Woensdag 17h30 tot 18h30  
-
-#### U12
-Sporthal Heusden      Dinsdag 17h tot 18h30  
-Sporthal Heusden      Donderdag 17h tot 18h30  
-
-#### U14
-Sportzaal  Zolder  		Dinsdag 17h30 tot 19h00  
-Sportzaal  Zolder  		Donderdag 17h00 tot 18h30  
-
-#### U16   
-Sportzaal  Zolder 		Maandag 18h30 tot 20h00  
-Sportzaal  Zolder 	  	Woensdag 18h30 tot 20h00  
-
-#### U18   
-Sportzaal  Zolder 		Maandag 20h00 tot 21h30  
-Sporthal  Heusden 	  	Woensdag 18h30 tot 20h00  
-
-#### U21
-Sportzaal Zolder 		Dinsdag 19h00 tot 20H30  
-Sportzaal Zolder 		Donderdag 18h30 tot 20h00  
-
-#### Dames
-Sportzaal Zolder 		Dinsdag 20h30 tot 22h00  
-Sportzaal Zolder 		Donderdag 20h00 tot 21h30  
-
-#### A ploeg 
-Sporthal Houthalen 		Dinsdag 21h00 tot 22h30  
-Sporthal Heusden  		Donderdag 20h30 tot 22h00  
-Sporthal Heusden 	    	Vrijdag  20H30 tot 22h00  
-
-#### B ploeg 
-Sporthal Houthalen 		Dinsdag 21h00 tot 22h30  
-Sporthal Heusden  		Donderdag 20h30 tot 22h00  
-Velodroom               Vrijdag 20h30 tot 22h00  
-
-#### C ploeg  
-Sporthal Bolderberg  	Dinsdag 20h00 tot 21h30  
-Velodroom               Vrijdag 20h30 tot 22h00  
-
-#### D ploeg  
-Sporthal Bolderberg  	Dinsdag 20h00 tot 21h30  
-Sporthal Bolderberg    	Vrijdag 20h30 tot 22h00  
-
-#### G basket   
-Sportzaal Zolder 		Woensdag 14h00 tot 15h30  
-Sportzaal Zolder 		Zondag 11h30 tot 13h00  
-SFC 				      Dinsdag en donderdag 19h30 tot 21h00  
-   
+#### U8-U10 (start op 01/09/2025)
+Maandag 17h30 tot 18h30: Sporthal Heusden Hal 1  
+Woensdag 17h30 tot 18h30: Sportzaal Zolder  
+  
+#### U12 (start op 01/09/2025)  
+Dinsdag 17h00 tot 18h30: Sporthal Heusden Hal 1  
+Donderdag 17h30 tot 19h00: Sporthal Heusden Hal 1  
+  
+#### U14 (start op 01/09/2025)  
+Dinsdag 17h30 tot 19h00: Sportzaal Zolder  
+Donderdag 17h00 tot 18h30: Sportzaal Zolder  
+  
+#### U16 A & B (start op 01/09/2025)  
+Maandag 19h30 tot 21h00: Sportzaal Zolder  
+Woensdag 18h30 tot 20h00: Sporthal Heusden Hal 1  
+  
+#### U21 (start op 01/09/2025)  
+Dinsdag 19h00 tot 20h30: Sportzaal Zolder  
+Donderdag 18h30 tot 20h00: Sportzaal Zolder  
+  
+#### Dames (start op 01/09/2025)  
+Dinsdag 20h30 tot 22h00: Sportzaal Zolder  
+  
+#### Senioren R en Heren D (start op 20/08/2025)  
+Dinsdag 20h00 tot 21h30: Sporthal Bolderberg  
+Vrijdag wedstrijden 20h30 tot 22h30: Sporthal Bolderberg  
+  
+#### Heren C (start op 1/8/2025)  
+Donderdag 20h30 tot 22h00: Sporthal Heusden Hal 1  
+Vrijdag 20h30tot 22h00: Sporthal Heusden HAL 2  
+  
+#### Heren A & B (start op 1/8/2025)  
+Dinsdag 21h00 tot 22h30: Sporthal Houthalen  
+Vrijdag 20h30 tot 22h00: Sporthal Heusden Hal 1  
+  
+#### G-basket (start op 1/9/2025)  
+Zondag 11h30 tot 13h00: Sportzaal Zolder  
+Dinsdag en donderdag 19h30 tot 21h00: Sporthal SFC  
