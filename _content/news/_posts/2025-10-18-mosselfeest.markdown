@@ -3,12 +3,12 @@ layout: post
 hidden: false
 title:  "Mosselfeest 2025"
 date:   2025-08-30 00:00:00
-excerpt: "Mosselfeest op zondag 18 oktober 2025."
+excerpt: "Mosselfeest op zaterdag 18 oktober 2025."
 permalink: /news/2025-10-18-mosselfeest/
 cover: /news/img/mosselfeest-2025.png
 ---
 
-Op zondag 18 oktober 2025 organizeren wij opnieuw ons mosselfeest. Iedereen is welkom om samen lekker te komen eten.
+Op zaterdag 18 oktober 2025 organizeren wij opnieuw ons mosselfeest. Iedereen is welkom om samen lekker te komen eten.
 
 Op het menu staan aan:
 - Mosselen natuur (1,2 kg) met frieten.
@@ -55,7 +55,7 @@ Heb je vragen over je bestelling, dan kan je steeds mailen naar [kalender@kbbczo
 	
     translations.language = "nl";
 
-	translations.CheckoutFormOrderConfirmationLegend.nl = "We verwelkomen je op zondag 18 oktober 2025 in 't Kuipershof, Guido Gezellelaan 17 in Heusden-Zolder tussen 11h30 tot 14h30 of van 17h00 tot 20h00.";
+	translations.CheckoutFormOrderConfirmationLegend.nl = "We verwelkomen je op zaterdag 18 oktober 2025 in 't Kuipershof, Guido Gezellelaan 17 in Heusden-Zolder tussen 11h30 tot 14h30 of van 17h00 tot 20h00.";
     translations.CheckoutFormChoosePaymentMethodCashMessage.nl = "Gelieve het te betalen bedrag te bezorgen aan de coach of aan een bestuurslid.";
     translations.CheckoutFormChoosePaymentMethodWireTransferMessage.nl = " Gelieve het geld over te schrijven op rekeningnummer BE35 0012 0866 2537 met vermelding voor en achternaam zoals op de bestelling";
     translations.CheckoutFormSubmitButton.nl = "Bestellen";
