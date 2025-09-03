@@ -8,12 +8,12 @@ permalink: /news/2025-10-18-mosselfeest/
 cover: /news/img/mosselfeest-2025.png
 ---
 
-Op zaterdag 18 oktober 2025 organizeren wij voor de eerste keer een mosselfeest. Iedereen is welkom om samen lekker te komen eten.
+Op zaterdag 18 oktober 2025 organizeren wij ons eerste mosselfeest. Iedereen is welkom om samen lekker te komen eten.
 
-Op het menu staan aan:
+Op het menu bieden we:
 - Mosselen natuur (1,2 kg) met frieten.
 - ½ kip natuur met frieten
-- ½ kip met champignonroomsaus met frieten
+- ½ kip met champignonroomsaus en frieten
 - 2 hamburgers met frieten
 - Vegetarische schotel met frieten
 
@@ -25,11 +25,12 @@ Als dessert kan je kiezen uit:
 
 We verwachten je in zaal 't Kuipershof, Guido Gezellelaan 17 in Heusden-Zolder, op 18 oktober van 11h30 tot 14h30 of van 17h00 tot 20h00.
 
-Bestellen kan je tot en met vrijdag 11 oktober:
+Bestellen kan je tot en met zaterdag 11 oktober:
 - via de bestelkaarten die je kan bekomen bij spelers, coaches of bestuursleden
+- via de QR-code (op de affiches, onze site,  Facebook en Instagram)
 - via het digitale bestelformulier hieronder.
 
-Het bedrag kan overgeschreven te worden op rekening nummer BE35 0012 0866 2537.
+De bestelling is pas geldig na betaling. De betaling kan overgeschreven worden op rekeningnummer BE35 0012 0866 2537 met vermelding van naam en nummer van de bestelling.
 
 Indien je online bestelt, neem dan de bevestiging van je bestelling mee op de dag van de eetdag, zo kan de administratie aan de inkom vlotter verlopen.
 
