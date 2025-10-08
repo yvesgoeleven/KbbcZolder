@@ -10,7 +10,7 @@ Woensdag 17h30 tot 18h30: Sportzaal Zolder
   
 #### U12 (start op 01/09/2025)  
 Dinsdag 17h00 tot 18h30: Sporthal Heusden Hal 1  
-Donderdag 17h30 tot 19h00: Sporthal Heusden Hal 1  
+Donderdag 17h00 tot 19h00: Sporthal Heusden Hal 1  
   
 #### U14 (start op 01/09/2025)  
 Dinsdag 17h30 tot 19h00: Sportzaal Zolder  
