@@ -28,7 +28,7 @@ In de voorjaar van 2026 zijn we als club actief op een aantal evenementen.
 |  Nachtwacht                       | 9/05/2026        | 10h30        |	TRIXXO Theater  | 15 Personen     |
 |  Nachtwacht                       | 9/05/2026        | 13h30        |	TRIXXO Theater  | 15 Personen     |
 |  Yannick Noben                    | 15/05/2026       | 20h00        |	TRIXXO Theater  | 15 Personen     |
-
+|  Aspe                             | 28/06/2026       | 15h00        |	TRIXXO Theater  | 15 Personen     |
 
 ## Zin om te helpen?
 
