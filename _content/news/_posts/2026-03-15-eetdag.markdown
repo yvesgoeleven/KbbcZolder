@@ -1,0 +1,73 @@
+---
+layout: post
+hidden: false
+title:  "Eetdag 2026"
+date:   2026-01-10 00:00:00
+excerpt: "Eetdag op zondag 15 Maart 2026."
+permalink: /news/2026-03-15-eetdag/
+---
+
+Op zondag 15 Maart 2026 zal onze jaarlijkse eetdag opnieuw plaats vinden. Iedereen is welkom om samen lekker te komen eten.
+
+Op het menu staan aan:
+- Biefstuk met frieten
+	- Saus naar keuze: natuur, champignonroomsaus, peperroomsaus of kruidenboter.
+	- Bakwijze naar keuze: blue, saignant, a point of bien cuit.
+- Halve kip met frieten
+- Stoofvlees met frieten
+- 2 lange hamburgers met frieten
+- Vidé met frieten
+- Kindervidé met frieten
+- Koude zalmschotel met frieten
+- Vegetarische schotel met frieten
+
+Als dessert kan je kiezen uit:
+- Chocolademousse
+- Rijstpap
+
+### Praktisch
+
+We verwachten je in de Jogem, Ringlaan 50, 3550 Heusden-Zolder, op 15 Maart van 11h30 tot 14h30 of van 17h00 tot 19h30.
+
+Bestellen kan je tot en met zondag 8 Maart:
+- via de bestelkaarten die je kan bekomen bij spelers, coaches of bestuursleden
+- via het digitale bestelformulier hieronder.
+
+Het bedrag dient overgeschreven te worden op rekening nummer BE35 0012 0866 2537.
+
+Indien je online bestelt, neem dan de bevestiging van je bestelling mee op de dag van de eetdag, zo kan de administratie aan de inkom vlotter verlopen.
+
+Heb je vragen over je bestelling, dan kan je steeds mailen naar [kalender@kbbczolder.be](mailto:kalender@kbbczolder.be).
+
+<style>
+    clubmgmt-checkout-form .table-row .table-cell:first-of-type
+    {
+        width: 30%;
+    }
+
+    payment-method
+    {
+        display: table-row-group;
+    }
+</style>
+
+<script type="module">
+
+ import { shell, translations } from "https://fundraising.clubmanagement.io/cdn/release/1.0.9/clubmanagement.sales.public.min.js";
+
+ (async function() {			
+	
+    translations.language = "nl";
+
+	translations.CheckoutFormOrderConfirmationLegend.nl = "We verwelkomen je op zondag 15 Maart 2026 in de Jogem tussen 11h30 tot 14h30 of van 17h00 tot 19h30.";
+    translations.CheckoutFormChoosePaymentMethodCashMessage.nl = "Gelieve het te betalen bedrag te bezorgen aan de coach of aan een bestuurslid.";
+    translations.CheckoutFormChoosePaymentMethodWireTransferMessage.nl = " Gelieve het geld over te schrijven op rekeningnummer BE35 0012 0866 2537 met vermelding voor en achternaam zoals op de bestelling";
+    translations.CheckoutFormSubmitButton.nl = "Bestellen";
+
+	await shell.activate();		
+	
+ })();
+	
+</script>
+
+<clubmgmt-checkout data-sale-id="b6534452-1a41-3d09-0f04-a620764582cf" data-organization-id="7a2f5a81-4d68-48d3-9bae-dedd7b25b003"></clubmgmt-checkout>
