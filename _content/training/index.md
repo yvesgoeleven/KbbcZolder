@@ -32,7 +32,7 @@ Dinsdag 21h00 tot 22h30: Sporthal Houthalen
 Vrijdag 20h30 tot 22h00: Sporthal Heusden Hal 1  
   
 #### Heren C (start op 27/08/2026)  
-Maandag 21h00 tot 22h30: Sporthal Zolder
+Maandag 21h00 tot 22h30: Sporthal Zolder  
 Donderdag 20h30tot 22h00: Sporthal Heusden HAL 1  
   
 #### Senioren R (start op 27/08/2026)  
