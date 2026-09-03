@@ -1,0 +1,70 @@
+---
+layout: post
+hidden: true
+title:  "Mosselfeest 2026"
+date:   2026-09-03 00:00:00
+excerpt: "Mosselfeest op zondag 18 oktober 2026."
+permalink: /news/2026-10-18-mosselfeest/
+cover: /news/img/mosselfeest-2026.png
+---
+
+Op zondag 18 oktober 2026 organizeren wij ons eerste mosselfeest. Iedereen is welkom om samen lekker te komen eten.
+
+Op het menu bieden we:
+- Mosselen natuur (1,2 kg) met frieten.
+- ½ kip natuur met frieten
+- ½ kip met champignonroomsaus en frieten
+- 2 kipfricandellen met frieten
+- Vegetarische schotel met frieten
+
+Als dessert kan je kiezen uit:
+- Chocolademousse
+- Rijstpap
+
+### Praktisch
+
+We verwachten je in zaal 't Kuipershof, Guido Gezellelaan 17 in Heusden-Zolder, op 18 oktober van 11h30 tot 14h30 of van 17h00 tot 20h00.
+
+Bestellen kan je tot en met maandag 12 oktober:
+- via de bestelkaarten die je kan bekomen bij spelers, coaches of bestuursleden
+- via de QR-code (op de affiches, onze site,  Facebook en Instagram)
+- via het digitale bestelformulier hieronder.
+
+De bestelling is pas geldig na betaling. De betaling kan overgeschreven worden op rekeningnummer BE35 0012 0866 2537 met vermelding van naam en nummer van de bestelling.
+
+Indien je online bestelt, neem dan de bevestiging van je bestelling mee op de dag van de eetdag, zo kan de administratie aan de inkom vlotter verlopen.
+
+Heb je vragen over je bestelling, dan kan je steeds mailen naar [kalender@kbbczolder.be](mailto:kalender@kbbczolder.be).
+
+<style>
+    clubmgmt-checkout-form .table-row .table-cell:first-of-type
+    {
+        width: 30%;
+    }
+
+    payment-method
+    {
+        display: table-row-group;
+    }
+</style>
+
+<script type="module">
+
+ import { shell, translations } from "https://fundraising.clubmanagement.io/cdn/release/1.0.12/clubmanagement.sales.public.min.js";
+
+ (async function() {			
+	
+    translations.language = "nl";
+
+	translations.CheckoutFormOrderConfirmationLegend.nl = "We verwelkomen je op zondag 18 oktober 2026 in 't Kuipershof, Guido Gezellelaan 17 in Heusden-Zolder tussen 11h30 tot 14h30 of van 17h00 tot 20h00.";
+    translations.CheckoutFormChoosePaymentMethodCashMessage.nl = "Gelieve het te betalen bedrag te bezorgen aan de coach of aan een bestuurslid.";
+    translations.CheckoutFormChoosePaymentMethodWireTransferMessage.nl = " Gelieve het geld over te schrijven op rekeningnummer BE35 0012 0866 2537 met vermelding voor en achternaam zoals op de bestelling";
+    translations.CheckoutFormSubmitButton.nl = "Bestellen";
+
+	await shell.activate();		
+	
+ })();
+	
+</script>
+
+<clubmgmt-checkout data-sale-id="b69bd5f3-35e3-c029-6c5e-03ce7ebed519" data-organization-id="7a2f5a81-4d68-48d3-9bae-dedd7b25b003"></clubmgmt-checkout>
