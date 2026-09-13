@@ -1,6 +1,6 @@
 ---
 layout: post
-hidden: true
+hidden: false
 title:  "Mosselfeest 2026"
 date:   2026-09-03 00:00:00
 excerpt: "Mosselfeest op zondag 18 oktober 2026."
@@ -8,13 +8,13 @@ permalink: /news/2026-10-18-mosselfeest/
 cover: /news/img/mosselfeest-2026.png
 ---
 
-Op zondag 18 oktober 2026 organizeren wij ons eerste mosselfeest. Iedereen is welkom om samen lekker te komen eten.
+Op zondag 18 oktober 2026 organizeren wij opnieuw een mosselfeest. Iedereen is welkom om samen lekker te komen eten.
 
 Op het menu bieden we:
 - Mosselen natuur (1,2 kg) met frieten.
 - ½ kip natuur met frieten
 - ½ kip met champignonroomsaus en frieten
-- 2 kipfricandellen met frieten
+- 2 kippenhamburgers met frieten
 - Vegetarische schotel met frieten
 
 Als dessert kan je kiezen uit:
